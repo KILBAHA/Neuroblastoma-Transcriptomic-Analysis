@@ -1,7 +1,7 @@
 ### Import modules ###
 
 ### Set wd ###
-setwd("~/Documents/Scripts")
+setwd("~/Documents/GitHub/BioinfGroupProject/Z Score Clustering")
 
 
 ### Read in z_scores and format ###
@@ -18,7 +18,11 @@ z_scores = z_scores[-1,]
 
 z_scores = as.data.frame(apply(z_scores, 2, as.numeric))
 
-row.names(z_scores) = inst_names
+name_fix = c()
+for(name in inst_names){name_fix = c(name_fix,substr(name,11,nchar(name)-3))}
+
+
+row.names(z_scores) = name_fix
 
 ### Add Prognosis Markers ###
 

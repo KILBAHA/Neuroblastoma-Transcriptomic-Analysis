@@ -1,0 +1,89 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.meta.CostSensitiveClassifier -cost-matrix "[0.0 1.0; 4.9 0.0]" -S 1 -W weka.classifiers.rules.JRip -- -F 3 -N 2.0 -O 2 -S 1
+Relation:     z_score_hist-weka.filters.unsupervised.attribute.Remove-R1-2-weka.filters.unsupervised.attribute.NumericToNominal-Rfirst-last
+Instances:    220
+Attributes:   639
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+CostSensitiveClassifier using reweighted training instances
+
+weka.classifiers.rules.JRip -F 3 -N 2.0 -O 2 -S 1
+
+Classifier Model
+JRIP rules:
+===========
+
+(GNAI1 = 2.2669) => Histology=Favorable (5.918199286302498/0.0)
+(IDE = -1.3346) => Histology=Favorable (5.918199286302498/0.0)
+(ZNF212 = 2.2994) => Histology=Favorable (5.918199286302498/0.0)
+(AARSD1 = -2.1962) => Histology=Favorable (2.959099643151249/0.0)
+(PAGE1 = 1.6423) => Histology=Favorable (5.918199286302498/0.0)
+(SNORA8 = -1.3609) => Histology=Favorable (5.918199286302498/0.0)
+(AARSD1 = 0.591) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 0.6904) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 1.0863) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 1.152) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 0.8172) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 1.3144) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 1.535) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 1.4169) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 1.4723) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 1.7394) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 0.3758) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 0.3757) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 2.0164) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 1.902) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 1.9487) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 1.8664) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 2.3835) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 2.348) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 2.2505) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 2.7149) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 2.9201) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 3.1082) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 3.3799) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 3.5245) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 3.7825) => Histology=Favorable (2.959099643151249/0.0)
+(AARSD1 = 4.9429) => Histology=Favorable (2.959099643151249/0.0)
+ => Histology=Unfavorable (110.51331320340392/0.0)
+
+Number of Rules : 33
+
+
+Cost Matrix
+ 0    1   
+ 4.9  0   
+
+
+Time taken to build model: 1.57 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         135               61.3636 %
+Incorrectly Classified Instances        85               38.6364 %
+Kappa statistic                         -0.052 
+Mean absolute error                      0.2781
+Root mean squared error                  0.4507
+Relative absolute error                 98.5961 %
+Root relative squared error            120.4525 %
+Total Number of Instances              220     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.689    0.757    0.818      0.689    0.748      -0.056   0.466     0.822     Unfavorable
+                 0.243    0.311    0.136      0.243    0.175      -0.056   0.466     0.160     Favorable
+Weighted Avg.    0.614    0.682    0.704      0.614    0.651      -0.056   0.466     0.711     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 126  57 |   a = Unfavorable
+  28   9 |   b = Favorable
+
+
