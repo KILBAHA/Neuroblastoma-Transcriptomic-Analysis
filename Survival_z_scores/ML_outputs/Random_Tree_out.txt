@@ -1,0 +1,136 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     z_score_status-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    247
+Attributes:   23370
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+
+RandomTree
+==========
+
+RAB3B < 0.12
+|   PRSS42 < -0.39
+|   |   RIMS4 < -0.55
+|   |   |   CLEC12B < 0.68
+|   |   |   |   OR2T29 < 0.4
+|   |   |   |   |   RRAGA < 0.61
+|   |   |   |   |   |   VSIG10 < 1.94
+|   |   |   |   |   |   |   TATDN2 < 0.11
+|   |   |   |   |   |   |   |   MINPP1 < 0.19
+|   |   |   |   |   |   |   |   |   NLRP2 < 0.81
+|   |   |   |   |   |   |   |   |   |   HIST1H4H < -0.98
+|   |   |   |   |   |   |   |   |   |   |   LYRM7 < -0.88
+|   |   |   |   |   |   |   |   |   |   |   |   OCLM < 0.92
+|   |   |   |   |   |   |   |   |   |   |   |   |   CD300LG < -1.04
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   OSTBETA < -1.57 : 1:DECEASED (2/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   OSTBETA >= -1.57 : 0:LIVING (2/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   CD300LG >= -1.04 : 1:DECEASED (5/0)
+|   |   |   |   |   |   |   |   |   |   |   |   OCLM >= 0.92 : 0:LIVING (2/0)
+|   |   |   |   |   |   |   |   |   |   |   LYRM7 >= -0.88 : 0:LIVING (5/0)
+|   |   |   |   |   |   |   |   |   |   HIST1H4H >= -0.98 : 0:LIVING (10/0)
+|   |   |   |   |   |   |   |   |   NLRP2 >= 0.81 : 1:DECEASED (3/0)
+|   |   |   |   |   |   |   |   MINPP1 >= 0.19
+|   |   |   |   |   |   |   |   |   CLMN < -1.78
+|   |   |   |   |   |   |   |   |   |   ATF7IP < -0.68 : 1:DECEASED (1/0)
+|   |   |   |   |   |   |   |   |   |   ATF7IP >= -0.68 : 0:LIVING (2/0)
+|   |   |   |   |   |   |   |   |   CLMN >= -1.78 : 1:DECEASED (6/0)
+|   |   |   |   |   |   |   TATDN2 >= 0.11
+|   |   |   |   |   |   |   |   ENPP6 < 0.55
+|   |   |   |   |   |   |   |   |   LOC100506076 < 0.98 : 1:DECEASED (14/0)
+|   |   |   |   |   |   |   |   |   LOC100506076 >= 0.98 : 0:LIVING (1/0)
+|   |   |   |   |   |   |   |   ENPP6 >= 0.55 : 0:LIVING (1/0)
+|   |   |   |   |   |   VSIG10 >= 1.94 : 0:LIVING (5/0)
+|   |   |   |   |   RRAGA >= 0.61 : 0:LIVING (6/0)
+|   |   |   |   OR2T29 >= 0.4 : 1:DECEASED (7/0)
+|   |   |   CLEC12B >= 0.68 : 0:LIVING (8/0)
+|   |   RIMS4 >= -0.55
+|   |   |   GALNT8 < 0.56
+|   |   |   |   LOC100129069 < -1.53
+|   |   |   |   |   NRG1 < -0.03
+|   |   |   |   |   |   C12orf28 < 0.69 : 1:DECEASED (12/0)
+|   |   |   |   |   |   C12orf28 >= 0.69 : 0:LIVING (1/0)
+|   |   |   |   |   NRG1 >= -0.03
+|   |   |   |   |   |   CDCA7 < 0.12 : 0:LIVING (3/0)
+|   |   |   |   |   |   CDCA7 >= 0.12 : 1:DECEASED (1/0)
+|   |   |   |   LOC100129069 >= -1.53 : 1:DECEASED (21/0)
+|   |   |   GALNT8 >= 0.56
+|   |   |   |   PRKX < -0.87
+|   |   |   |   |   C21orf118 < -0.51 : 1:DECEASED (3/0)
+|   |   |   |   |   C21orf118 >= -0.51 : 0:LIVING (2/0)
+|   |   |   |   PRKX >= -0.87 : 0:LIVING (3/0)
+|   PRSS42 >= -0.39
+|   |   EP400NL < -1.75
+|   |   |   TMEM231 < -0.91
+|   |   |   |   SLC35B1 < 0.27
+|   |   |   |   |   SNORA29 < 0.26
+|   |   |   |   |   |   DFNB31 < -0.64 : 1:DECEASED (11/0)
+|   |   |   |   |   |   DFNB31 >= -0.64
+|   |   |   |   |   |   |   MIR1184-1 < -1.5
+|   |   |   |   |   |   |   |   LOC100506728 < -1.58 : 0:LIVING (3/0)
+|   |   |   |   |   |   |   |   LOC100506728 >= -1.58
+|   |   |   |   |   |   |   |   |   C9orf152 < -0.06 : 1:DECEASED (2/0)
+|   |   |   |   |   |   |   |   |   C9orf152 >= -0.06 : 0:LIVING (1/0)
+|   |   |   |   |   |   |   MIR1184-1 >= -1.5
+|   |   |   |   |   |   |   |   LOC100130857 < 1.8 : 1:DECEASED (5/0)
+|   |   |   |   |   |   |   |   LOC100130857 >= 1.8 : 0:LIVING (1/0)
+|   |   |   |   |   SNORA29 >= 0.26 : 0:LIVING (3/0)
+|   |   |   |   SLC35B1 >= 0.27 : 0:LIVING (3/0)
+|   |   |   TMEM231 >= -0.91 : 1:DECEASED (8/0)
+|   |   EP400NL >= -1.75 : 1:DECEASED (21/0)
+RAB3B >= 0.12
+|   B3GALT1 < 0.07
+|   |   CYP2A6 < -0.09
+|   |   |   CAPN8 < -0.85
+|   |   |   |   NGLY1 < 0.83
+|   |   |   |   |   TMEM120A < 1.44 : 0:LIVING (11/0)
+|   |   |   |   |   TMEM120A >= 1.44 : 1:DECEASED (2/0)
+|   |   |   |   NGLY1 >= 0.83 : 1:DECEASED (3/0)
+|   |   |   CAPN8 >= -0.85 : 1:DECEASED (8/0)
+|   |   CYP2A6 >= -0.09
+|   |   |   ROCK2 < -0.28 : 0:LIVING (6/0)
+|   |   |   ROCK2 >= -0.28
+|   |   |   |   AP1M1 < -0.25 : 1:DECEASED (1/0)
+|   |   |   |   AP1M1 >= -0.25 : 0:LIVING (1/0)
+|   B3GALT1 >= 0.07
+|   |   LOC100507012 < 0.82
+|   |   |   LOC401490 < 0.64 : 0:LIVING (26/0)
+|   |   |   LOC401490 >= 0.64
+|   |   |   |   ACOT1 < -0.37 : 1:DECEASED (1/0)
+|   |   |   |   ACOT1 >= -0.37 : 0:LIVING (1/0)
+|   |   LOC100507012 >= 0.82 : 1:DECEASED (3/0)
+
+Size of the tree : 91
+
+Time taken to build model: 0.05 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         135               54.6559 %
+Incorrectly Classified Instances       112               45.3441 %
+Kappa statistic                          0.0907
+Mean absolute error                      0.4534
+Root mean squared error                  0.6734
+Relative absolute error                 92.3175 %
+Root relative squared error            135.8872 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.550    0.458    0.611      0.550    0.579      0.091    0.546     0.591     1:DECEASED
+                 0.542    0.450    0.479      0.542    0.509      0.091    0.546     0.458     0:LIVING
+Weighted Avg.    0.547    0.455    0.554      0.547    0.549      0.091    0.546     0.534     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 77 63 |  a = 1:DECEASED
+ 49 58 |  b = 0:LIVING
+
+

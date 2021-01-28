@@ -1,0 +1,45 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     z_score_status-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    247
+Attributes:   23370
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 3.53 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         162               65.587  %
+Incorrectly Classified Instances        85               34.413  %
+Kappa statistic                          0.261 
+Mean absolute error                      0.4474
+Root mean squared error                  0.466 
+Relative absolute error                 91.0811 %
+Root relative squared error             94.037  %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.864    0.617    0.647      0.864    0.740      0.286    0.685     0.709     1:DECEASED
+                 0.383    0.136    0.683      0.383    0.491      0.286    0.685     0.669     0:LIVING
+Weighted Avg.    0.656    0.408    0.663      0.656    0.632      0.286    0.685     0.692     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 121  19 |   a = 1:DECEASED
+  66  41 |   b = 0:LIVING
+
+

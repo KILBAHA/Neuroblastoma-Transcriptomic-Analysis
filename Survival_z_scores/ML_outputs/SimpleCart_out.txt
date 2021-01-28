@@ -1,0 +1,50 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.SimpleCart -M 2.0 -N 5 -C 1.0 -S 1
+Relation:     z_score_status-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    247
+Attributes:   23370
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+CART Decision Tree
+
+PGM2L1 < 0.09040000000000001
+|  C3orf57 < 1.4783: 1:DECEASED(129.0/50.0)
+|  C3orf57 >= 1.4783: 0:LIVING(10.0/0.0)
+PGM2L1 >= 0.09040000000000001: 0:LIVING(47.0/11.0)
+
+Number of Leaf Nodes: 3
+
+Size of the Tree: 5
+
+Time taken to build model: 17.01 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         153               61.9433 %
+Incorrectly Classified Instances        94               38.0567 %
+Kappa statistic                          0.1741
+Mean absolute error                      0.441 
+Root mean squared error                  0.4986
+Relative absolute error                 89.7758 %
+Root relative squared error            100.6226 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.864    0.701    0.617      0.864    0.720      0.200    0.594     0.624     1:DECEASED
+                 0.299    0.136    0.627      0.299    0.405      0.200    0.594     0.548     0:LIVING
+Weighted Avg.    0.619    0.456    0.622      0.619    0.584      0.200    0.594     0.591     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 121  19 |   a = 1:DECEASED
+  75  32 |   b = 0:LIVING
+
+

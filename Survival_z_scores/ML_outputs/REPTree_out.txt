@@ -1,0 +1,52 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.REPTree -M 2 -V 0.001 -N 3 -S 1 -L -1 -I 0.0
+Relation:     z_score_status-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    247
+Attributes:   23370
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+
+REPTree
+============
+
+ZNF608 < -0.5
+|   DAPL1 < -1.1
+|   |   UBA3 < 0.84 : 1:DECEASED (51/0) [25/5]
+|   |   UBA3 >= 0.84 : 0:LIVING (6/1) [3/1]
+|   DAPL1 >= -1.1 : 1:DECEASED (46/22) [19/8]
+ZNF608 >= -0.5 : 0:LIVING (61/17) [36/15]
+
+Size of the tree : 7
+
+Time taken to build model: 1.48 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         145               58.7045 %
+Incorrectly Classified Instances       102               41.2955 %
+Kappa statistic                          0.1203
+Mean absolute error                      0.4646
+Root mean squared error                  0.5074
+Relative absolute error                 94.5865 %
+Root relative squared error            102.4025 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.779    0.664    0.606      0.779    0.681      0.128    0.566     0.623     1:DECEASED
+                 0.336    0.221    0.537      0.336    0.414      0.128    0.566     0.492     0:LIVING
+Weighted Avg.    0.587    0.472    0.576      0.587    0.565      0.128    0.566     0.566     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 109  31 |   a = 1:DECEASED
+  71  36 |   b = 0:LIVING
+
+

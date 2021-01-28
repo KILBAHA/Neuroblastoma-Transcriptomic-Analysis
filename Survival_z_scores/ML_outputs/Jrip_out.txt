@@ -1,0 +1,53 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.rules.JRip -F 3 -N 2.0 -O 2 -S 1
+Relation:     z_score_status-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    247
+Attributes:   23370
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+(ZNF608 >= -0.4966) and (FAM190A <= -0.8321) and (C9orf71 <= 0.2496) => OS_STATUS=0:LIVING (54.0/8.0)
+(GOLGA2B <= -1.5287) and (ARFGAP1 <= -1.4428) and (DBNDD1 <= -1.5963) => OS_STATUS=0:LIVING (26.0/4.0)
+(LOC728573 >= -0.3228) and (LOC100508410 >= -0.4853) and (CCDC40 <= 0.3572) => OS_STATUS=0:LIVING (24.0/6.0)
+(PMVK >= 0.1478) and (ZNF720 >= -0.174) => OS_STATUS=0:LIVING (8.0/0.0)
+(LOC157860 >= -0.2416) and (LYRM2 >= -1.4056) => OS_STATUS=0:LIVING (15.0/7.0)
+(C11orf45 >= 0.9213) and (AHNAK2 <= -1.1743) => OS_STATUS=0:LIVING (4.0/0.0)
+ => OS_STATUS=1:DECEASED (116.0/1.0)
+
+Number of Rules : 7
+
+
+Time taken to build model: 6.75 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         146               59.1093 %
+Incorrectly Classified Instances       101               40.8907 %
+Kappa statistic                          0.1737
+Mean absolute error                      0.4194
+Root mean squared error                  0.5677
+Relative absolute error                 85.3917 %
+Root relative squared error            114.5615 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.614    0.439    0.647      0.614    0.630      0.174    0.598     0.621     1:DECEASED
+                 0.561    0.386    0.526      0.561    0.543      0.174    0.598     0.565     0:LIVING
+Weighted Avg.    0.591    0.416    0.595      0.591    0.592      0.174    0.598     0.597     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 86 54 |  a = 1:DECEASED
+ 47 60 |  b = 0:LIVING
+
+
