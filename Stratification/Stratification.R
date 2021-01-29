@@ -38,10 +38,20 @@ patient = merge.data.frame(patient,z_scores, by="row.names")
 five_yr = 365*5
 
 surv_g_5 = patient[patient$OS_DAYS > five_yr,]
+
+surv_g_5 = surv_g_5[(is.na(surv_g_5$OS_STATUS)),]
+
 surv_u_5 = patient[!(patient$OS_DAYS) > five_yr,]
 
 EFS_g_5 = patient[patient$EFS_TIME > five_yr,]
 EFS_l_5 = patient[!(patient$EFS_TIME > five_yr),]
+
+subs = c(surv_g_5,surv_u_5,EFS_g_5,EFS_l_5)
+
+
+
+
+
 
 ### Write to files ###
 
