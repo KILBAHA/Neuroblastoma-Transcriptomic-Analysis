@@ -1,0 +1,101 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     deg_dimred-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    247
+Attributes:   57
+              ADCY1
+              AHI1
+              ANKFN1
+              ARHGAP23
+              ARHGEF10L
+              ATXN1
+              BBS9
+              C17orf107
+              C7orf41
+              CLASP1
+              CLTCL1
+              CSRNP3
+              DFNA5
+              DOPEY1
+              DYNC1I2
+              EIF2C4
+              EPB41L4A
+              FAM131B
+              GNAI1
+              GPR85
+              HECW1
+              HMGCLL1
+              INPP1
+              JAZF1
+              JUP
+              KCNK10
+              LOC100131199
+              LOC100133616
+              LOC100509093
+              LOC283140
+              LRRC28
+              MARCKS
+              MLL5
+              MTSS1
+              NCAM1
+              NXPH1
+              ODZ3
+              PAFAH1B1
+              PGM2L1
+              PLCL1
+              PLXNC1
+              PPP3CB
+              PSD2
+              SCN2A
+              SCN3A
+              SGSM1
+              SOCS7
+              SYNRG
+              TIA1
+              TOM1L2
+              TRIM2
+              TRIM36
+              TRNAU1AP
+              UBE2D4
+              WSB1
+              ZNF608
+              STATUS
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.17 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         173               70.0405 %
+Incorrectly Classified Instances        74               29.9595 %
+Kappa statistic                          0.379 
+Mean absolute error                      0.3901
+Root mean squared error                  0.4399
+Relative absolute error                 79.426  %
+Root relative squared error             88.768  %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.793    0.421    0.712      0.793    0.750      0.382    0.755     0.782     1:DECEASED
+                 0.579    0.207    0.681      0.579    0.626      0.382    0.755     0.741     0:LIVING
+Weighted Avg.    0.700    0.328    0.698      0.700    0.696      0.382    0.755     0.765     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 111  29 |   a = 1:DECEASED
+  45  62 |   b = 0:LIVING
+
+

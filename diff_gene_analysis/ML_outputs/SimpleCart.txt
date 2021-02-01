@@ -1,0 +1,126 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.SimpleCart -M 2.0 -N 5 -C 1.0 -S 1
+Relation:     deg_dimred-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    247
+Attributes:   57
+              ADCY1
+              AHI1
+              ANKFN1
+              ARHGAP23
+              ARHGEF10L
+              ATXN1
+              BBS9
+              C17orf107
+              C7orf41
+              CLASP1
+              CLTCL1
+              CSRNP3
+              DFNA5
+              DOPEY1
+              DYNC1I2
+              EIF2C4
+              EPB41L4A
+              FAM131B
+              GNAI1
+              GPR85
+              HECW1
+              HMGCLL1
+              INPP1
+              JAZF1
+              JUP
+              KCNK10
+              LOC100131199
+              LOC100133616
+              LOC100509093
+              LOC283140
+              LRRC28
+              MARCKS
+              MLL5
+              MTSS1
+              NCAM1
+              NXPH1
+              ODZ3
+              PAFAH1B1
+              PGM2L1
+              PLCL1
+              PLXNC1
+              PPP3CB
+              PSD2
+              SCN2A
+              SCN3A
+              SGSM1
+              SOCS7
+              SYNRG
+              TIA1
+              TOM1L2
+              TRIM2
+              TRIM36
+              TRNAU1AP
+              UBE2D4
+              WSB1
+              ZNF608
+              STATUS
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+CART Decision Tree
+
+PGM2L1 < 0.09040000000000001
+|  TIA1 < -0.6813
+|  |  KCNK10 < 0.30505000000000004
+|  |  |  JUP < 0.7106: 1:DECEASED(89.0/15.0)
+|  |  |  JUP >= 0.7106: 0:LIVING(4.0/1.0)
+|  |  KCNK10 >= 0.30505000000000004
+|  |  |  JAZF1 < -1.11225: 1:DECEASED(5.0/2.0)
+|  |  |  JAZF1 >= -1.11225: 0:LIVING(6.0/1.0)
+|  TIA1 >= -0.6813
+|  |  MARCKS < -1.75155: 1:DECEASED(16.0/5.0)
+|  |  MARCKS >= -1.75155
+|  |  |  ATXN1 < 1.0572
+|  |  |  |  JAZF1 < -0.8923
+|  |  |  |  |  CLASP1 < -1.50155: 0:LIVING(5.0/0.0)
+|  |  |  |  |  CLASP1 >= -1.50155
+|  |  |  |  |  |  SCN3A < -0.016: 1:DECEASED(10.0/2.0)
+|  |  |  |  |  |  SCN3A >= -0.016: 0:LIVING(3.0/0.0)
+|  |  |  |  JAZF1 >= -0.8923: 0:LIVING(18.0/2.0)
+|  |  |  ATXN1 >= 1.0572: 1:DECEASED(5.0/0.0)
+PGM2L1 >= 0.09040000000000001
+|  ARHGEF10L < -0.7904
+|  |  BBS9 < 0.054849999999999996: 1:DECEASED(9.0/3.0)
+|  |  BBS9 >= 0.054849999999999996: 0:LIVING(6.0/1.0)
+|  ARHGEF10L >= -0.7904: 0:LIVING(38.0/1.0)
+
+Number of Leaf Nodes: 13
+
+Size of the Tree: 25
+
+Time taken to build model: 0.22 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         151               61.1336 %
+Incorrectly Classified Instances        96               38.8664 %
+Kappa statistic                          0.1852
+Mean absolute error                      0.4214
+Root mean squared error                  0.5261
+Relative absolute error                 85.7869 %
+Root relative squared error            106.1749 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.750    0.570    0.633      0.750    0.686      0.190    0.613     0.634     1:DECEASED
+                 0.430    0.250    0.568      0.430    0.489      0.190    0.613     0.567     0:LIVING
+Weighted Avg.    0.611    0.431    0.605      0.611    0.601      0.190    0.613     0.605     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 105  35 |   a = 1:DECEASED
+  61  46 |   b = 0:LIVING
+
+
