@@ -38,24 +38,39 @@ patient = merge.data.frame(patient,z_scores, by="row.names")
 five_yr = 365*5
 
 surv_g_5 = patient[patient$OS_DAYS > five_yr,]
-
-surv_g_5 = surv_g_5[(is.na(surv_g_5$OS_STATUS)),]
+surv_g_5 = surv_g_5[!(is.na(surv_g_5$OS_STATUS)),]
 
 surv_u_5 = patient[!(patient$OS_DAYS) > five_yr,]
+surv_u_5 = surv_u_5[!(is.na(surv_u_5$OS_STATUS)),]
+
 
 EFS_g_5 = patient[patient$EFS_TIME > five_yr,]
+EFS_g_5 = EFS_g_5[!(is.na(EFS_g_5$OS_STATUS)),]
+
 EFS_l_5 = patient[!(patient$EFS_TIME > five_yr),]
+EFS_l_5 = EFS_l_5[!(is.na(EFS_l_5$OS_STATUS)),]
 
-subs = c(surv_g_5,surv_u_5,EFS_g_5,EFS_l_5)
+c_dist = function(df){
+  st = df[,"OS_STATUS"]
+  dec = sum(st == "1:DECEASED")
+  liv = length(st) - dec
+  return (data.frame(living = liv, deceased = dec))
+}
 
-
-
-
-
+dists = rbind(c_dist(surv_g_5),c_dist(surv_u_5),c_dist(EFS_g_5),c_dist(EFS_l_5))
+rownames(dists) = c("OS > 5", "OS <= 5", "EFS > 5", "EFS <= 5")
 
 ### Write to files ###
 
 write.csv(surv_g_5, file="overall_survival_g5.csv")
 write.csv(surv_u_5, file="overall_survival_l5.csv")
 
-write.csv(EFS_g_5, file="overall_survival_")
+write.csv(EFS_g_5, file="event_free_g5.csv")
+write.csv(EFS_l_5, file="event_free_l5.csv")
+
+
+
+
+
+
+
