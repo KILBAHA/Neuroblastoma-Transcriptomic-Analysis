@@ -1,0 +1,76 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.SimpleCart -M 2.0 -N 5 -C 1.0 -S 1
+Relation:     dir_class-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    247
+Attributes:   11
+              NTRK1
+              MYCN
+              MDM2
+              ALK
+              CHD5
+              CADM1
+              CD44
+              KIT
+              NTRK2
+              DLK1
+              STATUS
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+CART Decision Tree
+
+NTRK1 < -0.3855
+|  MDM2 < -0.81665: 1:DECEASED(71.0/22.0)
+|  MDM2 >= -0.81665
+|  |  ALK < -0.34275
+|  |  |  NTRK1 < -1.0819
+|  |  |  |  MDM2 < 0.20800000000000002: 0:LIVING(18.0/3.0)
+|  |  |  |  MDM2 >= 0.20800000000000002
+|  |  |  |  |  CD44 < -1.5296: 0:LIVING(7.0/3.0)
+|  |  |  |  |  CD44 >= -1.5296: 1:DECEASED(6.0/0.0)
+|  |  |  NTRK1 >= -1.0819: 1:DECEASED(6.0/0.0)
+|  |  ALK >= -0.34275: 1:DECEASED(24.0/7.0)
+NTRK1 >= -0.3855
+|  CADM1 < 0.08810000000000001
+|  |  NTRK1 < 1.18515
+|  |  |  MDM2 < -0.7906500000000001
+|  |  |  |  ALK < -1.4019: 1:DECEASED(14.0/5.0)
+|  |  |  |  ALK >= -1.4019: 0:LIVING(8.0/2.0)
+|  |  |  MDM2 >= -0.7906500000000001: 0:LIVING(10.0/2.0)
+|  |  NTRK1 >= 1.18515: 1:DECEASED(5.0/0.0)
+|  CADM1 >= 0.08810000000000001: 0:LIVING(30.0/4.0)
+
+Number of Leaf Nodes: 11
+
+Size of the Tree: 21
+
+Time taken to build model: 0.03 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         144               58.2996 %
+Incorrectly Classified Instances       103               41.7004 %
+Kappa statistic                          0.1248
+Mean absolute error                      0.4455
+Root mean squared error                  0.5228
+Relative absolute error                 90.7033 %
+Root relative squared error            105.5063 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.729    0.607    0.611      0.729    0.664      0.128    0.583     0.649     1:DECEASED
+                 0.393    0.271    0.525      0.393    0.449      0.128    0.583     0.525     0:LIVING
+Weighted Avg.    0.583    0.462    0.574      0.583    0.571      0.128    0.583     0.595     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 102  38 |   a = 1:DECEASED
+  65  42 |   b = 0:LIVING
+
+

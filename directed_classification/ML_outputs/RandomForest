@@ -1,0 +1,55 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     dir_class-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    247
+Attributes:   11
+              NTRK1
+              MYCN
+              MDM2
+              ALK
+              CHD5
+              CADM1
+              CD44
+              KIT
+              NTRK2
+              DLK1
+              STATUS
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.07 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         159               64.3725 %
+Incorrectly Classified Instances        88               35.6275 %
+Kappa statistic                          0.2615
+Mean absolute error                      0.4123
+Root mean squared error                  0.4695
+Relative absolute error                 83.943  %
+Root relative squared error             94.7503 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.743    0.486    0.667      0.743    0.703      0.264    0.686     0.700     1:DECEASED
+                 0.514    0.257    0.604      0.514    0.556      0.264    0.686     0.670     0:LIVING
+Weighted Avg.    0.644    0.387    0.640      0.644    0.639      0.264    0.686     0.687     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 104  36 |   a = 1:DECEASED
+  52  55 |   b = 0:LIVING
+
+

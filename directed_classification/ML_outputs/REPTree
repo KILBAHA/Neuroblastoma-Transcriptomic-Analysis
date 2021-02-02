@@ -1,0 +1,80 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.REPTree -M 2 -V 0.001 -N 3 -S 1 -L -1 -I 0.0
+Relation:     dir_class-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    247
+Attributes:   11
+              NTRK1
+              MYCN
+              MDM2
+              ALK
+              CHD5
+              CADM1
+              CD44
+              KIT
+              NTRK2
+              DLK1
+              STATUS
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+
+REPTree
+============
+
+CADM1 < 0.09
+|   MYCN < -1.37
+|   |   DLK1 < 1.49
+|   |   |   DLK1 < -1.91
+|   |   |   |   CADM1 < -0.18
+|   |   |   |   |   ALK < -0.13
+|   |   |   |   |   |   KIT < -0.51
+|   |   |   |   |   |   |   CADM1 < -0.75
+|   |   |   |   |   |   |   |   NTRK1 < -0.87 : 1:DECEASED (18/5) [11/3]
+|   |   |   |   |   |   |   |   NTRK1 >= -0.87 : 0:LIVING (16/7) [15/7]
+|   |   |   |   |   |   |   CADM1 >= -0.75 : 1:DECEASED (3/0) [2/2]
+|   |   |   |   |   |   KIT >= -0.51 : 1:DECEASED (4/0) [1/1]
+|   |   |   |   |   ALK >= -0.13 : 1:DECEASED (7/0) [4/1]
+|   |   |   |   CADM1 >= -0.18 : 0:LIVING (2/0) [0/0]
+|   |   |   DLK1 >= -1.91 : 1:DECEASED (30/4) [12/3]
+|   |   DLK1 >= 1.49 : 0:LIVING (2/0) [1/0]
+|   MYCN >= -1.37
+|   |   CHD5 < -1.16
+|   |   |   MYCN < -0.54 : 0:LIVING (8/0) [1/0]
+|   |   |   MYCN >= -0.54 : 1:DECEASED (32/14) [19/5]
+|   |   CHD5 >= -1.16 : 1:DECEASED (6/0) [0/0]
+CADM1 >= 0.09
+|   NTRK1 < 0.56 : 1:DECEASED (18/9) [10/4]
+|   NTRK1 >= 0.56 : 0:LIVING (18/0) [7/0]
+
+Size of the tree : 25
+
+Time taken to build model: 0 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         150               60.7287 %
+Incorrectly Classified Instances        97               39.2713 %
+Kappa statistic                          0.172 
+Mean absolute error                      0.4518
+Root mean squared error                  0.5198
+Relative absolute error                 91.9782 %
+Root relative squared error            104.904  %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.764    0.598    0.626      0.764    0.688      0.178    0.588     0.630     1:DECEASED
+                 0.402    0.236    0.566      0.402    0.470      0.178    0.588     0.514     0:LIVING
+Weighted Avg.    0.607    0.441    0.600      0.607    0.594      0.178    0.588     0.580     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 107  33 |   a = 1:DECEASED
+  64  43 |   b = 0:LIVING
+
+

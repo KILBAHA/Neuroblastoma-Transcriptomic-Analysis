@@ -1,0 +1,66 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     dir_class-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    247
+Attributes:   11
+              NTRK1
+              MYCN
+              MDM2
+              ALK
+              CHD5
+              CADM1
+              CD44
+              KIT
+              NTRK2
+              DLK1
+              STATUS
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+CHD5 <= 0.7847
+|   NTRK1 <= -0.2958: 1:DECEASED (164.0/51.0)
+|   NTRK1 > -0.2958: 0:LIVING (51.0/22.0)
+CHD5 > 0.7847
+|   KIT <= -0.4657: 0:LIVING (27.0/2.0)
+|   KIT > -0.4657
+|   |   MDM2 <= -1.3641: 1:DECEASED (3.0)
+|   |   MDM2 > -1.3641: 0:LIVING (2.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	9
+
+
+Time taken to build model: 0 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         152               61.5385 %
+Incorrectly Classified Instances        95               38.4615 %
+Kappa statistic                          0.1816
+Mean absolute error                      0.432 
+Root mean squared error                  0.5184
+Relative absolute error                 87.9525 %
+Root relative squared error            104.6048 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.800    0.626    0.626      0.800    0.702      0.193    0.587     0.629     1:DECEASED
+                 0.374    0.200    0.588      0.374    0.457      0.193    0.587     0.522     0:LIVING
+Weighted Avg.    0.615    0.442    0.609      0.615    0.596      0.193    0.587     0.583     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 112  28 |   a = 1:DECEASED
+  67  40 |   b = 0:LIVING
+
+
