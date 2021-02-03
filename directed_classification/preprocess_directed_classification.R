@@ -35,3 +35,27 @@ colnames(status) = "STATUS"
 rownames(status) = p_nam_fix
 
 mg = merge.data.frame(status,z_scores, by="row.names")
+
+
+check_attrib = function(df, attrib){ #Script to determine if an attribute is in the dataframe
+  ret = attrib %in% colnames(df)
+  return(ret)
+}
+
+
+attributes = c("NTRK1", "MYCN", "MDM2", "ALK", "CHD5", "CADM1",
+               "CD44", "CD-133", "KIT", "NTRK2", "DLK1","STATUS")
+
+
+attributes[!check_attrib(mg, attributes)]
+
+#write.csv(colnames(mg), "gene_list.csv")
+
+select_attributes = attributes[check_attrib(mg,attributes)]
+
+dr = mg[mg$STATUS!="",select_attributes]
+#unique(dr$STATUS)
+
+write.csv(dr, "dir_class.csv")
+
+
