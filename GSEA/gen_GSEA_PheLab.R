@@ -54,7 +54,12 @@ nam_sg = unique(mg$SURVIVAL)[2]
 
 cat(num_samp, " ",num_groups, " ", "1", "\n", "#"," ",nam_fg, " ", nam_sg, "\n", file="PheLab.cls")
 
-cat(mg$SURVIVAL, file = "PheLab.cls", sep = "\t", append = T)
+cat(mg$SURVIVAL, file = "PheLab.cls", sep = " ", append = T)
 
+##### Create file listing deceased/survived (useful if PheLab output isn't being picked up) ###
 
+surv = mg[mg$SURVIVAL == "0:LIVING",]
+dec = mg[mg$SURVIVAL == "1:DECEASED",]
 
+write.table(surv[,1], file="survived.txt", sep = "\n", row.names = F, col.names = F, quote = F)
+write.table(dec[,1],file="deceased.txt",sep = "\n", row.names = F, col.names = F, quote = F)
