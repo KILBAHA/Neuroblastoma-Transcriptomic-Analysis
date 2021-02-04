@@ -1,0 +1,28 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ATP5F1E	ATP synthase F1 subunit epsilon [Source:HGNC Symbol;Acc:HGNC:838]	5739	0.015260729007422924	-0.25855583	No	
+row_1	ADK	adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257]	6966	0.009633933193981647	-0.30349228	No	
+row_2	CMPK1	cytidine/uridine monophosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:18170]	7367	0.008044136688113213	-0.31023532	No	
+row_3	AK2	adenylate kinase 2 [Source:HGNC Symbol;Acc:HGNC:362]	7449	0.007766948081552982	-0.30168402	No	
+row_4	ATP5MF	ATP synthase membrane subunit f [Source:HGNC Symbol;Acc:HGNC:848]	8050	0.005382498726248741	-0.32259703	No	
+row_5	ATP5F1B	ATP synthase F1 subunit beta [Source:HGNC Symbol;Acc:HGNC:830]	8787	0.0028413927648216486	-0.35432693	No	
+row_6	ITPA	inosine triphosphatase [Source:HGNC Symbol;Acc:HGNC:6176]	9400	7.514909375458956E-4	-0.38331413	No	
+row_7	DTYMK	deoxythymidylate kinase [Source:HGNC Symbol;Acc:HGNC:3061]	12445	-0.008375216275453568	-0.52	No	
+row_8	PRPS2	phosphoribosyl pyrophosphate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:9465]	12553	-0.008717461489140987	-0.511196	No	
+row_9	CTPS1	CTP synthase 1 [Source:HGNC Symbol;Acc:HGNC:2519]	13757	-0.011999624781310558	-0.55117536	No	
+row_10	APRT	adenine phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:626]	13929	-0.01246433611959219	-0.53947616	No	
+row_11	RRM2	ribonucleotide reductase regulatory subunit M2 [Source:HGNC Symbol;Acc:HGNC:10452]	15503	-0.017317935824394226	-0.58912206	Yes	
+row_12	GART	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase [Source:HGNC Symbol;Acc:HGNC:4163]	15864	-0.018815577030181885	-0.57648844	Yes	
+row_13	IMPDH2	inosine monophosphate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6053]	16263	-0.020449604839086533	-0.5630901	Yes	
+row_14	ADSL	adenylosuccinate lyase [Source:HGNC Symbol;Acc:HGNC:291]	16559	-0.021716373041272163	-0.5425622	Yes	
+row_15	UMPS	uridine monophosphate synthetase [Source:HGNC Symbol;Acc:HGNC:12563]	16635	-0.022044183686375618	-0.51064795	Yes	
+row_16	GMPS	guanine monophosphate synthase [Source:HGNC Symbol;Acc:HGNC:4378]	17019	-0.023827971890568733	-0.49105117	Yes	
+row_17	HPRT1	hypoxanthine phosphoribosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:5157]	17551	-0.02702670730650425	-0.47358996	Yes	
+row_18	NME4	NME/NM23 nucleoside diphosphate kinase 4 [Source:HGNC Symbol;Acc:HGNC:7852]	18254	-0.03228139132261276	-0.45607772	Yes	
+row_19	ADA	adenosine deaminase [Source:HGNC Symbol;Acc:HGNC:186]	18372	-0.03335290774703026	-0.4079654	Yes	
+row_20	ATP5ME	ATP synthase membrane subunit e [Source:HGNC Symbol;Acc:HGNC:846]	18592	-0.03554815798997879	-0.36133987	Yes	
+row_21	TYMS	thymidylate synthetase [Source:HGNC Symbol;Acc:HGNC:12441]	18982	-0.041371192783117294	-0.31369573	Yes	
+row_22	NME1	NME/NM23 nucleoside diphosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:7849]	19086	-0.043020278215408325	-0.24927357	Yes	
+row_23	PAICS	phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccinocarboxamide synthase [Source:HGNC Symbol;Acc:HGNC:8587]	19123	-0.04377157241106033	-0.18033122	Yes	
+row_24	RRM1	ribonucleotide reductase catalytic subunit M1 [Source:HGNC Symbol;Acc:HGNC:10451]	19230	-0.04574107378721237	-0.111661285	Yes	
+row_25	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	19411	-0.05026950314640999	-0.039326858	Yes	
+row_26	MTHFD1	methylenetetrahydrofolate dehydrogenase, cyclohydrolase and formyltetrahydrofolate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:7432]	19437	-0.05115939676761627	0.04209435	Yes	

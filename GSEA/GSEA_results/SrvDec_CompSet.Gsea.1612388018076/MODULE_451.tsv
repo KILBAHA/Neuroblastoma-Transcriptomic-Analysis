@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPA1	replication protein A1 [Source:HGNC Symbol;Acc:HGNC:10289]	2519	0.03739624097943306	-0.09268897	No	
+row_1	TSPYL4	TSPY like 4 [Source:HGNC Symbol;Acc:HGNC:21559]	2533	0.0372646227478981	-0.061785147	No	
+row_2	SORT1	sortilin 1 [Source:HGNC Symbol;Acc:HGNC:11186]	3697	0.027542661875486374	-0.09587893	No	
+row_3	NLRC4	NLR family CARD domain containing 4 [Source:HGNC Symbol;Acc:HGNC:16412]	3956	0.02554086595773697	-0.08699358	No	
+row_4	RNFT2	ring finger protein, transmembrane 2 [Source:HGNC Symbol;Acc:HGNC:25905]	7483	0.007625953759998083	-0.2545927	No	
+row_5	SPATA9	spermatogenesis associated 9 [Source:HGNC Symbol;Acc:HGNC:22988]	8164	0.004909132607281208	-0.28400397	No	
+row_6	PTPN23	protein tyrosine phosphatase non-receptor type 23 [Source:HGNC Symbol;Acc:HGNC:14406]	8522	0.003707156516611576	-0.2984884	No	
+row_7	UPF3A	UPF3A regulator of nonsense mediated mRNA decay [Source:HGNC Symbol;Acc:HGNC:20332]	8839	0.002649016911163926	-0.31184474	No	
+row_8	IQSEC1	IQ motif and Sec7 domain ArfGEF 1 [Source:HGNC Symbol;Acc:HGNC:29112]	9431	6.401395075954497E-4	-0.34047648	No	
+row_9	PTK7	protein tyrosine kinase 7 (inactive) [Source:HGNC Symbol;Acc:HGNC:9618]	9566	2.0393043814692646E-4	-0.34691852	No	
+row_10	PRKX	protein kinase X-linked [Source:HGNC Symbol;Acc:HGNC:9441]	9807	-5.57083054445684E-4	-0.3582941	No	
+row_11	ALOX12B	arachidonate 12-lipoxygenase, 12R type [Source:HGNC Symbol;Acc:HGNC:430]	13447	-0.011093334294855595	-0.528536	No	
+row_12	ESRP1	epithelial splicing regulatory protein 1 [Source:HGNC Symbol;Acc:HGNC:25966]	16121	-0.01988213323056698	-0.6436531	No	
+row_13	MKS1	MKS transition zone complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:7121]	16122	-0.019883792847394943	-0.6268209	No	
+row_14	PCNT	pericentrin [Source:HGNC Symbol;Acc:HGNC:16068]	17069	-0.024061940610408783	-0.6531494	No	
+row_15	KPNA2	karyopherin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6395]	18073	-0.030733460560441017	-0.67664397	Yes	
+row_16	TOP2A	DNA topoisomerase II alpha [Source:HGNC Symbol;Acc:HGNC:11989]	18087	-0.030822135508060455	-0.6511939	Yes	
+row_17	TOPBP1	DNA topoisomerase II binding protein 1 [Source:HGNC Symbol;Acc:HGNC:17008]	18423	-0.03388756513595581	-0.6390438	Yes	
+row_18	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	18495	-0.034508347511291504	-0.6133363	Yes	
+row_19	H2AZ1	H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741]	18528	-0.034875448793172836	-0.5853929	Yes	
+row_20	CDC20	cell division cycle 20 [Source:HGNC Symbol;Acc:HGNC:1723]	18759	-0.03783850744366646	-0.5647151	Yes	
+row_21	CENPA	centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851]	19321	-0.04790596663951874	-0.55185413	Yes	
+row_22	CDK4	cyclin dependent kinase 4 [Source:HGNC Symbol;Acc:HGNC:1773]	19326	-0.04806256294250488	-0.5113653	Yes	
+row_23	CCNB1	cyclin B1 [Source:HGNC Symbol;Acc:HGNC:1579]	19416	-0.050401318818330765	-0.47309247	Yes	
+row_24	CDC45	cell division cycle 45 [Source:HGNC Symbol;Acc:HGNC:1739]	19537	-0.05430939048528671	-0.43304163	Yes	
+row_25	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	19565	-0.055018484592437744	-0.38779974	Yes	
+row_26	ZNRD1ASP	zinc ribbon domain containing 1 antisense, pseudogene [Source:HGNC Symbol;Acc:HGNC:13924]	19589	-0.055950213223695755	-0.3415717	Yes	
+row_27	MELK	maternal embryonic leucine zipper kinase [Source:HGNC Symbol;Acc:HGNC:16870]	19684	-0.05960448831319809	-0.29575497	Yes	
+row_28	FEN1	flap structure-specific endonuclease 1 [Source:HGNC Symbol;Acc:HGNC:3650]	19861	-0.06858830899000168	-0.24638097	Yes	
+row_29	MYBL2	MYB proto-oncogene like 2 [Source:HGNC Symbol;Acc:HGNC:7548]	19922	-0.07354964315891266	-0.18708093	Yes	
+row_30	MKI67	marker of proliferation Ki-67 [Source:HGNC Symbol;Acc:HGNC:7107]	19975	-0.07813246548175812	-0.1235065	Yes	
+row_31	CDK1	cyclin dependent kinase 1 [Source:HGNC Symbol;Acc:HGNC:1722]	19991	-0.0799553245306015	-0.056562528	Yes	
+row_32	NEK2	NIMA related kinase 2 [Source:HGNC Symbol;Acc:HGNC:7745]	20026	-0.08419433981180191	0.013031986	Yes	

@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	368	0.0888838842511177	0.16652332	Yes	
+row_1	ALDH3A2	aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403]	692	0.07133457809686661	0.29880378	Yes	
+row_2	DBT	dihydrolipoamide branched chain transacylase E2 [Source:HGNC Symbol;Acc:HGNC:2698]	795	0.06728042662143707	0.43356258	Yes	
+row_3	FH	fumarate hydratase [Source:HGNC Symbol;Acc:HGNC:3700]	2503	0.037530891597270966	0.42733672	Yes	
+row_4	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	3147	0.03165635094046593	0.46139133	Yes	
+row_5	ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	3811	0.026552483439445496	0.48385495	Yes	
+row_6	ALDH2	aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404]	4132	0.024440541863441467	0.5188504	Yes	
+row_7	MDH1	malate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6970]	4220	0.02389479987323284	0.56420565	Yes	
+row_8	IDH2	isocitrate dehydrogenase (NADP(+)) 2 [Source:HGNC Symbol;Acc:HGNC:5383]	5477	0.016569357365369797	0.53667486	No	
+row_9	ACO2	aconitase 2 [Source:HGNC Symbol;Acc:HGNC:118]	6753	0.010613372549414635	0.4958319	No	
+row_10	ACSM5	acyl-CoA synthetase medium chain family member 5 [Source:HGNC Symbol;Acc:HGNC:26060]	6986	0.00958296563476324	0.5042983	No	
+row_11	ECHS1	enoyl-CoA hydratase, short chain 1 [Source:HGNC Symbol;Acc:HGNC:3151]	8465	0.0039037063252180815	0.43950072	No	
+row_12	EHHADH	enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3247]	8683	0.0031838263384997845	0.43541142	No	
+row_13	BBOX1	gamma-butyrobetaine hydroxylase 1 [Source:HGNC Symbol;Acc:HGNC:964]	8935	0.0022930754348635674	0.42779422	No	
+row_14	MDH2	malate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6971]	12546	-0.008701229467988014	0.26779485	No	
+row_15	ACO1	aconitase 1 [Source:HGNC Symbol;Acc:HGNC:117]	12805	-0.009357156231999397	0.27450955	No	
+row_16	ALDH1B1	aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	14099	-0.012956991791725159	0.2376481	No	
+row_17	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	14128	-0.013018856756389141	0.2633165	No	
+row_18	SHMT1	serine hydroxymethyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10850]	16043	-0.019540736451745033	0.20950088	No	

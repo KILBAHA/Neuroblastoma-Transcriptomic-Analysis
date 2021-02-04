@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABCC3	ATP binding cassette subfamily C member 3 [Source:HGNC Symbol;Acc:HGNC:54]	5594	0.015984710305929184	-0.2433284	No	
+row_1	AKR1C4	aldo-keto reductase family 1 member C4 [Source:HGNC Symbol;Acc:HGNC:387]	6389	0.012170243076980114	-0.25765246	No	
+row_2	SLC3A1	solute carrier family 3 member 1 [Source:HGNC Symbol;Acc:HGNC:11025]	6902	0.0099178496748209	-0.26266322	No	
+row_3	SLC10A2	solute carrier family 10 member 2 [Source:HGNC Symbol;Acc:HGNC:10906]	7456	0.007743770256638527	-0.2741349	No	
+row_4	SLC16A3	solute carrier family 16 member 3 [Source:HGNC Symbol;Acc:HGNC:10924]	7499	0.007566720712929964	-0.2607596	No	
+row_5	SLC7A9	solute carrier family 7 member 9 [Source:HGNC Symbol;Acc:HGNC:11067]	7707	0.0067039853893220425	-0.25728524	No	
+row_6	SLC10A1	solute carrier family 10 member 1 [Source:HGNC Symbol;Acc:HGNC:10905]	8061	0.005332521628588438	-0.26381308	No	
+row_7	LTBP2	latent transforming growth factor beta binding protein 2 [Source:HGNC Symbol;Acc:HGNC:6715]	9525	3.619049966800958E-4	-0.33524632	No	
+row_8	SLC16A2	solute carrier family 16 member 2 [Source:HGNC Symbol;Acc:HGNC:10923]	12226	-0.007757033221423626	-0.45260578	No	
+row_9	SLC16A4	solute carrier family 16 member 4 [Source:HGNC Symbol;Acc:HGNC:10925]	12354	-0.008111556060612202	-0.44231138	No	
+row_10	SLC16A8	solute carrier family 16 member 8 [Source:HGNC Symbol;Acc:HGNC:16270]	12440	-0.008330879732966423	-0.42949733	No	
+row_11	ABCG1	ATP binding cassette subfamily G member 1 [Source:HGNC Symbol;Acc:HGNC:73]	13286	-0.010671321302652359	-0.4493973	No	
+row_12	SLC26A3	solute carrier family 26 member 3 [Source:HGNC Symbol;Acc:HGNC:3018]	13925	-0.012454990297555923	-0.45544434	No	
+row_13	SLC1A3	solute carrier family 1 member 3 [Source:HGNC Symbol;Acc:HGNC:10941]	15097	-0.016024962067604065	-0.4804971	No	
+row_14	SLC38A3	solute carrier family 38 member 3 [Source:HGNC Symbol;Acc:HGNC:18044]	16730	-0.02246905118227005	-0.5151363	No	
+row_15	SLC1A6	solute carrier family 1 member 6 [Source:HGNC Symbol;Acc:HGNC:10944]	18350	-0.033153433352708817	-0.5273223	Yes	
+row_16	SLC7A5	solute carrier family 7 member 5 [Source:HGNC Symbol;Acc:HGNC:11063]	19257	-0.04628133773803711	-0.4775347	Yes	
+row_17	SLC7A2	solute carrier family 7 member 2 [Source:HGNC Symbol;Acc:HGNC:11060]	19783	-0.06358042359352112	-0.37363622	Yes	
+row_18	SLC16A1	solute carrier family 16 member 1 [Source:HGNC Symbol;Acc:HGNC:10922]	19885	-0.07036752998828888	-0.23496546	Yes	
+row_19	SLCO1A2	solute carrier organic anion transporter family member 1A2 [Source:HGNC Symbol;Acc:HGNC:10956]	20205	-0.12485871464014053	0.0041931607	Yes	

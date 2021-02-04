@@ -4,7 +4,7 @@ setwd("~/Documents/GitHub/BioinfGroupProject/GSEA")
 ### Read in and Format DF ###
 count = read.csv("data_expression_median.txt", sep = "\t")
 
-gene_names = count[,1]
+gene_names = count[,2]
 
 count = count[,3:ncol(count)]
 row.names(count) = gene_names
@@ -40,6 +40,6 @@ description = c(rep(NA,length(NAME)))
 
 count = cbind(NAME,description, count)
 
-app = cat("#1.2","\n",n_genes,"\t",n_samp, "\n",file='expr.txt')
+app = cat("#1.2","\n",n_genes,"\t",n_samp, "\n",file='expr2.gct')
 
-write.table(count,file = 'expr.txt', sep='\t', append= T, row.names = F)
+write.table(count,file = 'expr2.gct', sep='\t', append= T, row.names = F)
