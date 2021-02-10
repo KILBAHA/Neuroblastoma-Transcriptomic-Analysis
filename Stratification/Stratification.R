@@ -70,11 +70,11 @@ write.csv(EFS_g_5, file="event_free_g5.csv")
 write.csv(EFS_l_5, file="event_free_l5.csv")
 
 
-write.table(surv_g_5$Row.names, file="OS_g5.txt", sep = "\n", row.names = F, col.names = F, quote = F)
-write.table(surv_u_5$Row.names, file = "OS_l5.txt", sep= "\n", row.names= F, col.names = F, quote = F)
+write.table(surv_g_5$Row.names, file="OS_g5.txt", sep = "\n", row.names = F, col.names = F, quote = T)
+write.table(surv_u_5$Row.names, file = "OS_l5.txt", sep= "\n", row.names= F, col.names = F, quote = T)
 
-write.table(EFS_g_5$Row.names, file= "EF_g5.txt", sep = "\n", row.names = F, col.names = F, quote = F)
-write.table(EFS_l_5$Row.names, file= "EF_u5.txt", sep = "\n", row.names = F, col.names = F, quote = F)
+write.table(EFS_g_5$Row.names, file= "EF_g5.txt", sep = "\n", row.names = F, col.names = F, quote = T)
+write.table(EFS_l_5$Row.names, file= "EF_u5.txt", sep = "\n", row.names = F, col.names = F, quote = T)
 
 
 
