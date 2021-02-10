@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CNR1	cannabinoid receptor 1 [Source:HGNC Symbol;Acc:HGNC:2159]	18	0.22463619709014893	0.2100095	Yes	
+row_1	GRIA2	glutamate ionotropic receptor AMPA type subunit 2 [Source:HGNC Symbol;Acc:HGNC:4572]	356	0.0991457998752594	0.2864564	Yes	
+row_2	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	604	0.07999876141548157	0.34936994	Yes	
+row_3	GAP43	growth associated protein 43 [Source:HGNC Symbol;Acc:HGNC:4140]	642	0.07773786038160324	0.42052713	Yes	
+row_4	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	1171	0.0593436174094677	0.45017767	Yes	
+row_5	CAMK2G	calcium/calmodulin dependent protein kinase II gamma [Source:HGNC Symbol;Acc:HGNC:1463]	1288	0.056334517896175385	0.4973408	Yes	
+row_6	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	1566	0.05072452500462532	0.5312895	Yes	
+row_7	FER	FER tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3655]	1753	0.04767512157559395	0.5668674	Yes	
+row_8	CTNNA1	catenin alpha 1 [Source:HGNC Symbol;Acc:HGNC:2509]	2288	0.040517158806324005	0.5785467	Yes	
+row_9	DAGLB	diacylglycerol lipase beta [Source:HGNC Symbol;Acc:HGNC:28923]	2855	0.03416893258690834	0.58268636	Yes	
+row_10	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	2873	0.03398029878735542	0.6137493	Yes	
+row_11	DAGLA	diacylglycerol lipase alpha [Source:HGNC Symbol;Acc:HGNC:1165]	3433	0.02907342091202736	0.61345065	No	
+row_12	DCTN1	dynactin subunit 1 [Source:HGNC Symbol;Acc:HGNC:2711]	4139	0.02372012287378311	0.60091907	No	
+row_13	CTNND1	catenin delta 1 [Source:HGNC Symbol;Acc:HGNC:2515]	5204	0.017120208591222763	0.5644698	No	
+row_14	KIF5B	kinesin family member 5B [Source:HGNC Symbol;Acc:HGNC:6324]	5251	0.01686924323439598	0.57803667	No	
+row_15	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	5721	0.014270225539803505	0.5682828	No	
+row_16	CDH2	cadherin 2 [Source:HGNC Symbol;Acc:HGNC:1759]	6021	0.012625868432223797	0.5653769	No	
+row_17	CTTN	cortactin [Source:HGNC Symbol;Acc:HGNC:3338]	6858	0.008838709443807602	0.5324074	No	
+row_18	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	7028	0.008142557926476002	0.5317096	No	
+row_19	PTPN11	protein tyrosine phosphatase non-receptor type 11 [Source:HGNC Symbol;Acc:HGNC:9644]	7041	0.008082597516477108	0.5387055	No	
+row_20	MAPRE1	microtubule associated protein RP/EB family member 1 [Source:HGNC Symbol;Acc:HGNC:6890]	7872	0.00444408692419529	0.5019064	No	
+row_21	GSN	gelsolin [Source:HGNC Symbol;Acc:HGNC:4620]	8363	0.00243213283829391	0.48000178	No	
+row_22	ROCK1	Rho associated coiled-coil containing protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:10251]	8547	0.0017121915007010102	0.47257578	No	
+row_23	PIP5K1C	phosphatidylinositol-4-phosphate 5-kinase type 1 gamma [Source:HGNC Symbol;Acc:HGNC:8996]	8956	1.878840266726911E-4	0.45261198	No	
+row_24	PLCG1	phospholipase C gamma 1 [Source:HGNC Symbol;Acc:HGNC:9065]	9499	-0.0016891774721443653	0.427443	No	
+row_25	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	10916	-0.006669437978416681	0.36380625	No	
+row_26	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	11460	-0.00832879263907671	0.34482145	No	
+row_27	AXIN1	axin 1 [Source:HGNC Symbol;Acc:HGNC:903]	11955	-0.009864424355328083	0.32969716	No	
+row_28	GJA1	gap junction protein alpha 1 [Source:HGNC Symbol;Acc:HGNC:4274]	12070	-0.010223312303423882	0.33366784	No	
+row_29	PTPN1	protein tyrosine phosphatase non-receptor type 1 [Source:HGNC Symbol;Acc:HGNC:9642]	14267	-0.017095640301704407	0.24131633	No	
+row_30	LRP5	LDL receptor related protein 5 [Source:HGNC Symbol;Acc:HGNC:6697]	14327	-0.017324298620224	0.25466868	No	
+row_31	MYL2	myosin light chain 2 [Source:HGNC Symbol;Acc:HGNC:7583]	14606	-0.018305929377675056	0.2581321	No	
+row_32	FGFR1	fibroblast growth factor receptor 1 [Source:HGNC Symbol;Acc:HGNC:3688]	16043	-0.02385801635682583	0.20964547	No	

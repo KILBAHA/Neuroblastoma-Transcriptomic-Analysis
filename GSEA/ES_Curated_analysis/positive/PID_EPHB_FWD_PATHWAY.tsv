@@ -1,0 +1,41 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GRIA1	glutamate ionotropic receptor AMPA type subunit 1 [Source:HGNC Symbol;Acc:HGNC:4571]	129	0.13891249895095825	0.10731501	Yes	
+row_1	EFNB2	ephrin B2 [Source:HGNC Symbol;Acc:HGNC:3227]	310	0.10493696480989456	0.18430628	Yes	
+row_2	KALRN	kalirin RhoGEF kinase [Source:HGNC Symbol;Acc:HGNC:4814]	559	0.08272573351860046	0.23976216	Yes	
+row_3	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	604	0.07999876141548157	0.30305988	Yes	
+row_4	EPHB3	EPH receptor B3 [Source:HGNC Symbol;Acc:HGNC:3394]	1016	0.06352273374795914	0.33475116	Yes	
+row_5	PAK1	p21 (RAC1) activated kinase 1 [Source:HGNC Symbol;Acc:HGNC:8590]	1118	0.06043512746691704	0.37922347	Yes	
+row_6	EFNB3	ephrin B3 [Source:HGNC Symbol;Acc:HGNC:3228]	1465	0.052450090646743774	0.4050627	Yes	
+row_7	SHC1	SHC adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:10840]	2194	0.04133430868387222	0.40294158	Yes	
+row_8	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	2398	0.03910430893301964	0.42492008	Yes	
+row_9	SYNJ1	synaptojanin 1 [Source:HGNC Symbol;Acc:HGNC:11503]	2555	0.0374012216925621	0.44782567	Yes	
+row_10	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	2733	0.03538637235760689	0.46804535	Yes	
+row_11	RAP1A	RAP1A, member of RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9855]	2791	0.03475145995616913	0.49367103	Yes	
+row_12	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	2873	0.03398029878735542	0.5174805	Yes	
+row_13	RASA1	RAS p21 protein activator 1 [Source:HGNC Symbol;Acc:HGNC:9871]	2949	0.03325134143233299	0.54098964	Yes	
+row_14	CRK	CRK proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2362]	3085	0.03203647956252098	0.56054175	Yes	
+row_15	GRB7	growth factor receptor bound protein 7 [Source:HGNC Symbol;Acc:HGNC:4567]	3564	0.027978813275694847	0.5598356	Yes	
+row_16	MAP4K4	mitogen-activated protein kinase kinase kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6866]	3590	0.027828138321638107	0.5813755	Yes	
+row_17	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	4724	0.020055599510669708	0.54184103	Yes	
+row_18	RAP1B	RAP1B, member of RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9857]	4788	0.019722091034054756	0.5548705	Yes	
+row_19	PTK2	protein tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:9611]	4872	0.019177792593836784	0.5664669	Yes	
+row_20	ITSN1	intersectin 1 [Source:HGNC Symbol;Acc:HGNC:6183]	5117	0.017608046531677246	0.5688284	Yes	
+row_21	WASL	WASP like actin nucleation promoting factor [Source:HGNC Symbol;Acc:HGNC:12735]	5259	0.016813933849334717	0.5756262	Yes	
+row_22	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	5283	0.016618603840470314	0.588091	Yes	
+row_23	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	5721	0.014270225539803505	0.5781905	No	
+row_24	DNM1	dynamin 1 [Source:HGNC Symbol;Acc:HGNC:2972]	6085	0.012324861250817776	0.570352	No	
+row_25	EFNA5	ephrin A5 [Source:HGNC Symbol;Acc:HGNC:3225]	6769	0.009245019406080246	0.54419136	No	
+row_26	EPHB2	EPH receptor B2 [Source:HGNC Symbol;Acc:HGNC:3393]	6954	0.008446473628282547	0.54201794	No	
+row_27	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	7028	0.008142557926476002	0.545077	No	
+row_28	TF	transferrin [Source:HGNC Symbol;Acc:HGNC:11740]	7033	0.008119745180010796	0.55152464	No	
+row_29	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	7264	0.007077494636178017	0.54595935	No	
+row_30	NCK1	NCK adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:7664]	7974	0.004015801008790731	0.5142352	No	
+row_31	PXN	paxillin [Source:HGNC Symbol;Acc:HGNC:9718]	8325	0.002526801312342286	0.49902004	No	
+row_32	ROCK1	Rho associated coiled-coil containing protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:10251]	8547	0.0017121915007010102	0.48950824	No	
+row_33	RRAS	RAS related [Source:HGNC Symbol;Acc:HGNC:10447]	8558	0.00168643391225487	0.49039462	No	
+row_34	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	8640	0.0013703627046197653	0.4875163	No	
+row_35	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	11390	-0.008076319471001625	0.35837954	No	
+row_36	EPHB4	EPH receptor B4 [Source:HGNC Symbol;Acc:HGNC:3395]	13675	-0.015303900465369225	0.25811958	No	
+row_37	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	14382	-0.017534852027893066	0.23760752	No	
+row_38	EPHB1	EPH receptor B1 [Source:HGNC Symbol;Acc:HGNC:3392]	17429	-0.031815867871046066	0.1132331	No	
+row_39	EFNB1	ephrin B1 [Source:HGNC Symbol;Acc:HGNC:3226]	17740	-0.03420661762356758	0.12591968	No	

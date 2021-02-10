@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLR2A	RNA polymerase II subunit A [Source:HGNC Symbol;Acc:HGNC:9187]	3087	0.032020531594753265	-0.082109235	No	
+row_1	FGF1	fibroblast growth factor 1 [Source:HGNC Symbol;Acc:HGNC:3665]	5438	0.015822647139430046	-0.16335893	No	
+row_2	POLR2K	RNA polymerase II subunit K [Source:HGNC Symbol;Acc:HGNC:9198]	6608	0.009914809837937355	-0.19929737	No	
+row_3	POLR2J	RNA polymerase II subunit J [Source:HGNC Symbol;Acc:HGNC:9197]	6817	0.009032000787556171	-0.18976511	No	
+row_4	POLR2G	RNA polymerase II subunit G [Source:HGNC Symbol;Acc:HGNC:9194]	7700	0.005219960119575262	-0.22183438	No	
+row_5	POLR2B	RNA polymerase II subunit B [Source:HGNC Symbol;Acc:HGNC:9188]	8514	0.0018553544068709016	-0.25787312	No	
+row_6	POLR2D	RNA polymerase II subunit D [Source:HGNC Symbol;Acc:HGNC:9191]	11444	-0.008260293863713741	-0.38425654	No	
+row_7	POLR2E	RNA polymerase II subunit E [Source:HGNC Symbol;Acc:HGNC:9192]	13603	-0.01504579558968544	-0.45773742	No	
+row_8	POLR2F	RNA polymerase II subunit F [Source:HGNC Symbol;Acc:HGNC:9193]	16362	-0.025345131754875183	-0.53824586	Yes	
+row_9	FGF2	fibroblast growth factor 2 [Source:HGNC Symbol;Acc:HGNC:3676]	16379	-0.025475282222032547	-0.4832086	Yes	
+row_10	POLR2I	RNA polymerase II subunit I [Source:HGNC Symbol;Acc:HGNC:9196]	16968	-0.028683379292488098	-0.4493574	Yes	
+row_11	NCBP1	nuclear cap binding protein subunit 1 [Source:HGNC Symbol;Acc:HGNC:7658]	17186	-0.03013952635228634	-0.39401406	Yes	
+row_12	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	17254	-0.030589500442147255	-0.3302853	Yes	
+row_13	POLR2L	RNA polymerase II subunit L [Source:HGNC Symbol;Acc:HGNC:9199]	17332	-0.03115784004330635	-0.26580438	Yes	
+row_14	GTF2F1	general transcription factor IIF subunit 1 [Source:HGNC Symbol;Acc:HGNC:4652]	17584	-0.03294544667005539	-0.20598938	Yes	
+row_15	GTF2F2	general transcription factor IIF subunit 2 [Source:HGNC Symbol;Acc:HGNC:4653]	17751	-0.03434281796216965	-0.13891917	Yes	
+row_16	NCBP2	nuclear cap binding protein subunit 2 [Source:HGNC Symbol;Acc:HGNC:7659]	17821	-0.034949228167533875	-0.065735176	Yes	
+row_17	POLR2C	RNA polymerase II subunit C [Source:HGNC Symbol;Acc:HGNC:9189]	17892	-0.035548385232686996	0.008712497	Yes	
+row_18	POLR2H	RNA polymerase II subunit H [Source:HGNC Symbol;Acc:HGNC:9195]	19023	-0.04998144134879112	0.06249988	Yes	

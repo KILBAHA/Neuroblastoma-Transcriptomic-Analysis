@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LAMA4	laminin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	309	0.10506837069988251	0.09058369	Yes	
+row_1	PAK5	p21 (RAC1) activated kinase 5 [Source:HGNC Symbol;Acc:HGNC:15916]	445	0.09099981188774109	0.1755851	Yes	
+row_2	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	712	0.07487635314464569	0.23787855	Yes	
+row_3	NRG1	neuregulin 1 [Source:HGNC Symbol;Acc:HGNC:7997]	844	0.06916531175374985	0.3010832	Yes	
+row_4	PAK1	p21 (RAC1) activated kinase 1 [Source:HGNC Symbol;Acc:HGNC:8590]	1118	0.06043512746691704	0.34848425	Yes	
+row_5	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor 6 [Source:HGNC Symbol;Acc:HGNC:685]	1125	0.0603548139333725	0.40898436	Yes	
+row_6	PAK3	p21 (RAC1) activated kinase 3 [Source:HGNC Symbol;Acc:HGNC:8592]	1133	0.06025143712759018	0.46933097	Yes	
+row_7	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	1566	0.05072452500462532	0.49910164	Yes	
+row_8	LAMA3	laminin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6483]	1699	0.048327211290597916	0.5412664	Yes	
+row_9	UTRN	utrophin [Source:HGNC Symbol;Acc:HGNC:12635]	2169	0.041602443903684616	0.5600218	Yes	
+row_10	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	2398	0.03910430893301964	0.58815736	Yes	
+row_11	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	2873	0.03398029878735542	0.59898806	Yes	
+row_12	CHRM1	cholinergic receptor muscarinic 1 [Source:HGNC Symbol;Acc:HGNC:1950]	3184	0.030954625457525253	0.6148665	Yes	
+row_13	GIT2	GIT ArfGAP 2 [Source:HGNC Symbol;Acc:HGNC:4273]	3281	0.03027205727994442	0.6406211	Yes	
+row_14	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	4776	0.019768865779042244	0.5867859	No	
+row_15	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	5153	0.01740395464003086	0.5857566	No	
+row_16	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	5203	0.017121901735663414	0.600585	No	
+row_17	DMD	dystrophin [Source:HGNC Symbol;Acc:HGNC:2928]	6075	0.012370727956295013	0.57005084	No	
+row_18	CTTN	cortactin [Source:HGNC Symbol;Acc:HGNC:3338]	6858	0.008838709443807602	0.54035217	No	
+row_19	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	7028	0.008142557926476002	0.5402119	No	
+row_20	MUSK	muscle associated receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7525]	7472	0.006223549600690603	0.5246131	No	
+row_21	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	8640	0.0013703627046197653	0.4683866	No	
+row_22	DVL1	dishevelled segment polarity protein 1 [Source:HGNC Symbol;Acc:HGNC:3084]	8887	4.127344291191548E-4	0.456659	No	
+row_23	SP1	Sp1 transcription factor [Source:HGNC Symbol;Acc:HGNC:11205]	8895	3.8980194949544966E-4	0.4567061	No	
+row_24	NRG2	neuregulin 2 [Source:HGNC Symbol;Acc:HGNC:7998]	10031	-0.0036228159442543983	0.40432817	No	
+row_25	NRG3	neuregulin 3 [Source:HGNC Symbol;Acc:HGNC:7999]	10042	-0.003656769637018442	0.40751806	No	
+row_26	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	10674	-0.005831907968968153	0.38224444	No	
+row_27	DAG1	dystroglycan 1 [Source:HGNC Symbol;Acc:HGNC:2666]	11324	-0.007879701443016529	0.35814503	No	
+row_28	RAPSN	receptor associated protein of the synapse [Source:HGNC Symbol;Acc:HGNC:9863]	11609	-0.008769039995968342	0.35295907	No	
+row_29	PAK2	p21 (RAC1) activated kinase 2 [Source:HGNC Symbol;Acc:HGNC:8591]	13308	-0.0141004528850317	0.28334394	No	
+row_30	ACTA1	actin alpha 1, skeletal muscle [Source:HGNC Symbol;Acc:HGNC:129]	14728	-0.01869143918156624	0.23212568	No	
+row_31	CHRNA1	cholinergic receptor nicotinic alpha 1 subunit [Source:HGNC Symbol;Acc:HGNC:1955]	14774	-0.0188521109521389	0.24889435	No	
+row_32	PAK4	p21 (RAC1) activated kinase 4 [Source:HGNC Symbol;Acc:HGNC:16059]	15883	-0.02317425049841404	0.21754368	No	

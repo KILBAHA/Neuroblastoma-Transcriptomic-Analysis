@@ -1,0 +1,38 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADCY1	adenylate cyclase 1 [Source:HGNC Symbol;Acc:HGNC:232]	154	0.13310304284095764	0.08586001	Yes	
+row_1	PDE1C	phosphodiesterase 1C [Source:HGNC Symbol;Acc:HGNC:8776]	185	0.12576824426651	0.17269185	Yes	
+row_2	PRKACB	protein kinase cAMP-activated catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9381]	316	0.10428785532712936	0.2395031	Yes	
+row_3	CAMK4	calcium/calmodulin dependent protein kinase IV [Source:HGNC Symbol;Acc:HGNC:1464]	479	0.0879211574792862	0.29324192	Yes	
+row_4	CAMK2A	calcium/calmodulin dependent protein kinase II alpha [Source:HGNC Symbol;Acc:HGNC:1460]	515	0.08566293120384216	0.3516654	Yes	
+row_5	CAMK2B	calcium/calmodulin dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	755	0.07311088591814041	0.3912029	Yes	
+row_6	PLA2G4A	phospholipase A2 group IVA [Source:HGNC Symbol;Acc:HGNC:9035]	932	0.06616242974996567	0.42897177	Yes	
+row_7	NBEA	neurobeachin [Source:HGNC Symbol;Acc:HGNC:7648]	1088	0.061224132776260376	0.46430984	Yes	
+row_8	CAMK2G	calcium/calmodulin dependent protein kinase II gamma [Source:HGNC Symbol;Acc:HGNC:1463]	1288	0.056334517896175385	0.49404207	Yes	
+row_9	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	1305	0.05606398358941078	0.5326196	Yes	
+row_10	PRKAR2B	protein kinase cAMP-dependent type II regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:9392]	1740	0.047812510281801224	0.5447651	Yes	
+row_11	PDE1A	phosphodiesterase 1A [Source:HGNC Symbol;Acc:HGNC:8774]	1813	0.04683677479624748	0.5740985	Yes	
+row_12	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	1967	0.04439174383878708	0.59771585	Yes	
+row_13	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	2398	0.03910430893301964	0.60394406	Yes	
+row_14	ADCY8	adenylate cyclase 8 [Source:HGNC Symbol;Acc:HGNC:239]	2417	0.038907915353775024	0.63037604	Yes	
+row_15	ADCY5	adenylate cyclase 5 [Source:HGNC Symbol;Acc:HGNC:236]	3226	0.030672460794448853	0.61202055	No	
+row_16	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	3760	0.02635609172284603	0.6042117	No	
+row_17	CAMK2D	calcium/calmodulin dependent protein kinase II delta [Source:HGNC Symbol;Acc:HGNC:1462]	4577	0.02098013274371624	0.57865536	No	
+row_18	CAMKK1	calcium/calmodulin dependent protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:1469]	4691	0.020209241658449173	0.5872669	No	
+row_19	PRKAR1B	protein kinase cAMP-dependent type I regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:9390]	5867	0.013441490940749645	0.5386922	No	
+row_20	PRKACA	protein kinase cAMP-activated catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9380]	5875	0.01342072058469057	0.54777044	No	
+row_21	ADCY6	adenylate cyclase 6 [Source:HGNC Symbol;Acc:HGNC:237]	6053	0.01246318407356739	0.54778296	No	
+row_22	PRKAR2A	protein kinase cAMP-dependent type II regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9391]	6286	0.011380704119801521	0.5443198	No	
+row_23	ADCY9	adenylate cyclase 9 [Source:HGNC Symbol;Acc:HGNC:240]	6624	0.009813184849917889	0.5345718	No	
+row_24	PRKAR1A	protein kinase cAMP-dependent type I regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9388]	6868	0.00879647582769394	0.52875096	No	
+row_25	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	8267	0.0028050995897501707	0.46169728	No	
+row_26	CAMKK2	calcium/calmodulin dependent protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:1470]	8618	0.0014506253646686673	0.44543535	No	
+row_27	ADCY7	adenylate cyclase 7 [Source:HGNC Symbol;Acc:HGNC:238]	10928	-0.006717376410961151	0.33615005	No	
+row_28	GRK2	G protein-coupled receptor kinase 2 [Source:HGNC Symbol;Acc:HGNC:289]	10981	-0.006874457933008671	0.3384098	No	
+row_29	ADCY4	adenylate cyclase 4 [Source:HGNC Symbol;Acc:HGNC:235]	11545	-0.008571358397603035	0.31663156	No	
+row_30	ADCY3	adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234]	13893	-0.016012663021683693	0.21199712	No	
+row_31	PRKCG	protein kinase C gamma [Source:HGNC Symbol;Acc:HGNC:9402]	14244	-0.01705159805715084	0.20669001	No	
+row_32	PRKACG	protein kinase cAMP-activated catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9382]	14339	-0.017374135553836823	0.21424888	No	
+row_33	ADCY2	adenylate cyclase 2 [Source:HGNC Symbol;Acc:HGNC:233]	14444	-0.01774030737578869	0.22157113	No	
+row_34	PRKX	protein kinase X-linked [Source:HGNC Symbol;Acc:HGNC:9441]	17143	-0.029785335063934326	0.1092778	No	
+row_35	KPNA2	karyopherin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6395]	17509	-0.032437682151794434	0.11403404	No	
+row_36	PDE1B	phosphodiesterase 1B [Source:HGNC Symbol;Acc:HGNC:8775]	17597	-0.03307216241955757	0.13296148	No	

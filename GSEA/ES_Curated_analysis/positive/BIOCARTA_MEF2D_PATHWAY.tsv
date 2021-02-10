@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKCB	protein kinase C beta [Source:HGNC Symbol;Acc:HGNC:9395]	384	0.0966711938381195	0.17825077	Yes	
+row_1	PPP3CC	protein phosphatase 3 catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9316]	646	0.07758992910385132	0.3236463	Yes	
+row_2	PPP3CB	protein phosphatase 3 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9315]	736	0.07400954514741898	0.47022268	Yes	
+row_3	CALM2	calmodulin 2 [Source:HGNC Symbol;Acc:HGNC:1445]	1034	0.06298482418060303	0.5840506	Yes	
+row_4	HDAC1	histone deacetylase 1 [Source:HGNC Symbol;Acc:HGNC:4852]	2411	0.03895474970340729	0.5956379	Yes	
+row_5	HDAC2	histone deacetylase 2 [Source:HGNC Symbol;Acc:HGNC:4853]	3161	0.0312606506049633	0.62245846	Yes	
+row_6	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	3760	0.02635609172284603	0.6467229	Yes	
+row_7	PPP3CA	protein phosphatase 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9314]	4469	0.021643349900841713	0.6559482	Yes	
+row_8	CALM3	calmodulin 3 [Source:HGNC Symbol;Acc:HGNC:1449]	6552	0.010224482975900173	0.5741062	No	
+row_9	MEF2D	myocyte enhancer factor 2D [Source:HGNC Symbol;Acc:HGNC:6997]	6846	0.008890369907021523	0.5777883	No	
+row_10	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	7035	0.00809862744063139	0.5850346	No	
+row_11	CAPNS1	calpain small subunit 1 [Source:HGNC Symbol;Acc:HGNC:1481]	7919	0.004231071565300226	0.5501098	No	
+row_12	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	8267	0.0028050995897501707	0.53871536	No	
+row_13	CAPNS2	calpain small subunit 2 [Source:HGNC Symbol;Acc:HGNC:16371]	8631	0.0014026517746970057	0.5236709	No	
+row_14	CABIN1	calcineurin binding protein 1 [Source:HGNC Symbol;Acc:HGNC:24187]	9994	-0.00349262822419405	0.46361232	No	
+row_15	CAPN2	calpain 2 [Source:HGNC Symbol;Acc:HGNC:1479]	10698	-0.005899625830352306	0.44096985	No	
+row_16	NFATC2	nuclear factor of activated T cells 2 [Source:HGNC Symbol;Acc:HGNC:7776]	11081	-0.007171733304858208	0.43675613	No	
+row_17	NFATC1	nuclear factor of activated T cells 1 [Source:HGNC Symbol;Acc:HGNC:7775]	11540	-0.008551741018891335	0.43160856	No	
