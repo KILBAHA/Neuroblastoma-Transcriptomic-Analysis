@@ -1,0 +1,97 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     NIKOLSKY_BREAST_CANCER_17Q11_Q21_AMPLICON.tsv_dimred-weka.filters.unsupervised.attribute.Remove-R1-2
+Instances:    247
+Attributes:   53
+              ACACA
+              ALDOC
+              CACNB1
+              CASC3
+              CCL2
+              CCR7
+              CPD
+              CWC25
+              DDX52
+              DHRS13
+              DUSP14
+              EFCAB5
+              ERAL1
+              FBXL20
+              FLOT2
+              GOSR1
+              GRB7
+              GSDMB
+              KIAA0100
+              LASP1
+              MED1
+              MED24
+              MSL1
+              MYO18A
+              MYO1D
+              NUFIP2
+              ORMDL3
+              PCGF2
+              PGAP3
+              PHF12
+              PIGS
+              PIP4K2B
+              PIPOX
+              PNMT
+              RAPGEFL1
+              RARA
+              SDF2
+              SEZ6
+              SLC46A1
+              SMARCE1
+              SOCS7
+              SRCIN1
+              SSH2
+              STARD3
+              SUPT6H
+              SYNRG
+              TADA2A
+              TAOK1
+              TBC1D3F
+              THRA
+              TIAF1
+              TMEM99
+              EFS_fct
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.06 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         166               67.2065 %
+Incorrectly Classified Instances        81               32.7935 %
+Kappa statistic                          0.2065
+Mean absolute error                      0.41  
+Root mean squared error                  0.4547
+Relative absolute error                 89.3086 %
+Root relative squared error             94.9446 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.868    0.682    0.697      0.868    0.773      0.223    0.671     0.751     EFS_L5
+                 0.318    0.132    0.571      0.318    0.409      0.223    0.671     0.576     EFS_G5
+Weighted Avg.    0.672    0.486    0.652      0.672    0.643      0.223    0.671     0.689     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 138  21 |   a = EFS_L5
+  60  28 |   b = EFS_G5
+
+

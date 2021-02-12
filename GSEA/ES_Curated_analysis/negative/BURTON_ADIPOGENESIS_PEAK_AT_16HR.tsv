@@ -1,0 +1,42 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HAT1	histone acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4821]	5463	0.018775073811411858	-0.2573468	No	
+row_1	PGP	phosphoglycolate phosphatase [Source:HGNC Symbol;Acc:HGNC:8909]	7880	0.007280007936060429	-0.37183538	No	
+row_2	ECM1	extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3153]	9552	6.825751042924821E-4	-0.45390195	No	
+row_3	FAM111A	family with sequence similarity 111 member A [Source:HGNC Symbol;Acc:HGNC:24725]	9821	-3.784752625506371E-4	-0.46688592	No	
+row_4	MRPL18	mitochondrial ribosomal protein L18 [Source:HGNC Symbol;Acc:HGNC:14477]	10405	-0.0025586369447410107	-0.493982	No	
+row_5	ABCF2	ATP binding cassette subfamily F member 2 [Source:HGNC Symbol;Acc:HGNC:71]	10946	-0.004474875051528215	-0.51768583	No	
+row_6	MCM7	minichromosome maintenance complex component 7 [Source:HGNC Symbol;Acc:HGNC:6950]	14594	-0.016424380242824554	-0.68691003	No	
+row_7	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	15063	-0.01811322756111622	-0.6980284	No	
+row_8	CDC6	cell division cycle 6 [Source:HGNC Symbol;Acc:HGNC:1744]	15356	-0.01911449432373047	-0.69979244	No	
+row_9	ABCF1	ATP binding cassette subfamily F member 1 [Source:HGNC Symbol;Acc:HGNC:70]	16534	-0.02417522855103016	-0.7419095	Yes	
+row_10	SMC2	structural maintenance of chromosomes 2 [Source:HGNC Symbol;Acc:HGNC:14011]	16799	-0.025449706241488457	-0.7380963	Yes	
+row_11	PRPS1	phosphoribosyl pyrophosphate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:9462]	16998	-0.026543090119957924	-0.7302999	Yes	
+row_12	MSH6	mutS homolog 6 [Source:HGNC Symbol;Acc:HGNC:7329]	17033	-0.026781756430864334	-0.7142467	Yes	
+row_13	GRWD1	glutamate rich WD repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:21270]	17104	-0.027197223156690598	-0.69969624	Yes	
+row_14	DUT	deoxyuridine triphosphatase [Source:HGNC Symbol;Acc:HGNC:3078]	17190	-0.02768557518720627	-0.68556315	Yes	
+row_15	SERPINA3	serpin family A member 3 [Source:HGNC Symbol;Acc:HGNC:16]	17264	-0.02808818779885769	-0.6705709	Yes	
+row_16	RRM2	ribonucleotide reductase regulatory subunit M2 [Source:HGNC Symbol;Acc:HGNC:10452]	17325	-0.02845032885670662	-0.65469694	Yes	
+row_17	CHAF1B	chromatin assembly factor 1 subunit B [Source:HGNC Symbol;Acc:HGNC:1911]	17721	-0.031007371842861176	-0.6536731	Yes	
+row_18	LY6H	lymphocyte antigen 6 family member H [Source:HGNC Symbol;Acc:HGNC:6728]	17751	-0.031218957155942917	-0.6344352	Yes	
+row_19	NAP1L4	nucleosome assembly protein 1 like 4 [Source:HGNC Symbol;Acc:HGNC:7640]	17824	-0.031769104301929474	-0.6169564	Yes	
+row_20	IFRD2	interferon related developmental regulator 2 [Source:HGNC Symbol;Acc:HGNC:5457]	17975	-0.0329824723303318	-0.6025261	Yes	
+row_21	IFI16	interferon gamma inducible protein 16 [Source:HGNC Symbol;Acc:HGNC:5395]	18189	-0.03482602909207344	-0.5899863	Yes	
+row_22	SNX5	sorting nexin 5 [Source:HGNC Symbol;Acc:HGNC:14969]	18253	-0.035403020679950714	-0.56965715	Yes	
+row_23	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	18470	-0.03776808828115463	-0.5553176	Yes	
+row_24	RNASE2	ribonuclease A family member 2 [Source:HGNC Symbol;Acc:HGNC:10045]	18564	-0.03881916031241417	-0.534208	Yes	
+row_25	HELLS	helicase, lymphoid specific [Source:HGNC Symbol;Acc:HGNC:4861]	18618	-0.03966249153017998	-0.51056474	Yes	
+row_26	HMGA1	high mobility group AT-hook 1 [Source:HGNC Symbol;Acc:HGNC:5010]	18963	-0.04487435147166252	-0.49784112	Yes	
+row_27	ASF1B	anti-silencing function 1B histone chaperone [Source:HGNC Symbol;Acc:HGNC:20996]	18969	-0.04492327943444252	-0.46834436	Yes	
+row_28	EMB	embigin [Source:HGNC Symbol;Acc:HGNC:30465]	19035	-0.04609657824039459	-0.4410337	Yes	
+row_29	MCM6	minichromosome maintenance complex component 6 [Source:HGNC Symbol;Acc:HGNC:6949]	19092	-0.04700859636068344	-0.41267475	Yes	
+row_30	DNMT1	DNA methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2976]	19216	-0.04972425475716591	-0.3858264	Yes	
+row_31	MCM5	minichromosome maintenance complex component 5 [Source:HGNC Symbol;Acc:HGNC:6948]	19249	-0.05041881650686264	-0.35402438	Yes	
+row_32	MCM3	minichromosome maintenance complex component 3 [Source:HGNC Symbol;Acc:HGNC:6945]	19313	-0.05199773609638214	-0.3227078	Yes	
+row_33	POLA2	DNA polymerase alpha 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:30073]	19593	-0.060032423585653305	-0.29673815	Yes	
+row_34	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	19668	-0.06313200294971466	-0.25859278	Yes	
+row_35	RAD51	RAD51 recombinase [Source:HGNC Symbol;Acc:HGNC:9817]	19763	-0.0670711100101471	-0.218827	Yes	
+row_36	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	19838	-0.07154782861471176	-0.17510952	Yes	
+row_37	DDX21	DExD-box helicase 21 [Source:HGNC Symbol;Acc:HGNC:2744]	19844	-0.07193607091903687	-0.12772758	Yes	
+row_38	ASS1	argininosuccinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:758]	19866	-0.07299333810806274	-0.08043576	Yes	
+row_39	CDCA7	cell division cycle associated 7 [Source:HGNC Symbol;Acc:HGNC:14628]	19896	-0.07476723194122314	-0.0323645	Yes	
+row_40	FEN1	flap structure-specific endonuclease 1 [Source:HGNC Symbol;Acc:HGNC:3650]	19951	-0.07819338887929916	0.01674065	Yes	

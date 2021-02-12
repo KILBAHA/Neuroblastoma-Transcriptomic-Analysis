@@ -1,0 +1,58 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     BIOCARTA_AGR_PATHWAY.tsv_dimred-weka.filters.unsupervised.attribute.Remove-R1-2
+Instances:    247
+Attributes:   14
+              ARHGEF6
+              CDC42
+              CHRM1
+              GIT2
+              LAMA2
+              LAMA3
+              LAMA4
+              MAPK1
+              MAPK8
+              NRG1
+              PAK1
+              PAK3
+              UTRN
+              EFS_fct
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.06 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         159               64.3725 %
+Incorrectly Classified Instances        88               35.6275 %
+Kappa statistic                          0.1306
+Mean absolute error                      0.4353
+Root mean squared error                  0.479 
+Relative absolute error                 94.8204 %
+Root relative squared error            100.0075 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.855    0.739    0.677      0.855    0.756      0.144    0.591     0.697     EFS_L5
+                 0.261    0.145    0.500      0.261    0.343      0.144    0.591     0.468     EFS_G5
+Weighted Avg.    0.644    0.527    0.614      0.644    0.609      0.144    0.591     0.616     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 136  23 |   a = EFS_L5
+  65  23 |   b = EFS_G5
+
+

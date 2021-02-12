@@ -1,0 +1,63 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     TCGA_GLIOBLASTOMA_COPY_NUMBER_DN.tsv_dimred-weka.filters.unsupervised.attribute.Remove-R1-2
+Instances:    247
+Attributes:   19
+              CAB39L
+              CDADC1
+              CDKN2C
+              EVI2B
+              FAF1
+              FNDC3A
+              H6PD
+              KCNRG
+              MIR15A
+              NF1
+              OMG
+              PHF11
+              RCBTB2
+              RERE
+              SETDB2
+              SLC45A1
+              SPSB1
+              TRIM13
+              EFS_fct
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.06 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         159               64.3725 %
+Incorrectly Classified Instances        88               35.6275 %
+Kappa statistic                          0.1452
+Mean absolute error                      0.4326
+Root mean squared error                  0.4778
+Relative absolute error                 94.2295 %
+Root relative squared error             99.7559 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.836    0.705    0.682      0.836    0.751      0.155    0.590     0.706     EFS_L5
+                 0.295    0.164    0.500      0.295    0.371      0.155    0.590     0.495     EFS_G5
+Weighted Avg.    0.644    0.512    0.617      0.644    0.616      0.155    0.590     0.631     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 133  26 |   a = EFS_L5
+  62  26 |   b = EFS_G5
+
+
