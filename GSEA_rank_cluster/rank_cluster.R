@@ -42,8 +42,8 @@ cc = cclust(rz_order, method = "hardcl", k=2, weights = 1/(nrow(rz_order):1))
 c1 = names(which(clusters(cc) == 1))
 c2 = names(which(clusters(cc) == 2))
 
-write.table(c1, file="c1.txt", sep = "\n", row.names = F, col.names = F, quote = F)
-write.table(c2, file = "c2.txt", sep = "\n", row.names = F, col.names = F, quote = F)
+write.table(c1, file="c1.txt", sep = "\n", row.names = F, col.names = F, quote = T)
+write.table(c2, file = "c2.txt", sep = "\n", row.names = F, col.names = F, quote = T)
 
 
 
