@@ -153,7 +153,7 @@ hist(cv$wcss)
 
 best_seed = cv[which.min(cv$wcss),"seed"]
 
-best_clst = simpleClst(best_seed, 2)
+best_clst = simpleClst(best_seed, 2, rz_order) #seed = 4
 
 
 #cls = simpleClst(29, 2, rz_order) #best performing k=2
