@@ -1,0 +1,26 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GNAI1	G protein subunit alpha i1 [Source:HGNC Symbol;Acc:HGNC:4384]	174	0.1278638243675232	0.21120968	Yes	
+row_1	PLCB1	phospholipase C beta 1 [Source:HGNC Symbol;Acc:HGNC:15917]	758	0.07307075709104538	0.30804953	Yes	
+row_2	MAPK4	mitogen-activated protein kinase 4 [Source:HGNC Symbol;Acc:HGNC:6878]	1734	0.04785861447453499	0.34220746	Yes	
+row_3	PIK3C2B	phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 beta [Source:HGNC Symbol;Acc:HGNC:8972]	2151	0.04185650125145912	0.393631	Yes	
+row_4	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	2398	0.03910430893301964	0.44871202	Yes	
+row_5	MAPK6	mitogen-activated protein kinase 6 [Source:HGNC Symbol;Acc:HGNC:6879]	2520	0.03781994804739952	0.5077532	Yes	
+row_6	ASAH1	N-acylsphingosine amidohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:735]	2567	0.03728598356246948	0.5695773	Yes	
+row_7	PLCB3	phospholipase C beta 3 [Source:HGNC Symbol;Acc:HGNC:9056]	6157	0.011997831054031849	0.41310668	No	
+row_8	AKT3	AKT serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:393]	6661	0.009667492471635342	0.40490502	No	
+row_9	S1PR3	sphingosine-1-phosphate receptor 3 [Source:HGNC Symbol;Acc:HGNC:3167]	7420	0.006404846906661987	0.3785123	No	
+row_10	S1PR2	sphingosine-1-phosphate receptor 2 [Source:HGNC Symbol;Acc:HGNC:3169]	7855	0.0045400881208479404	0.36490145	No	
+row_11	GNAI3	G protein subunit alpha i3 [Source:HGNC Symbol;Acc:HGNC:4387]	8341	0.0025003019254654646	0.3452677	No	
+row_12	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	8640	0.0013703627046197653	0.3329189	No	
+row_13	MAPK7	mitogen-activated protein kinase 7 [Source:HGNC Symbol;Acc:HGNC:6880]	8933	2.490611805114895E-4	0.31893867	No	
+row_14	PLCB2	phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	9224	-7.663764408789575E-4	0.30594638	No	
+row_15	SMPD2	sphingomyelin phosphodiesterase 2 [Source:HGNC Symbol;Acc:HGNC:11121]	9949	-0.0033286057878285646	0.2759433	No	
+row_16	S1PR5	sphingosine-1-phosphate receptor 5 [Source:HGNC Symbol;Acc:HGNC:14299]	10076	-0.003762941574677825	0.27619442	No	
+row_17	GNAI2	G protein subunit alpha i2 [Source:HGNC Symbol;Acc:HGNC:4385]	10904	-0.006648513022810221	0.24681585	No	
+row_18	S1PR1	sphingosine-1-phosphate receptor 1 [Source:HGNC Symbol;Acc:HGNC:3165]	11356	-0.007986027747392654	0.23828965	No	
+row_19	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	11989	-0.00998059194535017	0.22426087	No	
+row_20	SPHK1	sphingosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:11240]	13648	-0.015225325711071491	0.168621	No	
+row_21	SPHK2	sphingosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:18859]	14563	-0.018183372914791107	0.1547777	No	
+row_22	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	15115	-0.020213253796100616	0.16233552	No	
+row_23	RACGAP1	Rac GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:9804]	16003	-0.02371535822749138	0.15933388	No	
+row_24	MAPK12	mitogen-activated protein kinase 12 [Source:HGNC Symbol;Acc:HGNC:6874]	17213	-0.03033965826034546	0.15183061	No	

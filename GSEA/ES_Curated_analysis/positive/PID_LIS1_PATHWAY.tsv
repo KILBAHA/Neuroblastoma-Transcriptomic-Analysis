@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLA2G7	phospholipase A2 group VII [Source:HGNC Symbol;Acc:HGNC:9040]	263	0.11186694353818893	0.12094449	Yes	
+row_1	PAFAH1B1	platelet activating factor acetylhydrolase 1b regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8574]	881	0.06778956204652786	0.17165057	Yes	
+row_2	DAB1	DAB adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:2661]	1020	0.0634588897228241	0.24081126	Yes	
+row_3	DCX	doublecortin [Source:HGNC Symbol;Acc:HGNC:2714]	1463	0.052497729659080505	0.28184682	Yes	
+row_4	CLIP1	CAP-Gly domain containing linker protein 1 [Source:HGNC Symbol;Acc:HGNC:10461]	1965	0.044401466846466064	0.3102781	Yes	
+row_5	CDK5R1	cyclin dependent kinase 5 regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:1775]	2017	0.043604809790849686	0.3599636	Yes	
+row_6	NDEL1	nudE neurodevelopment protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:17620]	2029	0.04350292682647705	0.41150117	Yes	
+row_7	KATNA1	katanin catalytic subunit A1 [Source:HGNC Symbol;Acc:HGNC:6216]	2088	0.04263754561543465	0.4596832	Yes	
+row_8	DYNC1H1	dynein cytoplasmic 1 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2961]	2768	0.03495600447058678	0.46802217	Yes	
+row_9	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	2873	0.03398029878735542	0.50356984	Yes	
+row_10	DYNLT1	dynein light chain Tctex-type 1 [Source:HGNC Symbol;Acc:HGNC:11697]	3081	0.03205464780330658	0.5317291	Yes	
+row_11	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	3531	0.02824655920267105	0.5433864	Yes	
+row_12	CDK5R2	cyclin dependent kinase 5 regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:1776]	3557	0.028056493028998375	0.57574105	Yes	
+row_13	MAP1B	microtubule associated protein 1B [Source:HGNC Symbol;Acc:HGNC:6836]	3701	0.026763273403048515	0.60072404	Yes	
+row_14	LRP8	LDL receptor related protein 8 [Source:HGNC Symbol;Acc:HGNC:6700]	3725	0.02661040425300598	0.6314462	Yes	
+row_15	VLDLR	very low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:12698]	4886	0.019123615697026253	0.5970932	No	
+row_16	PPP2R5D	protein phosphatase 2 regulatory subunit B'delta [Source:HGNC Symbol;Acc:HGNC:9312]	5172	0.01732918620109558	0.6037742	No	
+row_17	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	7028	0.008142557926476002	0.521976	No	
+row_18	CDK5	cyclin dependent kinase 5 [Source:HGNC Symbol;Acc:HGNC:1774]	7711	0.005136510357260704	0.49446788	No	
+row_19	PAFAH1B3	platelet activating factor acetylhydrolase 1b catalytic subunit 3 [Source:HGNC Symbol;Acc:HGNC:8576]	7835	0.004616864491254091	0.4939249	No	
+row_20	PAFAH1B2	platelet activating factor acetylhydrolase 1b catalytic subunit 2 [Source:HGNC Symbol;Acc:HGNC:8575]	8355	0.002456441055983305	0.4712525	No	
+row_21	IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	8723	0.0010098828934133053	0.45434967	No	
+row_22	LRPAP1	LDL receptor related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	9551	-0.0018930811202153563	0.4158027	No	
+row_23	NUDC	nuclear distribution C, dynein complex regulator [Source:HGNC Symbol;Acc:HGNC:8045]	10339	-0.004692253191024065	0.38258085	No	
+row_24	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	11460	-0.00832879263907671	0.3372787	No	
+row_25	CSNK2A1	casein kinase 2 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2457]	12985	-0.013147775083780289	0.27780783	No	
+row_26	ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:76]	14088	-0.016625501215457916	0.24332656	No	
+row_27	RELN	reelin [Source:HGNC Symbol;Acc:HGNC:9957]	19147	-0.05237286165356636	0.056408282	No	

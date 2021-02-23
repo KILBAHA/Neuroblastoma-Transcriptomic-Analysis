@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GNAI1	G protein subunit alpha i1 [Source:HGNC Symbol;Acc:HGNC:4384]	174	0.1278638243675232	0.14407931	Yes	
+row_1	GNG2	G protein subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:4404]	407	0.09417933970689774	0.24507704	Yes	
+row_2	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	604	0.07999876141548157	0.33092025	Yes	
+row_3	PLCB1	phospholipase C beta 1 [Source:HGNC Symbol;Acc:HGNC:15917]	758	0.07307075709104538	0.41061392	Yes	
+row_4	GNB1	G protein subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4396]	1594	0.05027644336223602	0.42942908	Yes	
+row_5	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	1967	0.04439174383878708	0.46407092	Yes	
+row_6	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	2398	0.03910430893301964	0.48953685	Yes	
+row_7	GNAO1	G protein subunit alpha o1 [Source:HGNC Symbol;Acc:HGNC:4389]	2739	0.03533557429909706	0.5149452	Yes	
+row_8	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	2873	0.03398029878735542	0.5489526	Yes	
+row_9	GNAZ	G protein subunit alpha z [Source:HGNC Symbol;Acc:HGNC:4395]	4134	0.023760518059134483	0.5151308	Yes	
+row_10	PELP1	proline, glutamate and leucine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:30134]	4496	0.021459901705384254	0.5229353	Yes	
+row_11	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	4724	0.020055599510669708	0.535677	Yes	
+row_12	PTK2	protein tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:9611]	4872	0.019177792593836784	0.55131936	Yes	
+row_13	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	5721	0.014270225539803505	0.52650195	No	
+row_14	PLCB3	phospholipase C beta 3 [Source:HGNC Symbol;Acc:HGNC:9056]	6157	0.011997831054031849	0.5193563	No	
+row_15	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	7028	0.008142557926476002	0.48613667	No	
+row_16	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	8218	0.0030204257927834988	0.43105596	No	
+row_17	GNAI3	G protein subunit alpha i3 [Source:HGNC Symbol;Acc:HGNC:4387]	8341	0.0025003019254654646	0.42801958	No	
+row_18	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	8640	0.0013703627046197653	0.41494697	No	
+row_19	PLCB2	phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	9224	-7.663764408789575E-4	0.3870861	No	
+row_20	PLCG1	phospholipase C gamma 1 [Source:HGNC Symbol;Acc:HGNC:9065]	9499	-0.0016891774721443653	0.37557876	No	
+row_21	AR	androgen receptor [Source:HGNC Symbol;Acc:HGNC:644]	10014	-0.003554535796865821	0.35445267	No	
+row_22	GNRH1	gonadotropin releasing hormone 1 [Source:HGNC Symbol;Acc:HGNC:4419]	10443	-0.005060108844190836	0.339369	No	
+row_23	GNAI2	G protein subunit alpha i2 [Source:HGNC Symbol;Acc:HGNC:4385]	10904	-0.006648513022810221	0.3246024	No	
+row_24	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	11390	-0.008076319471001625	0.3103066	No	
+row_25	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	11989	-0.00998059194535017	0.292707	No	
+row_26	FOS	Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]	12505	-0.011591119691729546	0.2811271	No	
+row_27	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	14382	-0.017534852027893066	0.20946722	No	
+row_28	SHBG	sex hormone binding globulin [Source:HGNC Symbol;Acc:HGNC:10839]	14387	-0.01754540205001831	0.23021877	No	
+row_29	PLCG2	phospholipase C gamma 2 [Source:HGNC Symbol;Acc:HGNC:9066]	15070	-0.020037630572915077	0.22048104	No	
+row_30	MAP2K2	mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	17322	-0.031089114025235176	0.14649539	No	

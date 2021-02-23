@@ -1,0 +1,119 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     STARK_PREFRONTAL_CORTEX_22Q11_DELETION_UP.tsv_dimred-weka.filters.unsupervised.attribute.Remove-R1-2
+Instances:    247
+Attributes:   75
+              AFTPH
+              ARGLU1
+              ATP1A3
+              ATP8A1
+              AUTS2
+              B3GAT1
+              CAMK2A
+              CDK5R1
+              CHD9
+              CNR1
+              CPEB2
+              CREG2
+              CYFIP2
+              CYGB
+              DGKD
+              DLG4
+              EID1
+              ENDOD1
+              EPS15
+              FNDC3A
+              FOXP1
+              GNAI1
+              GRIA1
+              GSK3B
+              IGF1R
+              KIAA0100
+              KIAA0513
+              KIF5C
+              KLHL24
+              LIN7A
+              LRRC7
+              LSM11
+              MAP3K2
+              MAPRE2
+              MARCKS
+              MEG3
+              MIA3
+              MINK1
+              MYCBP2
+              NCDN
+              NUMBL
+              PBX1
+              PCDH19
+              PGM2L1
+              PIK3R1
+              PLXNC1
+              PPP2R2C
+              PRKAB2
+              PYGM
+              R3HDM1
+              RALGAPA1
+              RHOU
+              RICTOR
+              RIMBP2
+              RNF165
+              RSF1
+              SHOC2
+              SLC8A1
+              SMARCC2
+              SOBP
+              SP4
+              SPOCK2
+              SPTBN1
+              SRRM1
+              SRSF11
+              TIMP2
+              TMOD2
+              TNFRSF19
+              TRIM2
+              UBR2
+              ZBTB16
+              ZEB2
+              ZNF445
+              ZNF804A
+              EFS_fct
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.07 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         181               73.2794 %
+Incorrectly Classified Instances        66               26.7206 %
+Kappa statistic                          0.3517
+Mean absolute error                      0.3986
+Root mean squared error                  0.4425
+Relative absolute error                 86.8305 %
+Root relative squared error             92.3918 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.918    0.602    0.734      0.918    0.816      0.382    0.697     0.749     EFS_L5
+                 0.398    0.082    0.729      0.398    0.515      0.382    0.697     0.634     EFS_G5
+Weighted Avg.    0.733    0.417    0.732      0.733    0.708      0.382    0.697     0.708     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 146  13 |   a = EFS_L5
+  53  35 |   b = EFS_G5
+
+

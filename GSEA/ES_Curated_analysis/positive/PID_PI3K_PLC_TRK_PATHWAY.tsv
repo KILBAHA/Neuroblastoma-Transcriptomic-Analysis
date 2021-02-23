@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NTRK1	neurotrophic receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:8031]	69	0.16310317814350128	0.13323489	Yes	
+row_1	TRPV1	transient receptor potential cation channel subfamily V member 1 [Source:HGNC Symbol;Acc:HGNC:12716]	441	0.09120279550552368	0.19132456	Yes	
+row_2	CAMK4	calcium/calmodulin dependent protein kinase IV [Source:HGNC Symbol;Acc:HGNC:1464]	479	0.0879211574792862	0.26315475	Yes	
+row_3	CAMK2A	calcium/calmodulin dependent protein kinase II alpha [Source:HGNC Symbol;Acc:HGNC:1460]	515	0.08566293120384216	0.33319184	Yes	
+row_4	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	604	0.07999876141548157	0.39586705	Yes	
+row_5	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	1305	0.05606398358941078	0.4082759	Yes	
+row_6	EPB41L1	erythrocyte membrane protein band 4.1 like 1 [Source:HGNC Symbol;Acc:HGNC:3378]	1542	0.05106408894062042	0.43940395	Yes	
+row_7	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	1746	0.04778338596224785	0.46941277	Yes	
+row_8	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	1967	0.04439174383878708	0.49574092	Yes	
+row_9	SHC1	SHC adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:10840]	2194	0.04133430868387222	0.5192115	Yes	
+row_10	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	2733	0.03538637235760689	0.5222954	Yes	
+row_11	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	2835	0.03431720659136772	0.5460586	Yes	
+row_12	AGAP2	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2 [Source:HGNC Symbol;Acc:HGNC:16921]	3386	0.02935219369828701	0.54349494	Yes	
+row_13	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	3531	0.02824655920267105	0.5600494	Yes	
+row_14	FOXO3	forkhead box O3 [Source:HGNC Symbol;Acc:HGNC:3821]	3933	0.025093642994761467	0.56127435	Yes	
+row_15	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	4398	0.0220850370824337	0.5568684	Yes	
+row_16	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	4522	0.021363727748394012	0.5686935	Yes	
+row_17	GAB1	GRB2 associated binding protein 1 [Source:HGNC Symbol;Acc:HGNC:4066]	4975	0.018593547865748405	0.561955	Yes	
+row_18	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	5222	0.017051707953214645	0.5640951	Yes	
+row_19	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	5283	0.016618603840470314	0.57505524	Yes	
+row_20	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	5719	0.014288892969489098	0.56554973	Yes	
+row_21	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	5721	0.014270225539803505	0.5774554	Yes	
+row_22	SOS1	SOS Ras/Rac guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:11187]	5935	0.013106785714626312	0.57791984	Yes	
+row_23	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	7264	0.007077494636178017	0.51828504	No	
+row_24	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	7991	0.00395463639870286	0.4857551	No	
+row_25	PDPK1	3-phosphoinositide dependent protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:8816]	8186	0.00315638049505651	0.4788215	No	
+row_26	PLCG1	phospholipase C gamma 1 [Source:HGNC Symbol;Acc:HGNC:9065]	9499	-0.0016891774721443653	0.41546246	No	
+row_27	STAT5A	signal transducer and activator of transcription 5A [Source:HGNC Symbol;Acc:HGNC:11366]	9904	-0.00319737964309752	0.39819542	No	
+row_28	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	11390	-0.008076319471001625	0.3316462	No	
+row_29	BAD	BCL2 associated agonist of cell death [Source:HGNC Symbol;Acc:HGNC:936]	11935	-0.009801482781767845	0.31299993	No	
+row_30	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	11989	-0.00998059194535017	0.31874466	No	
+row_31	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	13266	-0.013991215266287327	0.26746917	No	
+row_32	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	14382	-0.017534852027893066	0.22711103	No	
+row_33	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	15802	-0.022810881957411766	0.17616431	No	
+row_34	NGF	nerve growth factor [Source:HGNC Symbol;Acc:HGNC:7808]	16594	-0.026560192927718163	0.15936331	No	
+row_35	TRPC3	transient receptor potential cation channel subfamily C member 3 [Source:HGNC Symbol;Acc:HGNC:12335]	16753	-0.027526503428816795	0.1746234	No	

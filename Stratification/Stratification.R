@@ -1,5 +1,6 @@
+
 ### Read in z_scores and format ###
-z_scores = read.csv("data_RNA_Seq_mRNA_median_all_sample_Zscores.csv", sep = "\t", stringsAsFactors = FALSE, header = TRUE)
+z_scores = read.csv("data_expression_median.txt", sep = "\t", stringsAsFactors = FALSE, header = TRUE)
 
 map = z_scores[,c(1,2)]
 
@@ -69,7 +70,11 @@ write.csv(EFS_g_5, file="event_free_g5.csv")
 write.csv(EFS_l_5, file="event_free_l5.csv")
 
 
+write.table(surv_g_5$Row.names, file="OS_g5.txt", sep = "\n", row.names = F, col.names = F, quote = T)
+write.table(surv_u_5$Row.names, file = "OS_l5.txt", sep= "\n", row.names= F, col.names = F, quote = T)
 
+write.table(EFS_g_5$Row.names, file= "EF_g5.txt", sep = "\n", row.names = F, col.names = F, quote = T)
+write.table(EFS_l_5$Row.names, file= "EF_u5.txt", sep = "\n", row.names = F, col.names = F, quote = T)
 
 
 

@@ -1,0 +1,68 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     PID_EPHB_FWD_PATHWAY.tsv_dimred-weka.filters.unsupervised.attribute.Remove-R1-2
+Instances:    247
+Attributes:   24
+              CDC42
+              CRK
+              EFNB2
+              EFNB3
+              EPHB3
+              GRB7
+              GRIA1
+              ITSN1
+              KALRN
+              KRAS
+              MAP2K1
+              MAP4K4
+              MAPK1
+              NRAS
+              PAK1
+              PIK3R1
+              PTK2
+              RAP1A
+              RAP1B
+              RASA1
+              SHC1
+              SYNJ1
+              WASL
+              EFS_fct
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.05 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         165               66.8016 %
+Incorrectly Classified Instances        82               33.1984 %
+Kappa statistic                          0.199 
+Mean absolute error                      0.4178
+Root mean squared error                  0.4598
+Relative absolute error                 91.0018 %
+Root relative squared error             96.0019 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.862    0.682    0.695      0.862    0.770      0.214    0.665     0.769     EFS_L5
+                 0.318    0.138    0.560      0.318    0.406      0.214    0.665     0.539     EFS_G5
+Weighted Avg.    0.668    0.488    0.647      0.668    0.640      0.214    0.665     0.687     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 137  22 |   a = EFS_L5
+  60  28 |   b = EFS_G5
+
+

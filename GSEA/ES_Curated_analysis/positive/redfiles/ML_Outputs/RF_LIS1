@@ -1,0 +1,60 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     PID_LIS1_PATHWAY.tsv_dimred-weka.filters.unsupervised.attribute.Remove-R1-2
+Instances:    247
+Attributes:   16
+              CDC42
+              CDK5R1
+              CDK5R2
+              CLIP1
+              DAB1
+              DCX
+              DYNC1H1
+              DYNLT1
+              KATNA1
+              LRP8
+              MAP1B
+              NDEL1
+              PAFAH1B1
+              PLA2G7
+              YWHAE
+              EFS_fct
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.05 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         162               65.587  %
+Incorrectly Classified Instances        85               34.413  %
+Kappa statistic                          0.1674
+Mean absolute error                      0.4248
+Root mean squared error                  0.4681
+Relative absolute error                 92.5275 %
+Root relative squared error             97.7469 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.855    0.705    0.687      0.855    0.762      0.181    0.631     0.719     EFS_L5
+                 0.295    0.145    0.531      0.295    0.380      0.181    0.631     0.523     EFS_G5
+Weighted Avg.    0.656    0.505    0.631      0.656    0.626      0.181    0.631     0.649     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 136  23 |   a = EFS_L5
+  62  26 |   b = EFS_G5
+
+

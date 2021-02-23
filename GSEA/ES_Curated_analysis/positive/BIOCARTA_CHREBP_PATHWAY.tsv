@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADCY1	adenylate cyclase 1 [Source:HGNC Symbol;Acc:HGNC:232]	154	0.13310304284095764	0.19700176	Yes	
+row_1	PRKACB	protein kinase cAMP-activated catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9381]	316	0.10428785532712936	0.34936514	Yes	
+row_2	PRKAA2	protein kinase AMP-activated catalytic subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:9377]	436	0.09156765788793564	0.4842476	Yes	
+row_3	PRKAG2	protein kinase AMP-activated non-catalytic subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:9386]	1242	0.05752435326576233	0.53296083	Yes	
+row_4	PRKAR2B	protein kinase cAMP-dependent type II regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:9392]	1740	0.047812510281801224	0.5819389	Yes	
+row_5	PRKAA1	protein kinase AMP-activated catalytic subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:9376]	2526	0.037734370678663254	0.6012187	Yes	
+row_6	PRKAB2	protein kinase AMP-activated non-catalytic subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:9379]	2747	0.035255879163742065	0.6445596	Yes	
+row_7	PPP2CA	protein phosphatase 2 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9299]	2934	0.03343411907553673	0.6867774	Yes	
+row_8	PRKAG1	protein kinase AMP-activated non-catalytic subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:9385]	3952	0.02497759833931923	0.6750038	No	
+row_9	PRKAR1B	protein kinase cAMP-dependent type I regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:9390]	5867	0.013441490940749645	0.6012494	No	
+row_10	PRKAR2A	protein kinase cAMP-dependent type II regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9391]	6286	0.011380704119801521	0.5981236	No	
+row_11	PRKAR1A	protein kinase cAMP-dependent type I regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9388]	6868	0.00879647582769394	0.5829848	No	
+row_12	GNAS	GNAS complex locus [Source:HGNC Symbol;Acc:HGNC:4392]	8617	0.0014563070144504309	0.49899608	No	
+row_13	ACSM1	acyl-CoA synthetase medium chain family member 1 [Source:HGNC Symbol;Acc:HGNC:18049]	9008	3.8847469113534316E-5	0.47981745	No	
+row_14	ACSBG1	acyl-CoA synthetase bubblegum family member 1 [Source:HGNC Symbol;Acc:HGNC:29567]	9441	-0.0015188095858320594	0.4608419	No	
+row_15	PRKAB1	protein kinase AMP-activated non-catalytic subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:9378]	10288	-0.004536743275821209	0.42608306	No	
+row_16	PRKAG3	protein kinase AMP-activated non-catalytic subunit gamma 3 [Source:HGNC Symbol;Acc:HGNC:9387]	11029	-0.007028546184301376	0.4003834	No	
+row_17	PRKACG	protein kinase cAMP-activated catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9382]	14339	-0.017374135553836823	0.26385987	No	
+row_18	MLXIPL	MLX interacting protein like [Source:HGNC Symbol;Acc:HGNC:12744]	14883	-0.019287951290607452	0.2667225	No	

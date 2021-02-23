@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CAB39L	calcium binding protein 39 like [Source:HGNC Symbol;Acc:HGNC:20290]	186	0.12575998902320862	0.11037127	Yes	
+row_1	MIR15A	microRNA 15a [Source:HGNC Symbol;Acc:HGNC:31543]	617	0.0791851207613945	0.16442338	Yes	
+row_2	NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	1208	0.05846110358834267	0.19087715	Yes	
+row_3	FAF1	Fas associated factor 1 [Source:HGNC Symbol;Acc:HGNC:3578]	1226	0.057958994060754776	0.24513595	Yes	
+row_4	CDADC1	cytidine and dCMP deaminase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:20299]	1255	0.05711038410663605	0.29804507	Yes	
+row_5	PRKN	parkin RBR E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:8607]	1423	0.053287263959646225	0.34045902	Yes	
+row_6	KCNRG	potassium channel regulator [Source:HGNC Symbol;Acc:HGNC:18893]	1612	0.05002349987626076	0.37873375	Yes	
+row_7	RERE	arginine-glutamic acid dipeptide repeats [Source:HGNC Symbol;Acc:HGNC:9965]	1821	0.04673038423061371	0.4128908	Yes	
+row_8	SPRYD7	SPRY domain containing 7 [Source:HGNC Symbol;Acc:HGNC:14297]	1985	0.04415178671479225	0.44681764	Yes	
+row_9	EVI2B	ecotropic viral integration site 2B [Source:HGNC Symbol;Acc:HGNC:3500]	2131	0.04209975525736809	0.4796822	Yes	
+row_10	SETDB2	SET domain bifurcated histone lysine methyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:20263]	2953	0.033203426748514175	0.47072336	Yes	
+row_11	SPSB1	splA/ryanodine receptor domain and SOCS box containing 1 [Source:HGNC Symbol;Acc:HGNC:30628]	3060	0.03219058737158775	0.4960929	Yes	
+row_12	CDKN2C	cyclin dependent kinase inhibitor 2C [Source:HGNC Symbol;Acc:HGNC:1789]	3101	0.031867850571870804	0.5244133	Yes	
+row_13	RCBTB2	RCC1 and BTB domain containing protein 2 [Source:HGNC Symbol;Acc:HGNC:1914]	3660	0.027150874957442284	0.5226819	Yes	
+row_14	FNDC3A	fibronectin type III domain containing 3A [Source:HGNC Symbol;Acc:HGNC:20296]	3885	0.02536582015454769	0.5357393	Yes	
+row_15	TRIM13	tripartite motif containing 13 [Source:HGNC Symbol;Acc:HGNC:9976]	3929	0.025110993534326553	0.55748826	Yes	
+row_16	H6PD	hexose-6-phosphate dehydrogenase/glucose 1-dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4795]	4103	0.023988481611013412	0.5717536	Yes	
+row_17	OMG	oligodendrocyte myelin glycoprotein [Source:HGNC Symbol;Acc:HGNC:8135]	4108	0.02395538054406643	0.594329	Yes	
+row_18	PHF11	PHD finger protein 11 [Source:HGNC Symbol;Acc:HGNC:17024]	4162	0.023599203675985336	0.61414725	Yes	
+row_19	SLC45A1	solute carrier family 45 member 1 [Source:HGNC Symbol;Acc:HGNC:17939]	4242	0.0230622049421072	0.6321717	Yes	
+row_20	RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	5120	0.017592115327715874	0.6056081	No	
+row_21	KPNA3	karyopherin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6396]	5402	0.015968240797519684	0.6069184	No	
+row_22	CDKN2B	cyclin dependent kinase inhibitor 2B [Source:HGNC Symbol;Acc:HGNC:1788]	5870	0.01343492604792118	0.59663975	No	
+row_23	PTEN	phosphatase and tensin homolog [Source:HGNC Symbol;Acc:HGNC:9588]	6896	0.008663344196975231	0.55428314	No	
+row_24	QKI	QKI, KH domain containing RNA binding [Source:HGNC Symbol;Acc:HGNC:21100]	8322	0.0025389832444489002	0.48636118	No	
+row_25	RCBTB1	RCC1 and BTB domain containing protein 1 [Source:HGNC Symbol;Acc:HGNC:18243]	10468	-0.005132060497999191	0.38536623	No	
+row_26	MIR34A	microRNA 34a [Source:HGNC Symbol;Acc:HGNC:31635]	10676	-0.0058386619202792645	0.38069952	No	
+row_27	ATAD1	ATPase family AAA domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25903]	10766	-0.006108224857598543	0.3821133	No	
+row_28	CDKN2A	cyclin dependent kinase inhibitor 2A [Source:HGNC Symbol;Acc:HGNC:1787]	13236	-0.013917667791247368	0.27347818	No	
+row_29	ENO1	enolase 1 [Source:HGNC Symbol;Acc:HGNC:3350]	15716	-0.022501224651932716	0.17250931	No	
+row_30	EBPL	EBP like [Source:HGNC Symbol;Acc:HGNC:18061]	19291	-0.05596909299492836	0.049308814	No	

@@ -1,0 +1,65 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     REACTOME_PHASE_0_RAPID_DEPOLARISATION.tsv_dimred-weka.filters.unsupervised.attribute.Remove-R1-2
+Instances:    247
+Attributes:   21
+              CACNA1D
+              CACNA2D3
+              CACNB1
+              CACNB2
+              CACNB3
+              CACNB4
+              CACNG2
+              CACNG3
+              CACNG4
+              CACNG7
+              CAMK2A
+              CAMK2B
+              CAMK2G
+              FGF13
+              SCN1A
+              SCN2A
+              SCN3A
+              SCN3B
+              SCN7A
+              SCN9A
+              EFS_fct
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.06 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         179               72.4696 %
+Incorrectly Classified Instances        68               27.5304 %
+Kappa statistic                          0.332 
+Mean absolute error                      0.3989
+Root mean squared error                  0.4532
+Relative absolute error                 86.8922 %
+Root relative squared error             94.6234 %
+Total Number of Instances              247     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.912    0.614    0.729      0.912    0.810      0.361    0.670     0.725     EFS_L5
+                 0.386    0.088    0.708      0.386    0.500      0.361    0.670     0.591     EFS_G5
+Weighted Avg.    0.725    0.426    0.721      0.725    0.700      0.361    0.670     0.678     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 145  14 |   a = EFS_L5
+  54  34 |   b = EFS_G5
+
+
