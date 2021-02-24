@@ -3,6 +3,7 @@
 library('foreach')
 library('parallel')
 library('flexclust') # handles weighted clustering
+library('doParallel')
 
 setwd("~/Documents/GitHub/BioinfGroupProject/GSEA_rank_cluster")
 
@@ -42,7 +43,7 @@ rz_order = rz[,rk] # order columns by ranking
 
 
 cl = makeCluster(detectCores() -1)
-cl
+registerDoParallel(cl)
 
 get_WCSS = function(clustering, data){
   cents = as.data.frame(parameters(clustering))
@@ -88,6 +89,7 @@ bestWCC = Inf
 bestDev = 0 #1400
 
 WCSSs = foreach(s = sdev) %dopar% {
+  library('flexclust')
   wg <- dnorm(seq(1, ncol(rz_order)), mean = ncol(rz_order)/2, sd = sdev)
   range01 <- function(x){(x-min(x))/(max(x)-min(x))}
   wg = range01(wg)
@@ -97,7 +99,7 @@ WCSSs = foreach(s = sdev) %dopar% {
   WCSS
 }
 
-bestDev = sdev[which.min(WCSSs)]
+bestDev = sdev[which.min(WCSSs)] #sd = 200
 
 wg <- dnorm(seq(1, ncol(rz_order)), mean = ncol(rz_order)/2, sd = bestDev)
 
@@ -107,7 +109,8 @@ wg = range01(wg)
 
 
 elb = foreach(k = 2:10) %dopar% { #k = 2:10
-  cv = convergence(2,k,rz_order,weights=wg)
+  library('flexclust')
+  cv = convergence(100,k,rz_order,weights=wg)
   #WCC = min(cv$wcss)
   cv
   #WCC
