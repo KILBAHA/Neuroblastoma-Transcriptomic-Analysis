@@ -87,17 +87,17 @@ sdev = seq(100,3000, by=100)
 bestWCC = Inf
 bestDev = 0 #1400
 
-WCCs = foreach(s = sdev) %dopar% {
+WCSSs = foreach(s = sdev) %dopar% {
   wg <- dnorm(seq(1, ncol(rz_order)), mean = ncol(rz_order)/2, sd = sdev)
   range01 <- function(x){(x-min(x))/(max(x)-min(x))}
   wg = range01(wg)
   
   cv = convergence(100,2,rz_order, weights=wg) #change this to allow convergence
-  WCC = min(cv$wcss)
-  WCC
+  WCSS = min(cv$wcss)
+  WCSS
 }
 
-bestDev = sdev[which.min(WCCs)]
+bestDev = sdev[which.min(WCSSs)]
 
 wg <- dnorm(seq(1, ncol(rz_order)), mean = ncol(rz_order)/2, sd = bestDev)
 
@@ -106,17 +106,25 @@ range01 <- function(x){(x-min(x))/(max(x)-min(x))}
 wg = range01(wg)
 
 
-elb = foreach(k = 2:10) %dopar% {
-  cv = convergence(100,k,rz_order,weights=wg)
-  WCC = min(cv$wcss)
-  WCC
+elb = foreach(k = 2:10) %dopar% { #k = 2:10
+  cv = convergence(2,k,rz_order,weights=wg)
+  #WCC = min(cv$wcss)
+  cv
+  #WCC
 }
 
-elb = unlist(elb)
+seeds = c()
+wcss = c()
 
-plot(2:10, elb, type='l', main = "Elbow Plot", ylab = "WCSS", xlab = "K" )
+for (run in elb){
+  lowest = run[which.min(run$wcss),]
+  seeds = c(seeds, lowest$seed)
+  wcss = c(wcss, lowest$wcss)
+}
 
-elb_frame = data.frame(k_val = 2:10, WCSS = elb)
+plot(2:10, wcss, type='l', main = "Elbow Plot", ylab = "WCSS", xlab = "K" )
+
+elb_frame = data.frame(k_val = 2:10, WCSS = wcss, SEED = seeds)
 
 write.table(elb_frame, "elbow_para.txt", sep = "\t")
 
