@@ -5,7 +5,7 @@ library('parallel')
 library('flexclust') # handles weighted clustering
 library('doParallel')
 
-setwd("~/Documents/GitHub/BioinfGroupProject/GSEA_rank_cluster")
+setwd("~/GSEA_rank_cluster")
 
 #set.seed(255)
 #read in and format counts (z_scores)
@@ -83,23 +83,24 @@ convergence = function(num_seeds, k_clust, data, weights = wg){ #function to det
 }
 
 #optimise sd - which sd value gives the lowest WCC?
-sdev = seq(100,3000, by=100)
+#sdev = seq(100,3000, by=100)
 
-bestWCC = Inf
-bestDev = 0 #1400
+#bestWCC = Inf
+#bestDev = 0 #1400
 
-WCSSs = foreach(s = sdev) %dopar% {
-  library('flexclust')
-  wg <- dnorm(seq(1, ncol(rz_order)), mean = ncol(rz_order)/2, sd = sdev)
-  range01 <- function(x){(x-min(x))/(max(x)-min(x))}
-  wg = range01(wg)
+#WCSSs = foreach(s = sdev) %dopar% {
+#  library('flexclust')
+#  wg <- dnorm(seq(1, ncol(rz_order)), mean = ncol(rz_order)/2, sd = sdev)
+#  range01 <- function(x){(x-min(x))/(max(x)-min(x))}
+#  wg = range01(wg)
   
-  cv = convergence(100,2,rz_order, weights=wg) #change this to allow convergence
-  WCSS = min(cv$wcss)
-  WCSS
-}
+#  cv = convergence(100,2,rz_order, weights=wg) #change this to allow convergence
+#  WCSS = min(cv$wcss)
+#  WCSS
+#}
 
-bestDev = sdev[which.min(WCSSs)] #sd = 200
+#bestDev = sdev[which.min(WCSSs)] #sd = 200
+bestDev = 200
 
 wg <- dnorm(seq(1, ncol(rz_order)), mean = ncol(rz_order)/2, sd = bestDev)
 
