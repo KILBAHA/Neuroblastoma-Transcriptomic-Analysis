@@ -1,3 +1,5 @@
+setwd("~/Documents/GitHub/BioinfGroupProject/GSEA_rank_cluster/k9")
+
 clinDat = read.csv("data_clinical_patient.txt", sep = "\t", skip = 4)
 clinNames= clinDat[,1] 
 clinDat = clinDat[,2:ncol(clinDat)]
@@ -16,13 +18,26 @@ num_pie = function(dat, tit){
   pie(vls, labels = lbs, main = tit)
 }
 
+get_prop = function(dat, atrib){
+  return(length(dat[dat == atrib])/length(dat) * 100)
+}
+
+
+
 plot_cls = function(clst_num, cdat = clinDat){
   clst = as.vector(read.table(paste("c",clst_num,".txt", sep = "")))
   clstDat = clinDat[rownames(clinDat) %in% clst$V1,]
   
   par(mfrow=c(3,3))
   
-  
+  clst_stat = data.frame(Age = mean(clstDat$AGE_IN_DAYS, na.rm = T),
+             EFS = mean(clstDat$EFS_TIME, na.rm=T),
+             "% Male" = get_prop(clstDat$SEX, "Male"),
+             "% White" = get_prop(clstDat$RACE, "White"),
+             "% High_Risk" = get_prop(clstDat$RISK_GROUP, "High Risk"),
+             "% INSS_Stage_4" = get_prop(clstDat$INSS_STAGE, "Stage 4"),
+             "% Unfavourable_Histology" =get_prop(clstDat$TUMOR_SAMPLE_HISTOLOGY, "Unfavorable"),
+             "% Neuroblastoma_Diagnosis"=get_prop(clstDat$DIAGNOSIS, "Neuroblastoma"))
   
   hist(clstDat$AGE, main = paste("Age cluster", clst_num), breaks = max(clstDat$AGE)-1)
   abline(v=median(clstDat$AGE), col = "blue", lwd = 2)
@@ -40,13 +55,23 @@ plot_cls = function(clst_num, cdat = clinDat){
   num_pie(clstDat$TUMOR_SAMPLE_HISTOLOGY, tit = paste("Tumour Sample Histology Cluster", clst_num))
   num_pie(clstDat$DIAGNOSIS, tit = paste("Diagnosis Cluster", clst_num))
   
+  return(clst_stat)
 } 
 
-for(i in 1:9){
-  plot_cls(i)
+
+
+plot_clusters = function(clst_list){
+  allclst = data.frame()
+  for (clst in clst_list){
+    allclst = rbind(allclst, plot_cls(clst))
+  }
+  
+  par(mfrow = c(2,2))
+  
+  for(atrib in names(allclst)){
+    barplot(allclst[,atrib], main = atrib, names.arg = clst_list, xlab = "Clusters")
+  }
 }
-
-
-
-
-
+plot_clusters(c(1:9))
+plot_clusters(c(1,5,3,4,8,6,2,9,7))
+plot_clusters(c(8,2,1,3,4,5,6,7,9))

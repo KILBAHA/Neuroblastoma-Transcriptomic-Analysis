@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	1826	0.17029975354671478	0.02645345	Yes	
+row_1	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	2013	0.16273389756679535	0.1286297	Yes	
+row_2	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	2707	0.14136776328086853	0.19117619	Yes	
+row_3	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	3007	0.13322973251342773	0.26758987	Yes	
+row_4	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	4236	0.10566127300262451	0.27931297	Yes	
+row_5	ARHGEF4	Rho guanine nucleotide exchange factor 4 [Source:HGNC Symbol;Acc:HGNC:684]	4487	0.10072658210992813	0.33590332	Yes	
+row_6	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	4889	0.0938403457403183	0.38033307	Yes	
+row_7	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	5258	0.08816423267126083	0.42250675	Yes	
+row_8	CRK	CRK proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2362]	5543	0.0835714042186737	0.4656814	Yes	
+row_9	NCK1	NCK adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:7664]	6089	0.07586105167865753	0.49070534	Yes	
+row_10	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	6113	0.0754929929971695	0.5412272	Yes	
+row_11	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	6160	0.07455146312713623	0.5899703	Yes	
+row_12	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	8166	0.04936930537223816	0.52484655	No	
+row_13	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	8758	0.04285772144794464	0.52501863	No	
+row_14	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	8982	0.04058258235454559	0.5417871	No	
+row_15	ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:76]	14204	-0.003428790019825101	0.28658593	No	
+row_16	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	14468	-0.005905455909669399	0.2776532	No	
+row_17	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	14588	-0.006794062443077564	0.2764319	No	
+row_18	FYN	FYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:4037]	14613	-0.0070051890797913074	0.28004134	No	

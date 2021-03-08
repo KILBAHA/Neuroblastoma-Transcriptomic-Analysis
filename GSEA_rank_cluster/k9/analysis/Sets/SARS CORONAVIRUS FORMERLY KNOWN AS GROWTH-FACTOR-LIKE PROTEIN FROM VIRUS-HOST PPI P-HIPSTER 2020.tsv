@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	1826	0.17029975354671478	0.041796893	Yes	
+row_1	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	2013	0.16273389756679535	0.15861975	Yes	
+row_2	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	2707	0.14136776328086853	0.233895	Yes	
+row_3	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	3007	0.13322973251342773	0.32230124	Yes	
+row_4	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	4236	0.10566127300262451	0.343545	Yes	
+row_5	ARHGEF4	Rho guanine nucleotide exchange factor 4 [Source:HGNC Symbol;Acc:HGNC:684]	4487	0.10072658210992813	0.4092024	Yes	
+row_6	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	4889	0.0938403457403183	0.46208093	Yes	
+row_7	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	5258	0.08816423267126083	0.5121923	Yes	
+row_8	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	6113	0.0754929929971695	0.5285238	Yes	
+row_9	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	6160	0.07455146312713623	0.5839763	Yes	
+row_10	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	8166	0.04936930537223816	0.523315	No	
+row_11	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	8758	0.04285772144794464	0.5273497	No	
+row_12	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	8982	0.04058258235454559	0.54777247	No	
+row_13	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	14468	-0.005905455909669399	0.28182787	No	
+row_14	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	14588	-0.006794062443077564	0.28121915	No	

@@ -20,9 +20,9 @@ colnames(count) = name_fix
 miss = count[rowSums(is.na(count)) > 0,] #no missing variables!
 
 ### Remove values with no phenotype (run PheLab first!) ### 
-todel = c("PACPJG", "PAJXLE") #change these variables to the output of nodat in PheLab file
+#todel = c("PACPJG", "PAJXLE") #change these variables to the output of nodat in PheLab file
 
-count = count[,-which(colnames(count) %in% todel)]
+#count = count[,-which(colnames(count) %in% todel)]
 
 
 ### Format into output ### 
