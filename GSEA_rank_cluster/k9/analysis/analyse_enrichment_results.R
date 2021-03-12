@@ -8,6 +8,9 @@ get_sig = function(set, cluster, pval=0.05, qval=0.25){ # get significant GSEA v
   return(res[(res[,"NOM.p.val"] <= pval) & (res[,"FDR.q.val"] <= qval),])
 }
 
+get_sig('Hallmark', 2)
+
+
 find_overlap = function(c1, c2){ #find overlap between enrichment sets in two clusters
   ol = intersect(c1[,"NAME"], c2[,"NAME"])
   c1_ol = c1[c1[,"NAME"] %in% ol,]
