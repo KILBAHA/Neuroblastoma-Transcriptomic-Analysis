@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	1197	0.31415316462516785	0.22590004	Yes	
+row_1	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	3378	0.1346966028213501	0.24055292	Yes	
+row_2	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	4057	0.10807708650827408	0.30513975	Yes	
+row_3	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	4605	0.08962655067443848	0.35945287	Yes	
+row_4	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	4881	0.08134528249502182	0.4196698	Yes	
+row_5	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	7940	0.02627931721508503	0.2926863	No	
+row_6	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	10049	0.003790877992287278	0.19215934	No	
+row_7	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	11677	-0.01214821171015501	0.12293506	No	
+row_8	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	12623	-0.021451136097311974	0.09578431	No	
+row_9	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	13971	-0.035463642328977585	0.061516434	No	
+row_10	ARHGEF4	Rho guanine nucleotide exchange factor 4 [Source:HGNC Symbol;Acc:HGNC:684]	14819	-0.04618013650178909	0.06162806	No	
+row_11	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	14834	-0.046349603682756424	0.10297645	No	
+row_12	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	15167	-0.05104190856218338	0.13289717	No	
+row_13	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	15259	-0.052188690751791	0.17574398	No	
+row_14	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	16772	-0.07974972575902939	0.17350566	No	

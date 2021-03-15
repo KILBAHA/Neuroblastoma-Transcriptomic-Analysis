@@ -1,0 +1,41 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DPP4	dipeptidyl peptidase 4 [Source:HGNC Symbol;Acc:HGNC:3009]	589	0.14867223799228668	0.042563643	Yes	
+row_1	CHGA	chromogranin A [Source:HGNC Symbol;Acc:HGNC:1929]	721	0.13735482096672058	0.10228933	Yes	
+row_2	SYT13	synaptotagmin 13 [Source:HGNC Symbol;Acc:HGNC:14962]	865	0.1257975995540619	0.15585275	Yes	
+row_3	DCX	doublecortin [Source:HGNC Symbol;Acc:HGNC:2714]	1243	0.10651323199272156	0.18856761	Yes	
+row_4	ISL1	ISL LIM homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6132]	1416	0.10028797388076782	0.22840531	Yes	
+row_5	IAPP	islet amyloid polypeptide [Source:HGNC Symbol;Acc:HGNC:5329]	1613	0.09455527365207672	0.2642952	Yes	
+row_6	NKX6-1	NK6 homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7839]	1787	0.0892627090215683	0.2987702	Yes	
+row_7	PAK3	p21 (RAC1) activated kinase 3 [Source:HGNC Symbol;Acc:HGNC:8592]	1931	0.08574564009904861	0.33303162	Yes	
+row_8	SST	somatostatin [Source:HGNC Symbol;Acc:HGNC:11329]	2959	0.06694577634334564	0.31458083	Yes	
+row_9	ELP4	elongator acetyltransferase complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:1171]	3451	0.06054617092013359	0.3195137	Yes	
+row_10	INS	insulin [Source:HGNC Symbol;Acc:HGNC:6081]	4076	0.05322970077395439	0.31435305	Yes	
+row_11	SEC11A	SEC11 homolog A, signal peptidase complex subunit [Source:HGNC Symbol;Acc:HGNC:17718]	4548	0.0484684519469738	0.31445304	Yes	
+row_12	VDR	vitamin D receptor [Source:HGNC Symbol;Acc:HGNC:12679]	4642	0.04747394099831581	0.33273947	Yes	
+row_13	SRP9	signal recognition particle 9 [Source:HGNC Symbol;Acc:HGNC:11304]	5134	0.042895879596471786	0.3291663	Yes	
+row_14	MAFB	MAF bZIP transcription factor B [Source:HGNC Symbol;Acc:HGNC:6408]	5193	0.042277492582798004	0.34667674	Yes	
+row_15	AKT3	AKT serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:393]	6080	0.034668777137994766	0.3196335	No	
+row_16	SRP14	signal recognition particle 14 [Source:HGNC Symbol;Acc:HGNC:11299]	6793	0.028395550325512886	0.29815924	No	
+row_17	FOXO1	forkhead box O1 [Source:HGNC Symbol;Acc:HGNC:3819]	6973	0.02714139223098755	0.30240023	No	
+row_18	SRPRB	SRP receptor subunit beta [Source:HGNC Symbol;Acc:HGNC:24085]	8152	0.01820365898311138	0.25300303	No	
+row_19	PCSK1	proprotein convertase subtilisin/kexin type 1 [Source:HGNC Symbol;Acc:HGNC:8743]	10308	0.0019870796240866184	0.14754616	No	
+row_20	GCK	glucokinase [Source:HGNC Symbol;Acc:HGNC:4195]	11083	-0.0033891138155013323	0.11095912	No	
+row_21	NEUROG3	neurogenin 3 [Source:HGNC Symbol;Acc:HGNC:13806]	11972	-0.009679685346782207	0.0717743	No	
+row_22	SPCS1	signal peptidase complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:23401]	12872	-0.01541113294661045	0.034808416	No	
+row_23	PKLR	pyruvate kinase L/R [Source:HGNC Symbol;Acc:HGNC:9020]	13331	-0.01835423894226551	0.021037584	No	
+row_24	STXBP1	syntaxin binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11444]	13518	-0.019492201507091522	0.0212466	No	
+row_25	HNF1A	HNF1 homeobox A [Source:HGNC Symbol;Acc:HGNC:11621]	13880	-0.021545343101024628	0.013803526	No	
+row_26	PAX4	paired box 4 [Source:HGNC Symbol;Acc:HGNC:8618]	14703	-0.026809295639395714	-0.013867035	No	
+row_27	LMO2	LIM domain only 2 [Source:HGNC Symbol;Acc:HGNC:6642]	15237	-0.03026140294969082	-0.025603043	No	
+row_28	PDX1	pancreatic and duodenal homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6107]	15491	-0.03217151761054993	-0.022592047	No	
+row_29	G6PC2	glucose-6-phosphatase catalytic subunit 2 [Source:HGNC Symbol;Acc:HGNC:28906]	15546	-0.03259360417723656	-0.009550963	No	
+row_30	FOXA2	forkhead box A2 [Source:HGNC Symbol;Acc:HGNC:5022]	15590	-0.032923340797424316	0.004192213	No	
+row_31	SLC2A2	solute carrier family 2 member 2 [Source:HGNC Symbol;Acc:HGNC:11006]	16113	-0.036728113889694214	-0.0038841537	No	
+row_32	NKX2-2	NK2 homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7835]	16400	-0.03938567638397217	9.739648E-4	No	
+row_33	PCSK2	proprotein convertase subtilisin/kexin type 2 [Source:HGNC Symbol;Acc:HGNC:8744]	16496	-0.04020639881491661	0.015659241	No	
+row_34	INSM1	INSM transcriptional repressor 1 [Source:HGNC Symbol;Acc:HGNC:6090]	16787	-0.04310540109872818	0.02211246	No	
+row_35	SCGN	secretagogin, EF-hand calcium binding protein [Source:HGNC Symbol;Acc:HGNC:16941]	16852	-0.04372582584619522	0.04002462	No	
+row_36	GCG	glucagon [Source:HGNC Symbol;Acc:HGNC:4191]	17655	-0.0535576157271862	0.026232306	No	
+row_37	PAX6	paired box 6 [Source:HGNC Symbol;Acc:HGNC:8620]	18101	-0.06078876554965973	0.03355361	No	
+row_38	ABCC8	ATP binding cassette subfamily C member 8 [Source:HGNC Symbol;Acc:HGNC:59]	18740	-0.0738278180360794	0.037628345	No	
+row_39	NEUROD1	neuronal differentiation 1 [Source:HGNC Symbol;Acc:HGNC:7762]	19008	-0.08063873648643494	0.063305505	No	

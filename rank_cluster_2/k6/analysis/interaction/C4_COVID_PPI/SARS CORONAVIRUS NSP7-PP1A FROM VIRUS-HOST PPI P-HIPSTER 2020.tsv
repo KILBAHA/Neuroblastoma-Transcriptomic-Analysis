@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	748	0.3986203372478485	0.064382896	Yes	
+row_1	MSN	moesin [Source:HGNC Symbol;Acc:HGNC:7373]	990	0.34641233086586	0.14052464	Yes	
+row_2	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	1197	0.31415316462516785	0.21019565	Yes	
+row_3	EZR	ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	1535	0.2724427878856659	0.26279968	Yes	
+row_4	BAG3	BAG cochaperone 3 [Source:HGNC Symbol;Acc:HGNC:939]	2241	0.20554231107234955	0.28023574	Yes	
+row_5	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	2488	0.1856280416250229	0.31526846	Yes	
+row_6	SPTBN1	spectrin beta, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11275]	3164	0.14485131204128265	0.31876126	Yes	
+row_7	PXN	paxillin [Source:HGNC Symbol;Acc:HGNC:9718]	3308	0.13808542490005493	0.34679577	Yes	
+row_8	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	3715	0.11949848383665085	0.357124	Yes	
+row_9	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	4057	0.10807708650827408	0.36775818	Yes	
+row_10	BAIAP2L1	BAR/IMD domain containing adaptor protein 2 like 1 [Source:HGNC Symbol;Acc:HGNC:21649]	4371	0.09720563888549805	0.37701163	Yes	
+row_11	ESR1	estrogen receptor 1 [Source:HGNC Symbol;Acc:HGNC:3467]	4514	0.09249050170183182	0.39350787	Yes	
+row_12	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	4605	0.08962655067443848	0.41184315	Yes	
+row_13	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	4633	0.08889524638652802	0.43310243	Yes	
+row_14	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	4674	0.08746902644634247	0.45335755	Yes	
+row_15	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	4881	0.08134528249502182	0.46386206	Yes	
+row_16	HBQ1	hemoglobin subunit theta 1 [Source:HGNC Symbol;Acc:HGNC:4833]	5453	0.06838931143283844	0.45305634	No	
+row_17	HBM	hemoglobin subunit mu [Source:HGNC Symbol;Acc:HGNC:4826]	7858	0.02724395878612995	0.34131104	No	
+row_18	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	7940	0.02627931721508503	0.3439913	No	
+row_19	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	8273	0.022023368626832962	0.33319983	No	
+row_20	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	8590	0.0186232328414917	0.32233402	No	
+row_21	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	9686	0.00724696833640337	0.27012306	No	
+row_22	RAD23B	RAD23 homolog B, nucleotide excision repair protein [Source:HGNC Symbol;Acc:HGNC:9813]	10541	-0.0010831020772457123	0.22824213	No	
+row_23	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	11677	-0.01214821171015501	0.17530227	No	
+row_24	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	12623	-0.021451136097311974	0.13410568	No	
+row_25	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	14834	-0.046349603682756424	0.03679241	No	
+row_26	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	15167	-0.05104190856218338	0.03337577	No	
+row_27	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	15259	-0.052188690751791	0.042147107	No	
+row_28	ING5	inhibitor of growth family member 5 [Source:HGNC Symbol;Acc:HGNC:19421]	16658	-0.07681538164615631	-0.007340573	No	
+row_29	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	16772	-0.07974972575902939	0.0073492206	No	
+row_30	SPTB	spectrin beta, erythrocytic [Source:HGNC Symbol;Acc:HGNC:11274]	17853	-0.10628058016300201	-0.018952584	No	
+row_31	KALRN	kalirin RhoGEF kinase [Source:HGNC Symbol;Acc:HGNC:4814]	19326	-0.18949687480926514	-0.043455925	No	
+row_32	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	20163	-0.35803747177124023	0.0062691527	No	

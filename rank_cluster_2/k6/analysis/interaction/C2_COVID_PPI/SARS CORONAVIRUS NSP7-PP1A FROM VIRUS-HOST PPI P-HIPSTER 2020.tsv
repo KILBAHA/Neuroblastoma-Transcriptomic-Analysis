@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	151	0.24833767116069794	0.15406503	Yes	
+row_1	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	494	0.16253240406513214	0.24289392	Yes	
+row_2	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	579	0.14942725002765656	0.3359349	Yes	
+row_3	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	1157	0.10972793400287628	0.3788194	Yes	
+row_4	EZR	ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	1529	0.09702331572771072	0.42360964	Yes	
+row_5	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	1933	0.08560607582330704	0.45939448	Yes	
+row_6	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	2441	0.07484529912471771	0.4830467	Yes	
+row_7	MSN	moesin [Source:HGNC Symbol;Acc:HGNC:7373]	3186	0.06390710920095444	0.48788568	Yes	
+row_8	KALRN	kalirin RhoGEF kinase [Source:HGNC Symbol;Acc:HGNC:4814]	3220	0.06340079754590988	0.5274926	Yes	
+row_9	BAIAP2L1	BAR/IMD domain containing adaptor protein 2 like 1 [Source:HGNC Symbol;Acc:HGNC:21649]	3537	0.05922991782426834	0.55041695	Yes	
+row_10	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	5575	0.039030157029628754	0.47524932	No	
+row_11	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	5834	0.03672020509839058	0.48639643	No	
+row_12	PXN	paxillin [Source:HGNC Symbol;Acc:HGNC:9718]	6536	0.030636444687843323	0.47171876	No	
+row_13	BAG3	BAG cochaperone 3 [Source:HGNC Symbol;Acc:HGNC:939]	6987	0.027041219174861908	0.46709293	No	
+row_14	RAD23B	RAD23 homolog B, nucleotide excision repair protein [Source:HGNC Symbol;Acc:HGNC:9813]	7965	0.01965739019215107	0.43165025	No	
+row_15	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	8393	0.016316108405590057	0.42118415	No	
+row_16	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	8504	0.015466494485735893	0.42581362	No	
+row_17	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	10303	0.00203690561465919	0.33838335	No	
+row_18	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	10443	0.0010861181654036045	0.33222827	No	
+row_19	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	10523	5.002721445634961E-4	0.32865396	No	
+row_20	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	10694	-8.587515912950039E-4	0.32082075	No	
+row_21	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	10738	-0.0010693153599277139	0.3193936	No	
+row_22	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	10974	-0.002661601174622774	0.30952436	No	
+row_23	ING5	inhibitor of growth family member 5 [Source:HGNC Symbol;Acc:HGNC:19421]	11079	-0.00337360636331141	0.30658478	No	
+row_24	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	11343	-0.005302661098539829	0.2970511	No	
+row_25	HBQ1	hemoglobin subunit theta 1 [Source:HGNC Symbol;Acc:HGNC:4833]	12369	-0.012248954735696316	0.25442055	No	
+row_26	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	12745	-0.014703416265547276	0.24547245	No	
+row_27	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	13346	-0.01843004673719406	0.22784142	No	
+row_28	ESR1	estrogen receptor 1 [Source:HGNC Symbol;Acc:HGNC:3467]	13353	-0.01847921870648861	0.23956412	No	
+row_29	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	14041	-0.022566037252545357	0.22032855	No	
+row_30	HBM	hemoglobin subunit mu [Source:HGNC Symbol;Acc:HGNC:4826]	14464	-0.02525944449007511	0.21592602	No	
+row_31	SPTBN1	spectrin beta, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11275]	15389	-0.03143855929374695	0.19076206	No	
+row_32	SPTB	spectrin beta, erythrocytic [Source:HGNC Symbol;Acc:HGNC:11274]	18910	-0.07859423011541367	0.06812125	No	
