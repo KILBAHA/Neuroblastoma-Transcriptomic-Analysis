@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	366	0.26954126358032227	0.08806017	No	
+row_1	ING5	inhibitor of growth family member 5 [Source:HGNC Symbol;Acc:HGNC:19421]	3296	0.08234614878892899	-0.024102343	No	
+row_2	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	3485	0.0774618461728096	-0.0028833952	No	
+row_3	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	4332	0.05958583578467369	-0.021183806	No	
+row_4	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	5278	0.04193200170993805	-0.051322058	No	
+row_5	RAD23B	RAD23 homolog B, nucleotide excision repair protein [Source:HGNC Symbol;Acc:HGNC:9813]	6043	0.030032310634851456	-0.077210866	No	
+row_6	BAIAP2L1	BAR/IMD domain containing adaptor protein 2 like 1 [Source:HGNC Symbol;Acc:HGNC:21649]	7683	0.009247113950550556	-0.15447628	No	
+row_7	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	7930	0.0065262578427791595	-0.16405004	No	
+row_8	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	8074	0.005039493087679148	-0.16912477	No	
+row_9	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	9796	-0.011246034875512123	-0.24965093	No	
+row_10	HBQ1	hemoglobin subunit theta 1 [Source:HGNC Symbol;Acc:HGNC:4833]	10760	-0.01852238178253174	-0.28989485	No	
+row_11	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	11017	-0.02051933854818344	-0.2944527	No	
+row_12	HBM	hemoglobin subunit mu [Source:HGNC Symbol;Acc:HGNC:4826]	11033	-0.020627673715353012	-0.28707138	No	
+row_13	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	12626	-0.032889679074287415	-0.35270786	Yes	
+row_14	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	12662	-0.033176489174366	-0.34137294	Yes	
+row_15	KALRN	kalirin RhoGEF kinase [Source:HGNC Symbol;Acc:HGNC:4814]	12837	-0.03485719487071037	-0.33623773	Yes	
+row_16	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	13318	-0.039173174649477005	-0.34450832	Yes	
+row_17	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	13388	-0.039810970425605774	-0.3322395	Yes	
+row_18	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	13589	-0.04178072512149811	-0.32566175	Yes	
+row_19	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	13890	-0.04450271278619766	-0.32294855	Yes	
+row_20	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	14265	-0.04868702590465546	-0.32224074	Yes	
+row_21	SPTB	spectrin beta, erythrocytic [Source:HGNC Symbol;Acc:HGNC:11274]	15316	-0.06279271841049194	-0.34934857	Yes	
+row_22	ESR1	estrogen receptor 1 [Source:HGNC Symbol;Acc:HGNC:3467]	15460	-0.06532659381628036	-0.33068633	Yes	
+row_23	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	15756	-0.07029858976602554	-0.31756967	Yes	
+row_24	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	15971	-0.07419227063655853	-0.2989215	Yes	
+row_25	SPTBN1	spectrin beta, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11275]	16511	-0.08467159420251846	-0.2921903	Yes	
+row_26	PXN	paxillin [Source:HGNC Symbol;Acc:HGNC:9718]	16920	-0.09448496997356415	-0.27512872	Yes	
+row_27	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	17602	-0.11536481231451035	-0.26332223	Yes	
+row_28	EZR	ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	18099	-0.1362811177968979	-0.2341481	Yes	
+row_29	BAG3	BAG cochaperone 3 [Source:HGNC Symbol;Acc:HGNC:939]	18377	-0.1511150598526001	-0.18832283	Yes	
+row_30	MSN	moesin [Source:HGNC Symbol;Acc:HGNC:7373]	19283	-0.21808643639087677	-0.14712885	Yes	
+row_31	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	19535	-0.24810032546520233	-0.061833903	Yes	
+row_32	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	19565	-0.2515769898891449	0.03578856	Yes	

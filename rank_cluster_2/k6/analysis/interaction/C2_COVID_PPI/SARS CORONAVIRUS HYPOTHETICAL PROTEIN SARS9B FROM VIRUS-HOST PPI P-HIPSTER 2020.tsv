@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	579	0.14942725002765656	0.2581575	Yes	
+row_1	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	2441	0.07484529912471771	0.30998346	Yes	
+row_2	SUMO2	small ubiquitin like modifier 2 [Source:HGNC Symbol;Acc:HGNC:11125]	3247	0.06309568136930466	0.39134616	Yes	
+row_3	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	4480	0.049194347113370895	0.4249763	Yes	
+row_4	SQSTM1	sequestosome 1 [Source:HGNC Symbol;Acc:HGNC:11280]	6212	0.03346036374568939	0.40380648	No	
+row_5	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	8393	0.016316108405590057	0.32759672	No	
+row_6	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	8504	0.015466494485735893	0.35184792	No	
+row_7	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	10694	-8.587515912950039E-4	0.2455355	No	
+row_8	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	10738	-0.0010693153599277139	0.2454665	No	
+row_9	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	10745	-0.0010980508523061872	0.24727747	No	
+row_10	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	11343	-0.005302661098539829	0.22800827	No	
+row_11	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	11397	-0.005703532602638006	0.236338	No	
+row_12	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	11594	-0.007132987026125193	0.24035782	No	
+row_13	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	12745	-0.014703416265547276	0.21185268	No	
+row_14	ARHGEF4	Rho guanine nucleotide exchange factor 4 [Source:HGNC Symbol;Acc:HGNC:684]	19096	-0.08349860459566116	0.058887437	No	

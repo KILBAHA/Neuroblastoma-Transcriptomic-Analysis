@@ -1,0 +1,33 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAML2	mastermind like transcriptional coactivator 2 [Source:HGNC Symbol;Acc:HGNC:16259]	468	0.47251150012016296	0.083967224	Yes	
+row_1	NOTCH2	notch receptor 2 [Source:HGNC Symbol;Acc:HGNC:7882]	496	0.4649896025657654	0.18799813	Yes	
+row_2	FZD7	frizzled class receptor 7 [Source:HGNC Symbol;Acc:HGNC:4045]	1177	0.3178955614566803	0.2264659	Yes	
+row_3	NOTCH1	notch receptor 1 [Source:HGNC Symbol;Acc:HGNC:7881]	1554	0.27052533626556396	0.26920554	Yes	
+row_4	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	1582	0.26762303709983826	0.32851446	Yes	
+row_5	JAG1	jagged canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:6188]	1693	0.2526538372039795	0.38033453	Yes	
+row_6	TCF7L2	transcription factor 7 like 2 [Source:HGNC Symbol;Acc:HGNC:11641]	1746	0.24704039096832275	0.4337455	Yes	
+row_7	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	1875	0.2351517528295517	0.48071122	Yes	
+row_8	NOTCH3	notch receptor 3 [Source:HGNC Symbol;Acc:HGNC:7883]	2919	0.15826399624347687	0.46508953	Yes	
+row_9	HEYL	hes related family bHLH transcription factor with YRPW motif like [Source:HGNC Symbol;Acc:HGNC:4882]	2930	0.15771567821502686	0.50033325	Yes	
+row_10	FZD1	frizzled class receptor 1 [Source:HGNC Symbol;Acc:HGNC:4038]	3047	0.151289165019989	0.5288886	Yes	
+row_11	PPARD	peroxisome proliferator activated receptor delta [Source:HGNC Symbol;Acc:HGNC:9235]	3248	0.14075694978237152	0.550911	Yes	
+row_12	DLL1	delta like canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:2908]	3318	0.13754618167877197	0.57867223	Yes	
+row_13	LFNG	LFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase [Source:HGNC Symbol;Acc:HGNC:6560]	3627	0.1230490580201149	0.5913512	Yes	
+row_14	ARRB1	arrestin beta 1 [Source:HGNC Symbol;Acc:HGNC:711]	4476	0.09353311359882355	0.5706873	Yes	
+row_15	PSENEN	presenilin enhancer, gamma-secretase subunit [Source:HGNC Symbol;Acc:HGNC:30100]	4484	0.09309554845094681	0.5914366	Yes	
+row_16	PSEN2	presenilin 2 [Source:HGNC Symbol;Acc:HGNC:9509]	4551	0.0914611965417862	0.60890335	Yes	
+row_17	SKP1	S-phase kinase associated protein 1 [Source:HGNC Symbol;Acc:HGNC:10899]	6000	0.057135794311761856	0.5503755	No	
+row_18	DTX2	deltex E3 ubiquitin ligase 2 [Source:HGNC Symbol;Acc:HGNC:15973]	6216	0.052839044481515884	0.55173594	No	
+row_19	FZD5	frizzled class receptor 5 [Source:HGNC Symbol;Acc:HGNC:4043]	7095	0.038186002522706985	0.5170499	No	
+row_20	WNT2	Wnt family member 2 [Source:HGNC Symbol;Acc:HGNC:12780]	7606	0.03068315051496029	0.4988285	No	
+row_21	RBX1	ring-box 1 [Source:HGNC Symbol;Acc:HGNC:9928]	8067	0.024998649954795837	0.4817871	No	
+row_22	CUL1	cullin 1 [Source:HGNC Symbol;Acc:HGNC:2551]	8856	0.015790114179253578	0.4464687	No	
+row_23	APH1A	aph-1 homolog A, gamma-secretase subunit [Source:HGNC Symbol;Acc:HGNC:29509]	9215	0.012250755913555622	0.4315735	No	
+row_24	ST3GAL6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:18080]	9933	0.004869306925684214	0.3972852	No	
+row_25	DTX4	deltex E3 ubiquitin ligase 4 [Source:HGNC Symbol;Acc:HGNC:29151]	10355	5.974173545837402E-4	0.37663966	No	
+row_26	KAT2A	lysine acetyltransferase 2A [Source:HGNC Symbol;Acc:HGNC:4201]	12533	-0.02055678330361843	0.2738393	No	
+row_27	FBXW11	F-box and WD repeat domain containing 11 [Source:HGNC Symbol;Acc:HGNC:13607]	12744	-0.022748814895749092	0.26862827	No	
+row_28	DTX1	deltex E3 ubiquitin ligase 1 [Source:HGNC Symbol;Acc:HGNC:3060]	14696	-0.044580526649951935	0.18242705	No	
+row_29	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	14882	-0.046874575316905975	0.18391678	No	
+row_30	SAP30	Sin3A associated protein 30 [Source:HGNC Symbol;Acc:HGNC:10532]	16099	-0.06584503501653671	0.13881414	No	
+row_31	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	20020	-0.3001292943954468	0.013327254	No	

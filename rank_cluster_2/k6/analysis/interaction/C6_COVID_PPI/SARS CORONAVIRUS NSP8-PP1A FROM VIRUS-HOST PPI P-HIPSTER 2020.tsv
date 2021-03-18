@@ -1,0 +1,43 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	366	0.26954126358032227	0.05764185	No	
+row_1	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	1335	0.1579982489347458	0.054220296	No	
+row_2	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	1500	0.14806559681892395	0.087714225	No	
+row_3	ELAVL1	ELAV like RNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3312]	2094	0.11917706578969955	0.09190685	No	
+row_4	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4 [Source:HGNC Symbol;Acc:HGNC:11100]	2430	0.10708059370517731	0.10544283	No	
+row_5	RCOR1	REST corepressor 1 [Source:HGNC Symbol;Acc:HGNC:17441]	2527	0.10436475276947021	0.13001895	No	
+row_6	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	3485	0.0774618461728096	0.104517154	No	
+row_7	HSPA4	heat shock protein family A (Hsp70) member 4 [Source:HGNC Symbol;Acc:HGNC:5237]	3746	0.07195855677127838	0.11189088	No	
+row_8	TPM4	tropomyosin 4 [Source:HGNC Symbol;Acc:HGNC:12013]	4266	0.0606461726129055	0.1032961	No	
+row_9	STX3	syntaxin 3 [Source:HGNC Symbol;Acc:HGNC:11438]	5582	0.036818474531173706	0.0486973	No	
+row_10	RAD23B	RAD23 homolog B, nucleotide excision repair protein [Source:HGNC Symbol;Acc:HGNC:9813]	6043	0.030032310634851456	0.0344165	No	
+row_11	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	6444	0.024874765425920486	0.021650009	No	
+row_12	BAIAP2L1	BAR/IMD domain containing adaptor protein 2 like 1 [Source:HGNC Symbol;Acc:HGNC:21649]	7683	0.009247113950550556	-0.036891207	No	
+row_13	ARRB2	arrestin beta 2 [Source:HGNC Symbol;Acc:HGNC:712]	7846	0.007462220266461372	-0.04279539	No	
+row_14	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	8074	0.005039493087679148	-0.052590176	No	
+row_15	CAPN2	calpain 2 [Source:HGNC Symbol;Acc:HGNC:1479]	8195	0.003778192214667797	-0.057455063	No	
+row_16	CUL1	cullin 1 [Source:HGNC Symbol;Acc:HGNC:2551]	9725	-0.01069522276520729	-0.12996057	No	
+row_17	SPTBN5	spectrin beta, non-erythrocytic 5 [Source:HGNC Symbol;Acc:HGNC:15680]	10563	-0.017163516953587532	-0.16647455	No	
+row_18	BCAR1	BCAR1 scaffold protein, Cas family member [Source:HGNC Symbol;Acc:HGNC:971]	11431	-0.023582512512803078	-0.20266691	No	
+row_19	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	12626	-0.032889679074287415	-0.25239375	No	
+row_20	TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	13050	-0.03662964701652527	-0.26299405	No	
+row_21	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	13589	-0.04178072512149811	-0.27782664	No	
+row_22	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	13890	-0.04450271278619766	-0.28014094	No	
+row_23	SPTA1	spectrin alpha, erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11272]	13952	-0.045220136642456055	-0.27045062	No	
+row_24	ERBB2	erb-b2 receptor tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:3430]	14310	-0.04910329729318619	-0.27428752	No	
+row_25	DYNC1H1	dynein cytoplasmic 1 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2961]	14797	-0.05518120154738426	-0.28278777	No	
+row_26	ABI1	abl interactor 1 [Source:HGNC Symbol;Acc:HGNC:11320]	15311	-0.06271974742412567	-0.29050374	No	
+row_27	TPM3	tropomyosin 3 [Source:HGNC Symbol;Acc:HGNC:12012]	15828	-0.07170657068490982	-0.2958434	Yes	
+row_28	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	15885	-0.07280200719833374	-0.27815816	Yes	
+row_29	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	15971	-0.07419227063655853	-0.26151454	Yes	
+row_30	SPTAN1	spectrin alpha, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11273]	16165	-0.07751218974590302	-0.24927194	Yes	
+row_31	SPTBN1	spectrin beta, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11275]	16511	-0.08467159420251846	-0.24252474	Yes	
+row_32	CHRNB1	cholinergic receptor nicotinic beta 1 subunit [Source:HGNC Symbol;Acc:HGNC:1961]	17207	-0.10255160182714462	-0.24803966	Yes	
+row_33	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	17602	-0.11536481231451035	-0.23509029	Yes	
+row_34	PLEC	plectin [Source:HGNC Symbol;Acc:HGNC:9069]	17785	-0.12196897715330124	-0.20981608	Yes	
+row_35	NBR1	NBR1 autophagy cargo receptor [Source:HGNC Symbol;Acc:HGNC:6746]	17866	-0.12487988919019699	-0.1786869	Yes	
+row_36	EZR	ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	18099	-0.1362811177968979	-0.15186153	Yes	
+row_37	MACF1	microtubule actin crosslinking factor 1 [Source:HGNC Symbol;Acc:HGNC:13664]	18151	-0.13897842168807983	-0.11533976	Yes	
+row_38	BAG3	BAG cochaperone 3 [Source:HGNC Symbol;Acc:HGNC:939]	18377	-0.1511150598526001	-0.084001705	Yes	
+row_39	NEDD9	neural precursor cell expressed, developmentally down-regulated 9 [Source:HGNC Symbol;Acc:HGNC:7733]	19040	-0.19257903099060059	-0.06259731	Yes	
+row_40	MSN	moesin [Source:HGNC Symbol;Acc:HGNC:7373]	19283	-0.21808643639087677	-0.013285878	Yes	
+row_41	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	19354	-0.22415517270565033	0.04622457	Yes	
