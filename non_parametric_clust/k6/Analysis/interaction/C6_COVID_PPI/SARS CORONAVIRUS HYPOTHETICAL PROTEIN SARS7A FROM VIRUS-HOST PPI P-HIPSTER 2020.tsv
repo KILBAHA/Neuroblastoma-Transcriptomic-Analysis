@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	63	0.29272571206092834	0.15312654	Yes	
+row_1	UBD	ubiquitin D [Source:HGNC Symbol;Acc:HGNC:18795]	80	0.2718563377857208	0.29743487	Yes	
+row_2	VCAM1	vascular cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:12663]	1074	0.09501410275697708	0.29912195	Yes	
+row_3	ITGA4	integrin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6140]	1276	0.08681253343820572	0.33553302	Yes	
+row_4	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	1278	0.08663088083267212	0.3817213	Yes	
+row_5	DAAM1	dishevelled associated activator of morphogenesis 1 [Source:HGNC Symbol;Acc:HGNC:18142]	2035	0.0646771714091301	0.3789174	Yes	
+row_6	EVL	Enah/Vasp-like [Source:HGNC Symbol;Acc:HGNC:20234]	2282	0.05952073261141777	0.39854032	Yes	
+row_7	FMNL1	formin like 1 [Source:HGNC Symbol;Acc:HGNC:1212]	3038	0.046748965978622437	0.38621697	Yes	
+row_8	WASF1	WASP family member 1 [Source:HGNC Symbol;Acc:HGNC:12732]	3459	0.04110868275165558	0.38742235	Yes	
+row_9	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	3509	0.040619876235723495	0.4066833	Yes	
+row_10	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	4202	0.033252496272325516	0.39026678	No	
+row_11	EZR	ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	4444	0.03098653070628643	0.39490697	No	
+row_12	SRPK2	SRSF protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:11306]	4712	0.02877030335366726	0.39708066	No	
+row_13	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	5421	0.02270420826971531	0.37424427	No	
+row_14	PSMD4	proteasome 26S subunit, non-ATPase 4 [Source:HGNC Symbol;Acc:HGNC:9561]	5706	0.020559484139084816	0.37119627	No	
+row_15	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	5951	0.018733158707618713	0.36914834	No	
+row_16	FASLG	Fas ligand [Source:HGNC Symbol;Acc:HGNC:11936]	6561	0.014779016375541687	0.34696972	No	
+row_17	CD8A	CD8a molecule [Source:HGNC Symbol;Acc:HGNC:1706]	6575	0.014673426747322083	0.35415956	No	
+row_18	LILRB1	leukocyte immunoglobulin like receptor B1 [Source:HGNC Symbol;Acc:HGNC:6605]	6704	0.01379500050097704	0.35520297	No	
+row_19	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	7122	0.011193192563951015	0.3405896	No	
+row_20	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	8419	0.003624759381636977	0.27854005	No	
+row_21	KIR3DS1	killer cell immunoglobulin like receptor, three Ig domains and short cytoplasmic tail 1 [Source:HGNC Symbol;Acc:HGNC:6340]	9093	-1.446068927180022E-4	0.24539088	No	
+row_22	DIAPH1	diaphanous related formin 1 [Source:HGNC Symbol;Acc:HGNC:2876]	9523	-0.0024174016434699297	0.22550116	No	
+row_23	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	10171	-0.005632312037050724	0.19656457	No	
+row_24	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	11047	-0.010301098227500916	0.15886338	No	
+row_25	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	11193	-0.011053758673369884	0.1576044	No	
+row_26	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	11288	-0.011617137119174004	0.159164	No	
+row_27	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	12179	-0.016409985721111298	0.12398275	No	
+row_28	LILRB2	leukocyte immunoglobulin like receptor B2 [Source:HGNC Symbol;Acc:HGNC:6606]	12947	-0.020767325535416603	0.09719972	No	
+row_29	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	13719	-0.02560342475771904	0.0728004	No	
+row_30	PFAS	phosphoribosylformylglycinamidine synthase [Source:HGNC Symbol;Acc:HGNC:8863]	14294	-0.029480712488293648	0.060196497	No	
+row_31	ARRB2	arrestin beta 2 [Source:HGNC Symbol;Acc:HGNC:712]	15076	-0.03547413647174835	0.040571775	No	
+row_32	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	17046	-0.057947784662246704	-0.025710244	No	
+row_33	ARHGEF4	Rho guanine nucleotide exchange factor 4 [Source:HGNC Symbol;Acc:HGNC:684]	18511	-0.08809550106525421	-0.050969366	No	
+row_34	BAG3	BAG cochaperone 3 [Source:HGNC Symbol;Acc:HGNC:939]	18915	-0.10207666456699371	-0.016384173	No	
+row_35	PDE4D	phosphodiesterase 4D [Source:HGNC Symbol;Acc:HGNC:8783]	19771	-0.15779352188110352	0.025623377	No	

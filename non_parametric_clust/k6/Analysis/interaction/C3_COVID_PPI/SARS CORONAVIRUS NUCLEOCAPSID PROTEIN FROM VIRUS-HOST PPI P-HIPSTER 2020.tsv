@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	657	0.40491336584091187	0.0957291	Yes	
+row_1	TUBA4A	tubulin alpha 4a [Source:HGNC Symbol;Acc:HGNC:12407]	784	0.36972689628601074	0.20652728	Yes	
+row_2	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	975	0.3302384316921234	0.30166912	Yes	
+row_3	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	1181	0.2954607605934143	0.38506377	Yes	
+row_4	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	3181	0.12971408665180206	0.32746482	No	
+row_5	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	3855	0.10330748558044434	0.32694778	No	
+row_6	ESR1	estrogen receptor 1 [Source:HGNC Symbol;Acc:HGNC:3467]	4218	0.09136848896741867	0.3380003	No	
+row_7	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	4734	0.07760708034038544	0.3371467	No	
+row_8	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	5199	0.06669782847166061	0.3353573	No	
+row_9	TRIB3	tribbles pseudokinase 3 [Source:HGNC Symbol;Acc:HGNC:16228]	7155	0.03686948120594025	0.250545	No	
+row_10	TUBA3C	tubulin alpha 3c [Source:HGNC Symbol;Acc:HGNC:12408]	10234	0.003723262343555689	0.09982091	No	
+row_11	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	10528	8.635132689960301E-4	0.08563436	No	
+row_12	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	10883	-0.003137763123959303	0.069157176	No	
+row_13	CDK2	cyclin dependent kinase 2 [Source:HGNC Symbol;Acc:HGNC:1771]	11325	-0.007791423238813877	0.04985931	No	
+row_14	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	12217	-0.018490394577383995	0.011739641	No	
+row_15	TUBA8	tubulin alpha 8 [Source:HGNC Symbol;Acc:HGNC:12410]	12635	-0.023690911009907722	-0.0013417038	No	
+row_16	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	12792	-0.025874512270092964	-8.5133273E-4	No	
+row_17	TUBA1C	tubulin alpha 1c [Source:HGNC Symbol;Acc:HGNC:20768]	13687	-0.038001421838998795	-0.032943927	No	
+row_18	TUBB4B	tubulin beta 4B class IVb [Source:HGNC Symbol;Acc:HGNC:20771]	13878	-0.0406004823744297	-0.029470809	No	
+row_19	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	13974	-0.04215501993894577	-0.020817338	No	
+row_20	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	15107	-0.06035080552101135	-0.05758203	No	
+row_21	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	15284	-0.06294558197259903	-0.0463459	No	
+row_22	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	16792	-0.09479676187038422	-0.09071529	No	
+row_23	CSNK2A1	casein kinase 2 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2457]	16793	-0.09482359886169434	-0.060704168	No	
+row_24	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	17111	-0.10343685746192932	-0.043611284	No	
+row_25	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	17790	-0.12564027309417725	-0.03730687	No	
+row_26	TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	18031	-0.13555586338043213	-0.006248478	No	
+row_27	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	20103	-0.37183356285095215	0.009228688	No	

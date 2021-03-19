@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SCCPDH	saccharopine dehydrogenase (putative) [Source:HGNC Symbol;Acc:HGNC:24275]	1288	0.11710888147354126	0.0062455917	No	
+row_1	GNB1	G protein subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4396]	1550	0.10350845009088516	0.055073764	No	
+row_2	AGPS	alkylglycerone phosphate synthase [Source:HGNC Symbol;Acc:HGNC:327]	1777	0.09514279663562775	0.10064196	No	
+row_3	RAB2A	RAB2A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9763]	1779	0.09511326998472214	0.15729818	No	
+row_4	RAB18	RAB18, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:14244]	4117	0.038377393037080765	0.06482795	No	
+row_5	RALA	RAS like proto-oncogene A [Source:HGNC Symbol;Acc:HGNC:9839]	4230	0.03669845312833786	0.08117906	No	
+row_6	RAB1A	RAB1A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9758]	4311	0.035491928458213806	0.098390326	No	
+row_7	RAB14	RAB14, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:16524]	4997	0.025135546922683716	0.07956542	No	
+row_8	HS2ST1	heparan sulfate 2-O-sulfotransferase 1 [Source:HGNC Symbol;Acc:HGNC:5193]	5394	0.01954234018921852	0.071670465	No	
+row_9	MTARC1	mitochondrial amidoxime reducing component 1 [Source:HGNC Symbol;Acc:HGNC:26189]	5517	0.01799381896853447	0.07637648	No	
+row_10	RAB10	RAB10, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9759]	5894	0.013117963448166847	0.06563854	No	
+row_11	NDUFAF2	NADH:ubiquinone oxidoreductase complex assembly factor 2 [Source:HGNC Symbol;Acc:HGNC:28086]	6351	0.007259233854711056	0.04745902	No	
+row_12	DCAKD	dephospho-CoA kinase domain containing [Source:HGNC Symbol;Acc:HGNC:26238]	6598	0.003893088549375534	0.03763789	No	
+row_13	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	6925	3.6069011548534036E-4	0.02176211	No	
+row_14	ACSL3	acyl-CoA synthetase long chain family member 3 [Source:HGNC Symbol;Acc:HGNC:3570]	7145	-0.0019760006107389927	0.012130704	No	
+row_15	RAB5C	RAB5C, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9785]	9593	-0.022694677114486694	-0.09511882	No	
+row_16	COMT	catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228]	9976	-0.025548774749040604	-0.098741785	No	
+row_17	RAB7A	RAB7A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9788]	10132	-0.02668565884232521	-0.09048261	No	
+row_18	MOGS	mannosyl-oligosaccharide glucosidase [Source:HGNC Symbol;Acc:HGNC:24862]	11615	-0.03682384267449379	-0.14167766	No	
+row_19	SELENOS	selenoprotein S [Source:HGNC Symbol;Acc:HGNC:30396]	11863	-0.03847896307706833	-0.1309284	No	
+row_20	LMAN2	lectin, mannose binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	12276	-0.041244860738515854	-0.12667426	No	
+row_21	PTGES2	prostaglandin E synthase 2 [Source:HGNC Symbol;Acc:HGNC:17822]	13443	-0.04936273396015167	-0.15479653	No	
+row_22	DNAJC19	DnaJ heat shock protein family (Hsp40) member C19 [Source:HGNC Symbol;Acc:HGNC:30528]	14557	-0.05804360657930374	-0.17512736	No	
+row_23	GNG5	G protein subunit gamma 5 [Source:HGNC Symbol;Acc:HGNC:4408]	14913	-0.0611761175096035	-0.15617697	No	
+row_24	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	16832	-0.08141171932220459	-0.20230943	Yes	
+row_25	SCARB1	scavenger receptor class B member 1 [Source:HGNC Symbol;Acc:HGNC:1664]	16895	-0.08222869038581848	-0.15634573	Yes	
+row_26	TOR1AIP1	torsin 1A interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:29456]	16996	-0.08395905792713165	-0.111226015	Yes	
+row_27	NAT14	N-acetyltransferase 14 (putative) [Source:HGNC Symbol;Acc:HGNC:28918]	17176	-0.086856909096241	-0.06827794	Yes	
+row_28	FAM162A	family with sequence similarity 162 member A [Source:HGNC Symbol;Acc:HGNC:17865]	18040	-0.10257910192012787	-0.049717557	Yes	
+row_29	QSOX2	quiescin sulfhydryl oxidase 2 [Source:HGNC Symbol;Acc:HGNC:30249]	18932	-0.12810519337654114	-0.017320812	Yes	
+row_30	RAB8A	RAB8A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:7007]	19223	-0.14139793813228607	0.052665304	Yes	

@@ -1,0 +1,36 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	2059	0.12343201786279678	-0.07144839	No	
+row_1	TNFRSF21	TNF receptor superfamily member 21 [Source:HGNC Symbol;Acc:HGNC:13469]	2113	0.12119147926568985	-0.0444126	No	
+row_2	PTK2	protein tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:9611]	5043	0.047474198043346405	-0.17739607	No	
+row_3	APOH	apolipoprotein H [Source:HGNC Symbol;Acc:HGNC:616]	5220	0.04450444504618645	-0.17519581	No	
+row_4	JAG2	jagged canonical Notch ligand 2 [Source:HGNC Symbol;Acc:HGNC:6189]	6714	0.022654294967651367	-0.24335948	No	
+row_5	FGFR1	fibroblast growth factor receptor 1 [Source:HGNC Symbol;Acc:HGNC:3688]	10264	-0.015250729396939278	-0.4148354	No	
+row_6	MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	10714	-0.01850428804755211	-0.43247414	No	
+row_7	VAV2	vav guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:12658]	10736	-0.018663998693227768	-0.4289443	No	
+row_8	PF4	platelet factor 4 [Source:HGNC Symbol;Acc:HGNC:8861]	11071	-0.021161051467061043	-0.4402557	No	
+row_9	PGLYRP1	peptidoglycan recognition protein 1 [Source:HGNC Symbol;Acc:HGNC:8904]	11275	-0.022778784856200218	-0.44470406	No	
+row_10	LRPAP1	LDL receptor related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	12505	-0.032297711819410324	-0.49747506	No	
+row_11	PRG2	proteoglycan 2, pro eosinophil major basic protein [Source:HGNC Symbol;Acc:HGNC:9362]	12914	-0.035606272518634796	-0.50890535	No	
+row_12	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	13043	-0.036834776401519775	-0.506212	No	
+row_13	CXCL6	C-X-C motif chemokine ligand 6 [Source:HGNC Symbol;Acc:HGNC:10643]	13059	-0.03696885704994202	-0.49790722	No	
+row_14	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	14538	-0.0518704429268837	-0.55818194	No	
+row_15	LPL	lipoprotein lipase [Source:HGNC Symbol;Acc:HGNC:6677]	15747	-0.07035832852125168	-0.6006038	Yes	
+row_16	PDGFA	platelet derived growth factor subunit A [Source:HGNC Symbol;Acc:HGNC:8799]	16020	-0.07484306395053864	-0.5957198	Yes	
+row_17	COL5A2	collagen type V alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2210]	16304	-0.08048104494810104	-0.58999944	Yes	
+row_18	STC1	stanniocalcin 1 [Source:HGNC Symbol;Acc:HGNC:11373]	16638	-0.08748360723257065	-0.58503413	Yes	
+row_19	S100A4	S100 calcium binding protein A4 [Source:HGNC Symbol;Acc:HGNC:10494]	16946	-0.0958428680896759	-0.57673997	Yes	
+row_20	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	17032	-0.09777575731277466	-0.55701315	Yes	
+row_21	KCNJ8	potassium inwardly rectifying channel subfamily J member 8 [Source:HGNC Symbol;Acc:HGNC:6269]	17114	-0.09969493746757507	-0.5366193	Yes	
+row_22	ITGAV	integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	17144	-0.10066914558410645	-0.5134199	Yes	
+row_23	POSTN	periostin [Source:HGNC Symbol;Acc:HGNC:16953]	17156	-0.10095834732055664	-0.48926118	Yes	
+row_24	JAG1	jagged canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:6188]	17583	-0.11382319778203964	-0.4824425	Yes	
+row_25	TIMP1	TIMP metallopeptidase inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:11820]	17593	-0.11409205198287964	-0.45497155	Yes	
+row_26	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	17896	-0.126428484916687	-0.43894708	Yes	
+row_27	SLCO2A1	solute carrier organic anion transporter family member 2A1 [Source:HGNC Symbol;Acc:HGNC:10955]	18787	-0.1738409399986267	-0.44035047	Yes	
+row_28	COL3A1	collagen type III alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2201]	18848	-0.1777077615261078	-0.39983222	Yes	
+row_29	THBD	thrombomodulin [Source:HGNC Symbol;Acc:HGNC:11784]	19046	-0.19213861227035522	-0.3625466	Yes	
+row_30	OLR1	oxidized low density lipoprotein receptor 1 [Source:HGNC Symbol;Acc:HGNC:8133]	19570	-0.24952098727226257	-0.327315	Yes	
+row_31	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	19655	-0.2628379762172699	-0.26715252	Yes	
+row_32	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	19799	-0.29249662160873413	-0.2026461	Yes	
+row_33	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	20194	-0.44934752583503723	-0.11215386	Yes	
+row_34	SERPINA5	serpin family A member 5 [Source:HGNC Symbol;Acc:HGNC:8723]	20215	-0.47755059599876404	0.0037025865	Yes	

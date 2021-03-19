@@ -1,0 +1,39 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	46	0.45818793773651123	0.15995565	Yes	
+row_1	CEP135	centrosomal protein 135 [Source:HGNC Symbol;Acc:HGNC:29086]	1005	0.18578198552131653	0.17843235	Yes	
+row_2	CDK5RAP2	CDK5 regulatory subunit associated protein 2 [Source:HGNC Symbol;Acc:HGNC:18672]	1240	0.16790646314620972	0.22632779	Yes	
+row_3	RDX	radixin [Source:HGNC Symbol;Acc:HGNC:9944]	2213	0.11707380414009094	0.21978629	Yes	
+row_4	CLIP4	CAP-Gly domain containing linker protein family member 4 [Source:HGNC Symbol;Acc:HGNC:26108]	2424	0.10985884070396423	0.24831428	Yes	
+row_5	MIPOL1	mirror-image polydactyly 1 [Source:HGNC Symbol;Acc:HGNC:21460]	2551	0.10582755506038666	0.2795625	Yes	
+row_6	CNTRL	centriolin [Source:HGNC Symbol;Acc:HGNC:1858]	2998	0.09185230731964111	0.29006246	Yes	
+row_7	PCNT	pericentrin [Source:HGNC Symbol;Acc:HGNC:16068]	3050	0.09034503996372223	0.31953207	Yes	
+row_8	CIT	citron rho-interacting serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1985]	3105	0.08893401175737381	0.34835395	Yes	
+row_9	USP13	ubiquitin specific peptidase 13 [Source:HGNC Symbol;Acc:HGNC:12611]	3267	0.08480346947908401	0.3704302	Yes	
+row_10	CEP68	centrosomal protein 68 [Source:HGNC Symbol;Acc:HGNC:29076]	3957	0.06894892454147339	0.36082274	Yes	
+row_11	NINL	ninein like [Source:HGNC Symbol;Acc:HGNC:29163]	4220	0.06356169283390045	0.37039116	Yes	
+row_12	TLE3	TLE family member 3, transcriptional corepressor [Source:HGNC Symbol;Acc:HGNC:11839]	4273	0.06232306733727455	0.38988987	Yes	
+row_13	CEP250	centrosomal protein 250 [Source:HGNC Symbol;Acc:HGNC:1859]	4443	0.058923110365867615	0.40240785	Yes	
+row_14	JAKMIP1	janus kinase and microtubule interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:26460]	4708	0.05351698771119118	0.40832108	Yes	
+row_15	AKAP9	A-kinase anchoring protein 9 [Source:HGNC Symbol;Acc:HGNC:379]	5003	0.048372142016887665	0.41093144	Yes	
+row_16	PRKAR2A	protein kinase cAMP-dependent type II regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9391]	6122	0.03041244111955166	0.36649764	No	
+row_17	CEP350	centrosomal protein 350 [Source:HGNC Symbol;Acc:HGNC:24238]	6760	0.021917538717389107	0.34280565	No	
+row_18	TBKBP1	TBK1 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:30140]	7445	0.01254179049283266	0.31347346	No	
+row_19	NIN	ninein [Source:HGNC Symbol;Acc:HGNC:14906]	8059	0.005351186729967594	0.285101	No	
+row_20	CEP43	centrosomal protein 43 [Source:HGNC Symbol;Acc:HGNC:17012]	8161	0.004119976423680782	0.2815728	No	
+row_21	GRIPAP1	GRIP1 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:18706]	9372	-0.007990733720362186	0.22465777	No	
+row_22	GORASP1	golgi reassembly stacking protein 1 [Source:HGNC Symbol;Acc:HGNC:16769]	9401	-0.00820024125277996	0.22617866	No	
+row_23	CEP112	centrosomal protein 112 [Source:HGNC Symbol;Acc:HGNC:28514]	10669	-0.01822737418115139	0.17007364	No	
+row_24	HSBP1	heat shock factor binding protein 1 [Source:HGNC Symbol;Acc:HGNC:5203]	10986	-0.020501386374235153	0.16172978	No	
+row_25	TBK1	TANK binding kinase 1 [Source:HGNC Symbol;Acc:HGNC:11584]	12453	-0.031837984919548035	0.100618064	No	
+row_26	HOOK1	hook microtubule tethering protein 1 [Source:HGNC Symbol;Acc:HGNC:19884]	12616	-0.033237867057323456	0.104387514	No	
+row_27	GCC2	GRIP and coiled-coil domain containing 2 [Source:HGNC Symbol;Acc:HGNC:23218]	12762	-0.03445343300700188	0.10942673	No	
+row_28	GOLGA3	golgin A3 [Source:HGNC Symbol;Acc:HGNC:4426]	13125	-0.03769877180457115	0.10490054	No	
+row_29	GOLGA2	golgin A2 [Source:HGNC Symbol;Acc:HGNC:4425]	13910	-0.04497401416301727	0.08211381	No	
+row_30	GOLGB1	golgin B1 [Source:HGNC Symbol;Acc:HGNC:4429]	14114	-0.04713823273777962	0.088780455	No	
+row_31	FYCO1	FYVE and coiled-coil domain autophagy adaptor 1 [Source:HGNC Symbol;Acc:HGNC:14673]	14214	-0.04816755652427673	0.10094659	No	
+row_32	TLE1	TLE family member 1, transcriptional corepressor [Source:HGNC Symbol;Acc:HGNC:11837]	15677	-0.06885603070259094	0.053139057	No	
+row_33	PRKAR2B	protein kinase cAMP-dependent type II regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:9392]	15740	-0.07024739682674408	0.07494971	No	
+row_34	GCC1	GRIP and coiled-coil domain containing 1 [Source:HGNC Symbol;Acc:HGNC:19095]	16195	-0.07792352139949799	0.08012304	No	
+row_35	PRKACA	protein kinase cAMP-activated catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9380]	16348	-0.08133194595575333	0.101414524	No	
+row_36	ERC1	ELKS/RAB6-interacting/CAST family member 1 [Source:HGNC Symbol;Acc:HGNC:17072]	17515	-0.1116754561662674	0.08338284	No	
+row_37	PDE4DIP	phosphodiesterase 4D interacting protein [Source:HGNC Symbol;Acc:HGNC:15580]	18401	-0.15134231746196747	0.09327016	No	

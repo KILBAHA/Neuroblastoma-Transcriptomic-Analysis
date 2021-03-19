@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	2132	0.08275534212589264	0.04519722	Yes	
+row_1	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	2289	0.07794471085071564	0.17910981	Yes	
+row_2	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	2671	0.0666889026761055	0.2814765	Yes	
+row_3	ARHGEF4	Rho guanine nucleotide exchange factor 4 [Source:HGNC Symbol;Acc:HGNC:684]	4666	0.02979860082268715	0.23727039	Yes	
+row_4	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	4824	0.027544759213924408	0.2795693	Yes	
+row_5	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	5021	0.024865703657269478	0.3150776	Yes	
+row_6	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	6034	0.011368873529136181	0.28582084	No	
+row_7	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	6348	0.0072827767580747604	0.28361487	No	
+row_8	SUMO2	small ubiquitin like modifier 2 [Source:HGNC Symbol;Acc:HGNC:11125]	7513	-0.00539984367787838	0.2360173	No	
+row_9	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	8757	-0.016025561839342117	0.20382781	No	
+row_10	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	8780	-0.016232872381806374	0.23223394	No	
+row_11	SQSTM1	sequestosome 1 [Source:HGNC Symbol;Acc:HGNC:11280]	9081	-0.018782030791044235	0.25156045	No	
+row_12	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	10082	-0.026347460225224495	0.25010794	No	
+row_13	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	10157	-0.02686423622071743	0.29526404	No	
+row_14	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	18442	-0.11253035813570023	0.09114226	No	

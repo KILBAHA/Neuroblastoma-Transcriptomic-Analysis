@@ -50,7 +50,7 @@ simpleClst = function(seed, k_clust,data, weights =wg){ #run clustering with spe
 
 
 
-bestk5 = simpleClst(511, 6, rz_order)
+bestk5 = simpleClst(639, 6, rz_order)
 
 
 get_indvs = function(clust, cnum){

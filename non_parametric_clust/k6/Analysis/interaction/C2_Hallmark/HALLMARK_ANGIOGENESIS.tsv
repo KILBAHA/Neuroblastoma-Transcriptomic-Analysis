@@ -1,0 +1,36 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	17	0.4218890070915222	0.079313636	Yes	
+row_1	OLR1	oxidized low density lipoprotein receptor 1 [Source:HGNC Symbol;Acc:HGNC:8133]	56	0.3656330108642578	0.1469027	Yes	
+row_2	POSTN	periostin [Source:HGNC Symbol;Acc:HGNC:16953]	74	0.35421618819236755	0.21335946	Yes	
+row_3	SERPINA5	serpin family A member 5 [Source:HGNC Symbol;Acc:HGNC:8723]	158	0.31672099232673645	0.2694344	Yes	
+row_4	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	219	0.2969859540462494	0.32289538	Yes	
+row_5	STC1	stanniocalcin 1 [Source:HGNC Symbol;Acc:HGNC:11373]	538	0.2391430139541626	0.3526301	Yes	
+row_6	LPL	lipoprotein lipase [Source:HGNC Symbol;Acc:HGNC:6677]	664	0.2249642014503479	0.38919908	Yes	
+row_7	THBD	thrombomodulin [Source:HGNC Symbol;Acc:HGNC:11784]	668	0.2245013415813446	0.43170303	Yes	
+row_8	ITGAV	integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	696	0.22179029881954193	0.4725071	Yes	
+row_9	PDGFA	platelet derived growth factor subunit A [Source:HGNC Symbol;Acc:HGNC:8799]	856	0.20815783739089966	0.5042046	Yes	
+row_10	COL3A1	collagen type III alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2201]	909	0.20342573523521423	0.5402854	Yes	
+row_11	COL5A2	collagen type V alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2210]	925	0.20238712430000305	0.57799554	Yes	
+row_12	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	927	0.20219677686691284	0.6163607	Yes	
+row_13	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	981	0.19803129136562347	0.6513673	Yes	
+row_14	TIMP1	TIMP metallopeptidase inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:11820]	1040	0.1939038783311844	0.6853429	Yes	
+row_15	JAG1	jagged canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:6188]	1137	0.18780504167079926	0.71628386	Yes	
+row_16	SLCO2A1	solute carrier organic anion transporter family member 2A1 [Source:HGNC Symbol;Acc:HGNC:10955]	1564	0.16591522097587585	0.7267746	Yes	
+row_17	KCNJ8	potassium inwardly rectifying channel subfamily J member 8 [Source:HGNC Symbol;Acc:HGNC:6269]	2495	0.1341361254453659	0.7063462	No	
+row_18	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	2837	0.12622752785682678	0.7134931	No	
+row_19	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	3368	0.11481783539056778	0.7091418	No	
+row_20	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	4165	0.09984847158193588	0.6888146	No	
+row_21	TNFRSF21	TNF receptor superfamily member 21 [Source:HGNC Symbol;Acc:HGNC:13469]	4647	0.09263862669467926	0.68266857	No	
+row_22	S100A4	S100 calcium binding protein A4 [Source:HGNC Symbol;Acc:HGNC:10494]	4681	0.09192616492509842	0.69850403	No	
+row_23	LRPAP1	LDL receptor related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	4889	0.08871282637119293	0.70513904	No	
+row_24	FGFR1	fibroblast growth factor receptor 1 [Source:HGNC Symbol;Acc:HGNC:3688]	5642	0.0787937119603157	0.68298393	No	
+row_25	VAV2	vav guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:12658]	8565	0.04632564261555672	0.54753155	No	
+row_26	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	9154	0.04083601012825966	0.5262614	No	
+row_27	PTK2	protein tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:9611]	9751	0.03513553738594055	0.5035133	No	
+row_28	PRG2	proteoglycan 2, pro eosinophil major basic protein [Source:HGNC Symbol;Acc:HGNC:9362]	12593	0.00802487600594759	0.36478314	No	
+row_29	JAG2	jagged canonical Notch ligand 2 [Source:HGNC Symbol;Acc:HGNC:6189]	12869	0.0055748349986970425	0.35226604	No	
+row_30	PGLYRP1	peptidoglycan recognition protein 1 [Source:HGNC Symbol;Acc:HGNC:8904]	12897	0.005367915611714125	0.35195294	No	
+row_31	APOH	apolipoprotein H [Source:HGNC Symbol;Acc:HGNC:616]	14761	-0.010558481328189373	0.26198614	No	
+row_32	MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	15556	-0.01695973239839077	0.22601	No	
+row_33	CXCL6	C-X-C motif chemokine ligand 6 [Source:HGNC Symbol;Acc:HGNC:10643]	15807	-0.019161583855748177	0.2173084	No	
+row_34	PF4	platelet factor 4 [Source:HGNC Symbol;Acc:HGNC:8861]	15993	-0.020840825513005257	0.21213476	No	

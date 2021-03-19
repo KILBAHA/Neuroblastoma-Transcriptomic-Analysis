@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	2132	0.08275534212589264	-0.016084969	Yes	
+row_1	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	2289	0.07794471085071564	0.06010782	Yes	
+row_2	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	2671	0.0666889026761055	0.11308988	Yes	
+row_3	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	2739	0.0650254338979721	0.17976795	Yes	
+row_4	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	3326	0.052531369030475616	0.20740274	Yes	
+row_5	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	4048	0.03943122178316116	0.21428062	Yes	
+row_6	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	4824	0.027544759213924408	0.20570265	Yes	
+row_7	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	5021	0.024865703657269478	0.22279732	Yes	
+row_8	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	6034	0.011368873529136181	0.18512164	No	
+row_9	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	6348	0.0072827767580747604	0.17752263	No	
+row_10	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	10082	-0.026347460225224495	0.021769334	No	
+row_11	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	10157	-0.02686423622071743	0.047031857	No	
+row_12	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	15161	-0.06336352974176407	-0.13151918	No	
+row_13	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	17311	-0.08918341249227524	-0.14152448	No	
+row_14	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	20114	-0.2679697573184967	0.00868028	No	

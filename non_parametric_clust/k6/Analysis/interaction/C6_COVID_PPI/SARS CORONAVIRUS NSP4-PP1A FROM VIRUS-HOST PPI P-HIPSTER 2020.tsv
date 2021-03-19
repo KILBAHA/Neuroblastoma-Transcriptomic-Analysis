@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	63	0.29272571206092834	0.47350883	Yes	
+row_1	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	1278	0.08663088083267212	0.5546875	Yes	
+row_2	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	3509	0.040619876235723495	0.51084256	No	
+row_3	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	3999	0.035442352294921875	0.5444326	No	
+row_4	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	5421	0.02270420826971531	0.5113167	No	
+row_5	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	5951	0.018733158707618713	0.5157281	No	
+row_6	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	7122	0.011193192563951015	0.47624916	No	
+row_7	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	8419	0.003624759381636977	0.41823307	No	
+row_8	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	11047	-0.010301098227500916	0.30544326	No	
+row_9	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	11173	-0.01095210574567318	0.31711057	No	
+row_10	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	11193	-0.011053758673369884	0.33417124	No	
+row_11	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	11288	-0.011617137119174004	0.3484502	No	
+row_12	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	12179	-0.016409985721111298	0.3312747	No	
+row_13	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	12202	-0.016563529148697853	0.35715842	No	
+row_14	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	13719	-0.02560342475771904	0.3240777	No	

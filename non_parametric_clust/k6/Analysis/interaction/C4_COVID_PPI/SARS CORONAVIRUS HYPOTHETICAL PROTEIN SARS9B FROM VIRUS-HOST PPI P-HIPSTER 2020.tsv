@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	5329	0.05627002567052841	-0.2263305	No	
+row_1	ARHGEF4	Rho guanine nucleotide exchange factor 4 [Source:HGNC Symbol;Acc:HGNC:684]	6966	0.02697017975151539	-0.2895262	No	
+row_2	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	8296	0.003179818857461214	-0.35300946	No	
+row_3	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	10270	-0.03131081536412239	-0.43001077	No	
+row_4	SQSTM1	sequestosome 1 [Source:HGNC Symbol;Acc:HGNC:11280]	10786	-0.04046914726495743	-0.42916498	No	
+row_5	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	11947	-0.06216105446219444	-0.44606248	Yes	
+row_6	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	12394	-0.07002291828393936	-0.4226473	Yes	
+row_7	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	13454	-0.09058886766433716	-0.41612735	Yes	
+row_8	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	14184	-0.10520992428064346	-0.3838499	Yes	
+row_9	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	14829	-0.11907327175140381	-0.33838955	Yes	
+row_10	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	15068	-0.12365888059139252	-0.26993167	Yes	
+row_11	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	15765	-0.13862939178943634	-0.21435331	Yes	
+row_12	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	18117	-0.1948518007993698	-0.20393687	Yes	
+row_13	SUMO2	small ubiquitin like modifier 2 [Source:HGNC Symbol;Acc:HGNC:11125]	18278	-0.19929295778274536	-0.08258146	Yes	
+row_14	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	19958	-0.2802709937095642	0.016374098	Yes	

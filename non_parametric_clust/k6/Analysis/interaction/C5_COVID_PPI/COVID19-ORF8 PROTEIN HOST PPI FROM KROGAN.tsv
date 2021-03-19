@@ -1,0 +1,47 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HS6ST2	heparan sulfate 6-O-sulfotransferase 2 [Source:HGNC Symbol;Acc:HGNC:19133]	71	0.4211626350879669	0.08427685	Yes	
+row_1	POGLUT2	protein O-glucosyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:19350]	313	0.2894158661365509	0.13269629	Yes	
+row_2	PVR	PVR cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:9705]	582	0.2310653179883957	0.16761991	Yes	
+row_3	FKBP7	FKBP prolyl isomerase 7 [Source:HGNC Symbol;Acc:HGNC:3723]	736	0.21159745752811432	0.20416623	Yes	
+row_4	GGH	gamma-glutamyl hydrolase [Source:HGNC Symbol;Acc:HGNC:4248]	1270	0.1657150238752365	0.21237911	Yes	
+row_5	ERO1B	endoplasmic reticulum oxidoreductase 1 beta [Source:HGNC Symbol;Acc:HGNC:14355]	1313	0.16263742744922638	0.2442034	Yes	
+row_6	FKBP10	FKBP prolyl isomerase 10 [Source:HGNC Symbol;Acc:HGNC:18169]	1621	0.14449718594551086	0.25915706	Yes	
+row_7	DNMT1	DNA methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2976]	1820	0.1346897929906845	0.27745056	Yes	
+row_8	POGLUT3	protein O-glucosyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:28496]	1957	0.12761040031909943	0.29733098	Yes	
+row_9	PLOD2	procollagen-lysine,2-oxoglutarate 5-dioxygenase 2 [Source:HGNC Symbol;Acc:HGNC:9082]	2514	0.10697630792856216	0.2921647	Yes	
+row_10	FOXRED2	FAD dependent oxidoreductase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:26264]	2868	0.09557631611824036	0.2946495	Yes	
+row_11	UGGT2	UDP-glucose glycoprotein glucosyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:15664]	3097	0.08927357941865921	0.30199495	Yes	
+row_12	POFUT1	protein O-fucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:14988]	3670	0.0751989483833313	0.28941497	No	
+row_13	STC2	stanniocalcin 2 [Source:HGNC Symbol;Acc:HGNC:11374]	3866	0.07080382108688354	0.29454076	No	
+row_14	HYOU1	hypoxia up-regulated 1 [Source:HGNC Symbol;Acc:HGNC:16931]	6329	0.027487896382808685	0.17865984	No	
+row_15	TOR1A	torsin family 1 member A [Source:HGNC Symbol;Acc:HGNC:3098]	6643	0.02347077615559101	0.1680913	No	
+row_16	CISD3	CDGSH iron sulfur domain 3 [Source:HGNC Symbol;Acc:HGNC:27578]	7489	0.011862666346132755	0.12882517	No	
+row_17	SDF2	stromal cell derived factor 2 [Source:HGNC Symbol;Acc:HGNC:10675]	8392	0.001406051917001605	0.08456402	No	
+row_18	INHBE	inhibin subunit beta E [Source:HGNC Symbol;Acc:HGNC:24029]	8410	0.0012206502724438906	0.083978735	No	
+row_19	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	8681	-0.001485498738475144	0.07095173	No	
+row_20	NGLY1	N-glycanase 1 [Source:HGNC Symbol;Acc:HGNC:17646]	9276	-0.007029848173260689	0.0430764	No	
+row_21	TM2D3	TM2 domain containing 3 [Source:HGNC Symbol;Acc:HGNC:24128]	9885	-0.012149958871304989	0.015576738	No	
+row_22	FBXL12	F-box and leucine rich repeat protein 12 [Source:HGNC Symbol;Acc:HGNC:13611]	10446	-0.016528403386473656	-0.00863936	No	
+row_23	SIL1	SIL1 nucleotide exchange factor [Source:HGNC Symbol;Acc:HGNC:24624]	11347	-0.023334341123700142	-0.04823115	No	
+row_24	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	11799	-0.026904143393039703	-0.06490056	No	
+row_25	PUSL1	pseudouridine synthase like 1 [Source:HGNC Symbol;Acc:HGNC:26914]	12033	-0.028628915548324585	-0.070442386	No	
+row_26	LOX	lysyl oxidase [Source:HGNC Symbol;Acc:HGNC:6664]	12374	-0.031198812648653984	-0.08073382	No	
+row_27	EDEM3	ER degradation enhancing alpha-mannosidase like protein 3 [Source:HGNC Symbol;Acc:HGNC:16787]	13347	-0.039714302867650986	-0.12046793	No	
+row_28	NPTX1	neuronal pentraxin 1 [Source:HGNC Symbol;Acc:HGNC:7952]	14068	-0.046588119119405746	-0.1463218	No	
+row_29	ADAMTS1	ADAM metallopeptidase with thrombospondin type 1 motif 1 [Source:HGNC Symbol;Acc:HGNC:217]	14497	-0.051486097276210785	-0.15673146	No	
+row_30	ADAM9	ADAM metallopeptidase domain 9 [Source:HGNC Symbol;Acc:HGNC:216]	14781	-0.054876748472452164	-0.15927213	No	
+row_31	PCSK6	proprotein convertase subtilisin/kexin type 6 [Source:HGNC Symbol;Acc:HGNC:8569]	15072	-0.059075597673654556	-0.16128339	No	
+row_32	CHPF	chondroitin polymerizing factor [Source:HGNC Symbol;Acc:HGNC:24291]	15257	-0.06226455047726631	-0.15739411	No	
+row_33	COL6A1	collagen type VI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2211]	15692	-0.06920192390680313	-0.1644076	No	
+row_34	GDF15	growth differentiation factor 15 [Source:HGNC Symbol;Acc:HGNC:30142]	15977	-0.07432606816291809	-0.1629438	No	
+row_35	EMC1	ER membrane protein complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:28957]	16359	-0.0814354196190834	-0.16478948	No	
+row_36	OS9	OS9 endoplasmic reticulum lectin [Source:HGNC Symbol;Acc:HGNC:16994]	16502	-0.0843464732170105	-0.15422304	No	
+row_37	NEU1	neuraminidase 1 [Source:HGNC Symbol;Acc:HGNC:7758]	16589	-0.08648163080215454	-0.14044544	No	
+row_38	ERLEC1	endoplasmic reticulum lectin 1 [Source:HGNC Symbol;Acc:HGNC:25222]	16968	-0.09622284770011902	-0.13906077	No	
+row_39	CHPF2	chondroitin polymerizing factor 2 [Source:HGNC Symbol;Acc:HGNC:29270]	17768	-0.12090042233467102	-0.15332775	No	
+row_40	SMOC1	SPARC related modular calcium binding 1 [Source:HGNC Symbol;Acc:HGNC:20318]	18154	-0.13856516778469086	-0.14346334	No	
+row_41	PLD3	phospholipase D family member 3 [Source:HGNC Symbol;Acc:HGNC:17158]	18544	-0.15921719372272491	-0.12949196	No	
+row_42	MFGE8	milk fat globule EGF and factor V/VIII domain containing [Source:HGNC Symbol;Acc:HGNC:7036]	18657	-0.1656332165002823	-0.100500874	No	
+row_43	PLAT	plasminogen activator, tissue type [Source:HGNC Symbol;Acc:HGNC:9051]	19619	-0.25710761547088623	-0.09437986	No	
+row_44	PLEKHF2	pleckstrin homology and FYVE domain containing 2 [Source:HGNC Symbol;Acc:HGNC:20757]	19630	-0.2593142092227936	-0.040824357	No	
+row_45	NPC2	NPC intracellular cholesterol transporter 2 [Source:HGNC Symbol;Acc:HGNC:14537]	20013	-0.3520360589027405	0.013682464	No	

@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	473	0.24945107102394104	0.18653022	No	
+row_1	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	5613	0.03824004903435707	-0.03475154	No	
+row_2	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	6164	0.029826700687408447	-0.036784586	No	
+row_3	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	7945	0.006527135148644447	-0.11908195	No	
+row_4	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	8270	0.0030107672791928053	-0.13252853	No	
+row_5	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	9369	-0.007979530841112137	-0.17996821	No	
+row_6	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	12770	-0.03452172875404358	-0.31861168	Yes	
+row_7	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	12816	-0.03482828661799431	-0.2915307	Yes	
+row_8	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	12845	-0.03509625419974327	-0.26338586	Yes	
+row_9	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	13173	-0.038187962025403976	-0.24738652	Yes	
+row_10	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	14557	-0.05214140936732292	-0.2717297	Yes	
+row_11	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	16130	-0.07695553451776505	-0.2845186	Yes	
+row_12	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	17485	-0.11073121428489685	-0.25814107	Yes	
+row_13	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	19357	-0.223912313580513	-0.16204461	Yes	
+row_14	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	19552	-0.2472543716430664	0.03639767	Yes	

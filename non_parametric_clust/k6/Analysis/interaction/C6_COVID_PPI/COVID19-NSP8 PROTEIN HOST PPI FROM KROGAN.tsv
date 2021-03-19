@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EXOSC3	exosome component 3 [Source:HGNC Symbol;Acc:HGNC:17944]	1144	0.09229271858930588	0.02124846	No	
+row_1	NGDN	neuroguidin [Source:HGNC Symbol;Acc:HGNC:20271]	1311	0.08544588834047318	0.08498665	No	
+row_2	EXOSC8	exosome component 8 [Source:HGNC Symbol;Acc:HGNC:17035]	1512	0.0788978636264801	0.1415352	No	
+row_3	NSD2	nuclear receptor binding SET domain protein 2 [Source:HGNC Symbol;Acc:HGNC:12766]	1860	0.06834394484758377	0.18194662	No	
+row_4	SRP19	signal recognition particle 19 [Source:HGNC Symbol;Acc:HGNC:11300]	3348	0.04255551099777222	0.14440301	No	
+row_5	AATF	apoptosis antagonizing transcription factor [Source:HGNC Symbol;Acc:HGNC:19235]	3400	0.04188751429319382	0.17714769	No	
+row_6	EXOSC2	exosome component 2 [Source:HGNC Symbol;Acc:HGNC:17097]	4039	0.0350414402782917	0.17516741	No	
+row_7	SRP54	signal recognition particle 54 [Source:HGNC Symbol;Acc:HGNC:11301]	5226	0.024194717407226562	0.13701867	No	
+row_8	HECTD1	HECT domain E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:20157]	6382	0.015782449394464493	0.09331797	No	
+row_9	SRP72	signal recognition particle 72 [Source:HGNC Symbol;Acc:HGNC:11303]	9861	-0.0041022030636668205	-0.07482933	No	
+row_10	NOL10	nucleolar protein 10 [Source:HGNC Symbol;Acc:HGNC:25862]	11027	-0.010174826718866825	-0.12374392	No	
+row_11	MRPS5	mitochondrial ribosomal protein S5 [Source:HGNC Symbol;Acc:HGNC:14498]	11981	-0.015407230705022812	-0.15779403	No	
+row_12	CCDC86	coiled-coil domain containing 86 [Source:HGNC Symbol;Acc:HGNC:28359]	12634	-0.019113309681415558	-0.17387336	No	
+row_13	MEPCE	methylphosphate capping enzyme [Source:HGNC Symbol;Acc:HGNC:20247]	13253	-0.0224886666983366	-0.18543379	No	
+row_14	MRPS2	mitochondrial ribosomal protein S2 [Source:HGNC Symbol;Acc:HGNC:14495]	14195	-0.028865130618214607	-0.20756295	No	
+row_15	MRPS27	mitochondrial ribosomal protein S27 [Source:HGNC Symbol;Acc:HGNC:14512]	15531	-0.03976280614733696	-0.23995796	Yes	
+row_16	MPHOSPH10	M-phase phosphoprotein 10 [Source:HGNC Symbol;Acc:HGNC:7213]	15860	-0.04307357966899872	-0.21988171	Yes	
+row_17	SEPSECS	Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase [Source:HGNC Symbol;Acc:HGNC:30605]	16174	-0.04646453261375427	-0.19621089	Yes	
+row_18	LARP7	La ribonucleoprotein 7, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:24912]	16538	-0.050815798342227936	-0.17134409	Yes	
+row_19	EXOSC5	exosome component 5 [Source:HGNC Symbol;Acc:HGNC:24662]	17330	-0.06262467801570892	-0.1576536	Yes	
+row_20	MRPS25	mitochondrial ribosomal protein S25 [Source:HGNC Symbol;Acc:HGNC:14511]	19032	-0.10631044209003448	-0.15208675	Yes	
+row_21	NARS2	asparaginyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:26274]	19260	-0.11741477251052856	-0.06444679	Yes	
+row_22	DDX10	DEAD-box helicase 10 [Source:HGNC Symbol;Acc:HGNC:2735]	19554	-0.13686901330947876	0.03631341	Yes	

@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC25A21	solute carrier family 25 member 21 [Source:HGNC Symbol;Acc:HGNC:14411]	747	0.1548251509666443	0.008694896	No	
+row_1	REEP6	receptor accessory protein 6 [Source:HGNC Symbol;Acc:HGNC:30078]	4691	0.06760696321725845	-0.16601045	No	
+row_2	COQ8B	coenzyme Q8B [Source:HGNC Symbol;Acc:HGNC:19041]	7061	0.025234004482626915	-0.27550295	No	
+row_3	YIF1A	Yip1 interacting factor homolog A, membrane trafficking protein [Source:HGNC Symbol;Acc:HGNC:16688]	9071	-0.010817723348736763	-0.37147063	No	
+row_4	AKAP8L	A-kinase anchoring protein 8 like [Source:HGNC Symbol;Acc:HGNC:29857]	9467	-0.01748265139758587	-0.38582048	No	
+row_5	PSMD8	proteasome 26S subunit, non-ATPase 8 [Source:HGNC Symbol;Acc:HGNC:9566]	9817	-0.02341533452272415	-0.39615417	No	
+row_6	AASS	aminoadipate-semialdehyde synthase [Source:HGNC Symbol;Acc:HGNC:17366]	10740	-0.03967098891735077	-0.42998368	No	
+row_7	PMPCA	peptidase, mitochondrial processing subunit alpha [Source:HGNC Symbol;Acc:HGNC:18667]	11190	-0.047393567860126495	-0.43819642	No	
+row_8	AAR2	AAR2 splicing factor [Source:HGNC Symbol;Acc:HGNC:15886]	11431	-0.0521366186439991	-0.4346985	No	
+row_9	GGCX	gamma-glutamyl carboxylase [Source:HGNC Symbol;Acc:HGNC:4247]	12395	-0.07002537697553635	-0.4616188	No	
+row_10	TUBGCP2	tubulin gamma complex associated protein 2 [Source:HGNC Symbol;Acc:HGNC:18599]	12997	-0.08179216831922531	-0.46721044	Yes	
+row_11	TARS2	threonyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:30740]	13163	-0.08500052988529205	-0.45033982	Yes	
+row_12	FAM8A1	family with sequence similarity 8 member A1 [Source:HGNC Symbol;Acc:HGNC:16372]	13224	-0.0861244946718216	-0.4279563	Yes	
+row_13	STOM	stomatin [Source:HGNC Symbol;Acc:HGNC:3383]	13682	-0.09500747919082642	-0.42255205	Yes	
+row_14	REEP5	receptor accessory protein 5 [Source:HGNC Symbol;Acc:HGNC:30077]	14554	-0.11330792307853699	-0.43219468	Yes	
+row_15	TUBGCP3	tubulin gamma complex associated protein 3 [Source:HGNC Symbol;Acc:HGNC:18598]	14586	-0.11407344788312912	-0.40015513	Yes	
+row_16	ANO6	anoctamin 6 [Source:HGNC Symbol;Acc:HGNC:25240]	15227	-0.12703974545001984	-0.39435607	Yes	
+row_17	PITRM1	pitrilysin metallopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:17663]	15450	-0.1317131221294403	-0.36655203	Yes	
+row_18	RTN4	reticulon 4 [Source:HGNC Symbol;Acc:HGNC:14085]	16099	-0.14597442746162415	-0.35557574	Yes	
+row_19	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	16195	-0.14798703789710999	-0.3167147	Yes	
+row_20	FASTKD5	FAST kinase domains 5 [Source:HGNC Symbol;Acc:HGNC:25790]	16873	-0.1633179932832718	-0.3020658	Yes	
+row_21	ETFA	electron transfer flavoprotein subunit alpha [Source:HGNC Symbol;Acc:HGNC:3481]	17159	-0.16950292885303497	-0.2662502	Yes	
+row_22	INTS4	integrator complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:25048]	17194	-0.1703384518623352	-0.21780103	Yes	
+row_23	ATP6V1A	ATPase H+ transporting V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	17198	-0.1703799068927765	-0.1678097	Yes	
+row_24	SAAL1	serum amyloid A like 1 [Source:HGNC Symbol;Acc:HGNC:25158]	17682	-0.18264107406139374	-0.13789982	Yes	
+row_25	SLC30A9	solute carrier family 30 member 9 [Source:HGNC Symbol;Acc:HGNC:1329]	18412	-0.20265831053256989	-0.11424022	Yes	
+row_26	BZW2	basic leucine zipper and W2 domains 2 [Source:HGNC Symbol;Acc:HGNC:18808]	19149	-0.22807343304157257	-0.083446935	Yes	
+row_27	ACADM	acyl-CoA dehydrogenase medium chain [Source:HGNC Symbol;Acc:HGNC:89]	19329	-0.23627150058746338	-0.022751244	Yes	
+row_28	PMPCB	peptidase, mitochondrial processing subunit beta [Source:HGNC Symbol;Acc:HGNC:9119]	19384	-0.23831292986869812	0.044714384	Yes	

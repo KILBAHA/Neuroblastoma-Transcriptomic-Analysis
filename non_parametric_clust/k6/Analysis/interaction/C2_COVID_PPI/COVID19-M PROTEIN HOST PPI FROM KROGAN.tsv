@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STOM	stomatin [Source:HGNC Symbol;Acc:HGNC:3383]	934	0.20162272453308105	0.038839772	Yes	
+row_1	AASS	aminoadipate-semialdehyde synthase [Source:HGNC Symbol;Acc:HGNC:17366]	991	0.19714143872261047	0.11912409	Yes	
+row_2	ATP6V1A	ATPase H+ transporting V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	1158	0.18690578639507294	0.18966764	Yes	
+row_3	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	1276	0.18035443127155304	0.2598697	Yes	
+row_4	ANO6	anoctamin 6 [Source:HGNC Symbol;Acc:HGNC:25240]	1645	0.16258804500102997	0.3101997	Yes	
+row_5	REEP5	receptor accessory protein 5 [Source:HGNC Symbol;Acc:HGNC:30077]	1724	0.1596914827823639	0.37362203	Yes	
+row_6	RTN4	reticulon 4 [Source:HGNC Symbol;Acc:HGNC:14085]	3052	0.12134068459272385	0.35924613	Yes	
+row_7	ACADM	acyl-CoA dehydrogenase medium chain [Source:HGNC Symbol;Acc:HGNC:89]	3055	0.12130030989646912	0.41024658	Yes	
+row_8	SLC30A9	solute carrier family 30 member 9 [Source:HGNC Symbol;Acc:HGNC:1329]	3337	0.11549960821866989	0.44503382	Yes	
+row_9	FAM8A1	family with sequence similarity 8 member A1 [Source:HGNC Symbol;Acc:HGNC:16372]	5100	0.08601120859384537	0.3943062	Yes	
+row_10	PSMD8	proteasome 26S subunit, non-ATPase 8 [Source:HGNC Symbol;Acc:HGNC:9566]	5201	0.08447176963090897	0.42495558	Yes	
+row_11	PITRM1	pitrilysin metallopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:17663]	5677	0.07832778990268707	0.4345092	Yes	
+row_12	ETFA	electron transfer flavoprotein subunit alpha [Source:HGNC Symbol;Acc:HGNC:3481]	5756	0.07724257558584213	0.46319893	Yes	
+row_13	GGCX	gamma-glutamyl carboxylase [Source:HGNC Symbol;Acc:HGNC:4247]	5786	0.07688655704259872	0.49415705	Yes	
+row_14	YIF1A	Yip1 interacting factor homolog A, membrane trafficking protein [Source:HGNC Symbol;Acc:HGNC:16688]	6214	0.07156466692686081	0.5032306	Yes	
+row_15	PMPCB	peptidase, mitochondrial processing subunit beta [Source:HGNC Symbol;Acc:HGNC:9119]	6906	0.06329841911792755	0.4957925	No	
+row_16	FASTKD5	FAST kinase domains 5 [Source:HGNC Symbol;Acc:HGNC:25790]	7611	0.05605337768793106	0.4846608	No	
+row_17	REEP6	receptor accessory protein 6 [Source:HGNC Symbol;Acc:HGNC:30078]	8084	0.051080357283353806	0.48288414	No	
+row_18	TUBGCP2	tubulin gamma complex associated protein 2 [Source:HGNC Symbol;Acc:HGNC:18599]	8175	0.05029603838920593	0.49963012	No	
+row_19	TARS2	threonyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:30740]	9393	0.038536686450242996	0.45580098	No	
+row_20	AAR2	AAR2 splicing factor [Source:HGNC Symbol;Acc:HGNC:15886]	10333	0.029264278709888458	0.42178598	No	
+row_21	COQ8B	coenzyme Q8B [Source:HGNC Symbol;Acc:HGNC:19041]	10969	0.023160556331276894	0.4002032	No	
+row_22	PMPCA	peptidase, mitochondrial processing subunit alpha [Source:HGNC Symbol;Acc:HGNC:18667]	11306	0.020136024802923203	0.39210296	No	
+row_23	INTS4	integrator complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:25048]	11547	0.017992541193962097	0.38783768	No	
+row_24	TUBGCP3	tubulin gamma complex associated protein 3 [Source:HGNC Symbol;Acc:HGNC:18598]	12902	0.00532166101038456	0.3232549	No	
+row_25	AKAP8L	A-kinase anchoring protein 8 like [Source:HGNC Symbol;Acc:HGNC:29857]	13535	-5.66771428566426E-4	0.29230228	No	
+row_26	SLC25A21	solute carrier family 25 member 21 [Source:HGNC Symbol;Acc:HGNC:14411]	16682	-0.026820186525583267	0.14833458	No	
+row_27	SAAL1	serum amyloid A like 1 [Source:HGNC Symbol;Acc:HGNC:25158]	17132	-0.0314004048705101	0.13940266	No	
+row_28	BZW2	basic leucine zipper and W2 domains 2 [Source:HGNC Symbol;Acc:HGNC:18808]	17767	-0.03894554823637009	0.12451882	No	

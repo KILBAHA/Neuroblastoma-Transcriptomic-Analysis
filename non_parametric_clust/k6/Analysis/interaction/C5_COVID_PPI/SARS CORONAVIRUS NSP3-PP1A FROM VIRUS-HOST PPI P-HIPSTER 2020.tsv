@@ -1,0 +1,116 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PAICS	phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccinocarboxamide synthase [Source:HGNC Symbol;Acc:HGNC:8587]	196	0.3316677212715149	0.02098513	No	
+row_1	UHRF1	ubiquitin like with PHD and ring finger domains 1 [Source:HGNC Symbol;Acc:HGNC:12556]	425	0.2603205740451813	0.03378022	No	
+row_2	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	473	0.24945107102394104	0.054540273	No	
+row_3	FRMD4B	FERM domain containing 4B [Source:HGNC Symbol;Acc:HGNC:24886]	862	0.19858556985855103	0.05369087	No	
+row_4	RBL1	RB transcriptional corepressor like 1 [Source:HGNC Symbol;Acc:HGNC:9893]	1113	0.17781966924667358	0.057759155	No	
+row_5	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	1258	0.16660182178020477	0.06604287	No	
+row_6	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	1814	0.13496892154216766	0.051027857	No	
+row_7	ZFAND4	zinc finger AN1-type containing 4 [Source:HGNC Symbol;Acc:HGNC:23504]	1919	0.12948019802570343	0.05785809	No	
+row_8	EPB41L5	erythrocyte membrane protein band 4.1 like 5 [Source:HGNC Symbol;Acc:HGNC:19819]	2287	0.11439710110425949	0.050256923	No	
+row_9	SUMO1	small ubiquitin like modifier 1 [Source:HGNC Symbol;Acc:HGNC:12502]	2387	0.11096394807100296	0.055621084	No	
+row_10	SUMO2	small ubiquitin like modifier 2 [Source:HGNC Symbol;Acc:HGNC:11125]	2576	0.10462487488985062	0.055987313	No	
+row_11	UIMC1	ubiquitin interaction motif containing 1 [Source:HGNC Symbol;Acc:HGNC:30298]	2861	0.09587540477514267	0.05078555	No	
+row_12	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1 [Source:HGNC Symbol;Acc:HGNC:12458]	3572	0.07752731442451477	0.022771263	No	
+row_13	FERMT2	fermitin family member 2 [Source:HGNC Symbol;Acc:HGNC:15767]	3595	0.07694176584482193	0.0288027	No	
+row_14	SUMO3	small ubiquitin like modifier 3 [Source:HGNC Symbol;Acc:HGNC:11124]	4112	0.06600292026996613	0.009337086	No	
+row_15	NF2	neurofibromin 2 [Source:HGNC Symbol;Acc:HGNC:7773]	4146	0.06527608633041382	0.013743528	No	
+row_16	FAU	FAU ubiquitin like and ribosomal protein S30 fusion [Source:HGNC Symbol;Acc:HGNC:3597]	4258	0.06265532225370407	0.014041409	No	
+row_17	UBL5	ubiquitin like 5 [Source:HGNC Symbol;Acc:HGNC:13736]	4319	0.06135747954249382	0.016746916	No	
+row_18	RNF2	ring finger protein 2 [Source:HGNC Symbol;Acc:HGNC:10061]	4469	0.05851764231920242	0.014778381	No	
+row_19	PTK2	protein tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:9611]	5043	0.047474198043346405	-0.009227417	No	
+row_20	UBTD2	ubiquitin domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24463]	5055	0.047300901263952255	-0.00539438	No	
+row_21	PTPN4	protein tyrosine phosphatase non-receptor type 4 [Source:HGNC Symbol;Acc:HGNC:9656]	5312	0.04307190328836441	-0.014095925	No	
+row_22	UBQLN4	ubiquilin 4 [Source:HGNC Symbol;Acc:HGNC:1237]	5360	0.04206868261098862	-0.012531487	No	
+row_23	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	5613	0.03824004903435707	-0.02148202	No	
+row_24	UBQLN2	ubiquilin 2 [Source:HGNC Symbol;Acc:HGNC:12509]	5624	0.0379951186478138	-0.018460777	No	
+row_25	UHRF2	ubiquitin like with PHD and ring finger domains 2 [Source:HGNC Symbol;Acc:HGNC:12557]	5630	0.037913233041763306	-0.0151992915	No	
+row_26	RAD23A	RAD23 homolog A, nucleotide excision repair protein [Source:HGNC Symbol;Acc:HGNC:9812]	5830	0.034760113805532455	-0.02184505	No	
+row_27	ATXN3	ataxin 3 [Source:HGNC Symbol;Acc:HGNC:7106]	5840	0.034625887870788574	-0.019086102	No	
+row_28	ARHGEF4	Rho guanine nucleotide exchange factor 4 [Source:HGNC Symbol;Acc:HGNC:684]	5915	0.03351615369319916	-0.019651523	No	
+row_29	RAD23B	RAD23 homolog B, nucleotide excision repair protein [Source:HGNC Symbol;Acc:HGNC:9813]	6024	0.0318571999669075	-0.022055669	No	
+row_30	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	6164	0.029826700687408447	-0.02618424	No	
+row_31	UBFD1	ubiquitin family domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30565]	6397	0.026553595438599586	-0.035225213	No	
+row_32	NEDD8	NEDD8 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:7732]	6581	0.024274395778775215	-0.04204852	No	
+row_33	NFATC2IP	nuclear factor of activated T cells 2 interacting protein [Source:HGNC Symbol;Acc:HGNC:25906]	7058	0.017448266968131065	-0.06402587	No	
+row_34	UBXN1	UBX domain protein 1 [Source:HGNC Symbol;Acc:HGNC:18402]	7558	0.011026348918676376	-0.08773761	No	
+row_35	UBXN6	UBX domain protein 6 [Source:HGNC Symbol;Acc:HGNC:14928]	7627	0.0102164875715971	-0.0901623	No	
+row_36	PSMD4	proteasome 26S subunit, non-ATPase 4 [Source:HGNC Symbol;Acc:HGNC:9561]	7674	0.009577282704412937	-0.09155575	No	
+row_37	SAP18	Sin3A associated protein 18 [Source:HGNC Symbol;Acc:HGNC:10530]	7705	0.009279984049499035	-0.092183694	No	
+row_38	EPB41	erythrocyte membrane protein band 4.1 [Source:HGNC Symbol;Acc:HGNC:3377]	7803	0.008125166408717632	-0.09623931	No	
+row_39	SDE2	SDE2 telomere maintenance homolog [Source:HGNC Symbol;Acc:HGNC:26643]	7821	0.007897963747382164	-0.09635085	No	
+row_40	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	7945	0.006527135148644447	-0.10184304	No	
+row_41	UBQLN1	ubiquilin 1 [Source:HGNC Symbol;Acc:HGNC:12508]	8187	0.003867679974064231	-0.11342993	No	
+row_42	ASPSCR1	ASPSCR1 tether for SLC2A4, UBX domain containing [Source:HGNC Symbol;Acc:HGNC:13825]	8642	-0.0010695133823901415	-0.1358329	No	
+row_43	BAG6	BAG cochaperone 6 [Source:HGNC Symbol;Acc:HGNC:13919]	9241	-0.00666813412681222	-0.16485487	No	
+row_44	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	9369	-0.007979530841112137	-0.17041089	No	
+row_45	SF3A1	splicing factor 3a subunit 1 [Source:HGNC Symbol;Acc:HGNC:10765]	9551	-0.009390021674335003	-0.17851278	No	
+row_46	USP11	ubiquitin specific peptidase 11 [Source:HGNC Symbol;Acc:HGNC:12609]	10063	-0.013616170734167099	-0.20257957	No	
+row_47	VCP	valosin containing protein [Source:HGNC Symbol;Acc:HGNC:12666]	10235	-0.01495384331792593	-0.20967084	No	
+row_48	RBL2	RB transcriptional corepressor like 2 [Source:HGNC Symbol;Acc:HGNC:9894]	10311	-0.01556206215173006	-0.21194768	No	
+row_49	PTPN21	protein tyrosine phosphatase non-receptor type 21 [Source:HGNC Symbol;Acc:HGNC:9651]	10618	-0.01780541054904461	-0.22546612	No	
+row_50	SHARPIN	SHANK associated RH domain interactor [Source:HGNC Symbol;Acc:HGNC:25321]	11392	-0.02371041662991047	-0.2615843	No	
+row_51	FRMD1	FERM domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21240]	11483	-0.024347683414816856	-0.26379138	No	
+row_52	ANKUB1	ankyrin repeat and ubiquitin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29642]	11674	-0.02583741396665573	-0.27081698	No	
+row_53	HGS	hepatocyte growth factor-regulated tyrosine kinase substrate [Source:HGNC Symbol;Acc:HGNC:4897]	12031	-0.02860782854259014	-0.28581372	No	
+row_54	SNX31	sorting nexin 31 [Source:HGNC Symbol;Acc:HGNC:28605]	12666	-0.03369155526161194	-0.31411865	No	
+row_55	FRMD7	FERM domain containing 7 [Source:HGNC Symbol;Acc:HGNC:8079]	12694	-0.03388473764061928	-0.31232044	No	
+row_56	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	12770	-0.03452172875404358	-0.31284237	No	
+row_57	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	12816	-0.03482828661799431	-0.31184897	No	
+row_58	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	12845	-0.03509625419974327	-0.3099882	No	
+row_59	DDI1	DNA damage inducible 1 homolog 1 [Source:HGNC Symbol;Acc:HGNC:18961]	12895	-0.03550846502184868	-0.3091301	No	
+row_60	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	13043	-0.036834776401519775	-0.31300652	No	
+row_61	RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	13090	-0.03731906786561012	-0.31183216	No	
+row_62	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	13173	-0.038187962025403976	-0.31236166	No	
+row_63	UBQLN3	ubiquilin 3 [Source:HGNC Symbol;Acc:HGNC:12510]	13852	-0.044456981122493744	-0.34185094	No	
+row_64	TMUB1	transmembrane and ubiquitin like domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21709]	13880	-0.04478605464100838	-0.3390437	No	
+row_65	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	14557	-0.05214140936732292	-0.36772257	No	
+row_66	FRMPD4	FERM and PDZ domain containing 4 [Source:HGNC Symbol;Acc:HGNC:29007]	14862	-0.05592974275350571	-0.37761304	No	
+row_67	GABARAPL2	GABA type A receptor associated protein like 2 [Source:HGNC Symbol;Acc:HGNC:13291]	14872	-0.05602245777845383	-0.37287357	No	
+row_68	RBCK1	RANBP2-type and C3HC4-type zinc finger containing 1 [Source:HGNC Symbol;Acc:HGNC:15864]	15078	-0.05918549373745918	-0.37755588	No	
+row_69	BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	15524	-0.06642581522464752	-0.3934633	Yes	
+row_70	UBTD1	ubiquitin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25683]	15583	-0.06738080829381943	-0.39010116	Yes	
+row_71	FAF1	Fas associated factor 1 [Source:HGNC Symbol;Acc:HGNC:3578]	15610	-0.06786470860242844	-0.38510817	Yes	
+row_72	ESR1	estrogen receptor 1 [Source:HGNC Symbol;Acc:HGNC:3467]	15711	-0.06959497928619385	-0.38362274	Yes	
+row_73	UBL4B	ubiquitin like 4B [Source:HGNC Symbol;Acc:HGNC:32309]	15714	-0.06966981291770935	-0.3772731	Yes	
+row_74	HERPUD2	HERPUD family member 2 [Source:HGNC Symbol;Acc:HGNC:21915]	15753	-0.07041221112012863	-0.3726391	Yes	
+row_75	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	15837	-0.0721258893609047	-0.3700768	Yes	
+row_76	DDI2	DNA damage inducible 1 homolog 2 [Source:HGNC Symbol;Acc:HGNC:24578]	15891	-0.07302871346473694	-0.36594406	Yes	
+row_77	NUB1	negative regulator of ubiquitin like proteins 1 [Source:HGNC Symbol;Acc:HGNC:17623]	15918	-0.0734747052192688	-0.3604318	Yes	
+row_78	USP15	ubiquitin specific peptidase 15 [Source:HGNC Symbol;Acc:HGNC:12613]	15946	-0.07394593209028244	-0.35492548	Yes	
+row_79	FRMPD3	FERM and PDZ domain containing 3 [Source:HGNC Symbol;Acc:HGNC:29382]	15973	-0.07426530867815018	-0.34934002	Yes	
+row_80	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	16130	-0.07695553451776505	-0.34994888	Yes	
+row_81	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	16228	-0.07869521528482437	-0.34747243	Yes	
+row_82	PRKCZ	protein kinase C zeta [Source:HGNC Symbol;Acc:HGNC:9412]	16381	-0.08182759582996368	-0.34743205	Yes	
+row_83	USP48	ubiquitin specific peptidase 48 [Source:HGNC Symbol;Acc:HGNC:18533]	16383	-0.08186384290456772	-0.33990416	Yes	
+row_84	NPLOC4	NPL4 homolog, ubiquitin recognition factor [Source:HGNC Symbol;Acc:HGNC:18261]	16421	-0.08280086517333984	-0.33407387	Yes	
+row_85	FRMD8	FERM domain containing 8 [Source:HGNC Symbol;Acc:HGNC:25462]	16537	-0.08522477000951767	-0.3318852	Yes	
+row_86	HERPUD1	homocysteine inducible ER protein with ubiquitin like domain 1 [Source:HGNC Symbol;Acc:HGNC:13744]	17295	-0.10509973764419556	-0.35967684	Yes	
+row_87	FRMD3	FERM domain containing 3 [Source:HGNC Symbol;Acc:HGNC:24125]	17346	-0.10671219974756241	-0.35227758	Yes	
+row_88	CD8A	CD8a molecule [Source:HGNC Symbol;Acc:HGNC:1706]	17419	-0.10867632180452347	-0.34578693	Yes	
+row_89	UBQLNL	ubiquilin like [Source:HGNC Symbol;Acc:HGNC:28294]	17431	-0.10897044837474823	-0.3362457	Yes	
+row_90	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	17485	-0.11073121428489685	-0.32862312	Yes	
+row_91	FRMD6	FERM domain containing 6 [Source:HGNC Symbol;Acc:HGNC:19839]	17741	-0.11998358368873596	-0.33015606	Yes	
+row_92	OASL	2'-5'-oligoadenylate synthetase like [Source:HGNC Symbol;Acc:HGNC:8090]	17760	-0.12059501558542252	-0.31988576	Yes	
+row_93	SQSTM1	sequestosome 1 [Source:HGNC Symbol;Acc:HGNC:11280]	17773	-0.12107712030410767	-0.30927345	Yes	
+row_94	TMUB2	transmembrane and ubiquitin like domain containing 2 [Source:HGNC Symbol;Acc:HGNC:28459]	17821	-0.12315984070301056	-0.30020308	Yes	
+row_95	EZR	ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	17943	-0.12874256074428558	-0.29428372	Yes	
+row_96	NBR1	NBR1 autophagy cargo receptor [Source:HGNC Symbol;Acc:HGNC:6746]	18103	-0.13576796650886536	-0.28959748	Yes	
+row_97	BAG3	BAG cochaperone 3 [Source:HGNC Symbol;Acc:HGNC:939]	18130	-0.13752420246601105	-0.2781567	Yes	
+row_98	JAK2	Janus kinase 2 [Source:HGNC Symbol;Acc:HGNC:6192]	18220	-0.1415594220161438	-0.26946494	Yes	
+row_99	PTPN14	protein tyrosine phosphatase non-receptor type 14 [Source:HGNC Symbol;Acc:HGNC:9647]	18391	-0.15093985199928284	-0.2639196	Yes	
+row_100	FERMT3	fermitin family member 3 [Source:HGNC Symbol;Acc:HGNC:23151]	18451	-0.1537487506866455	-0.25261265	Yes	
+row_101	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]	18542	-0.15907767415046692	-0.24234894	Yes	
+row_102	JAK1	Janus kinase 1 [Source:HGNC Symbol;Acc:HGNC:6190]	18776	-0.173141747713089	-0.23787107	Yes	
+row_103	LILRB1	leukocyte immunoglobulin like receptor B1 [Source:HGNC Symbol;Acc:HGNC:6605]	18994	-0.18833249807357788	-0.2311941	Yes	
+row_104	MSN	moesin [Source:HGNC Symbol;Acc:HGNC:7373]	19144	-0.20115865767002106	-0.21995956	Yes	
+row_105	EPB41L3	erythrocyte membrane protein band 4.1 like 3 [Source:HGNC Symbol;Acc:HGNC:3380]	19338	-0.22213497757911682	-0.20896424	Yes	
+row_106	EPS15	epidermal growth factor receptor pathway substrate 15 [Source:HGNC Symbol;Acc:HGNC:3419]	19346	-0.22319169342517853	-0.18865225	Yes	
+row_107	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	19357	-0.223912313580513	-0.16842224	Yes	
+row_108	EPB41L1	erythrocyte membrane protein band 4.1 like 1 [Source:HGNC Symbol;Acc:HGNC:3378]	19369	-0.22524993121623993	-0.14811799	Yes	
+row_109	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	19552	-0.2472543716430664	-0.13425238	Yes	
+row_110	IQUB	IQ motif and ubiquitin domain containing [Source:HGNC Symbol;Acc:HGNC:21995]	19620	-0.25738757848739624	-0.113749	Yes	
+row_111	ITGA4	integrin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6140]	19830	-0.2977708578109741	-0.09654574	Yes	
+row_112	TLN2	talin 2 [Source:HGNC Symbol;Acc:HGNC:15447]	19931	-0.3291283845901489	-0.07103752	Yes	
+row_113	UBD	ubiquitin D [Source:HGNC Symbol;Acc:HGNC:18795]	20180	-0.44158273935317993	-0.042455822	Yes	
+row_114	EPB41L4A	erythrocyte membrane protein band 4.1 like 4A [Source:HGNC Symbol;Acc:HGNC:13278]	20244	-0.5170423984527588	0.0022798467	Yes	

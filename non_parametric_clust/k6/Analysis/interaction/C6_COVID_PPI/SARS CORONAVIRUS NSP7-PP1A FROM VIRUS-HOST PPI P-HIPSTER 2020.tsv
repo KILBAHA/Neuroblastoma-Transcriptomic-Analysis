@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	63	0.29272571206092834	0.206732	Yes	
+row_1	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	1278	0.08663088083267212	0.20890684	Yes	
+row_2	KALRN	kalirin RhoGEF kinase [Source:HGNC Symbol;Acc:HGNC:4814]	1500	0.07930554449558258	0.25484815	Yes	
+row_3	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	3999	0.035442352294921875	0.15694587	No	
+row_4	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	4202	0.033252496272325516	0.17081173	No	
+row_5	BAIAP2L1	BAR/IMD domain containing adaptor protein 2 like 1 [Source:HGNC Symbol;Acc:HGNC:21649]	4346	0.031906940042972565	0.18662544	No	
+row_6	EZR	ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	4444	0.03098653070628643	0.20405005	No	
+row_7	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	5951	0.018733158707618713	0.143138	No	
+row_8	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	6405	0.015678294003009796	0.13201554	No	
+row_9	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	6669	0.014007837511599064	0.1290746	No	
+row_10	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	7122	0.011193192563951015	0.11478633	No	
+row_11	RAD23B	RAD23 homolog B, nucleotide excision repair protein [Source:HGNC Symbol;Acc:HGNC:9813]	8150	0.00515257753431797	0.06778395	No	
+row_12	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	8419	0.003624759381636977	0.057153042	No	
+row_13	PXN	paxillin [Source:HGNC Symbol;Acc:HGNC:9718]	9604	-0.0028896804433315992	7.784773E-4	No	
+row_14	ING5	inhibitor of growth family member 5 [Source:HGNC Symbol;Acc:HGNC:19421]	9751	-0.0036023929715156555	-0.0038461587	No	
+row_15	HBQ1	hemoglobin subunit theta 1 [Source:HGNC Symbol;Acc:HGNC:4833]	9885	-0.0041883718222379684	-0.0074090105	No	
+row_16	HBM	hemoglobin subunit mu [Source:HGNC Symbol;Acc:HGNC:4826]	10147	-0.005504307337105274	-0.016347019	No	
+row_17	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	10171	-0.005632312037050724	-0.013444822	No	
+row_18	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	11047	-0.010301098227500916	-0.04925324	No	
+row_19	ESR1	estrogen receptor 1 [Source:HGNC Symbol;Acc:HGNC:3467]	11087	-0.010533363558351994	-0.04362751	No	
+row_20	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	11173	-0.01095210574567318	-0.039972313	No	
+row_21	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	11193	-0.011053758673369884	-0.032986272	No	
+row_22	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	12179	-0.016409985721111298	-0.06984546	No	
+row_23	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	12202	-0.016563529148697853	-0.059057802	No	
+row_24	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	13719	-0.02560342475771904	-0.11553849	No	
+row_25	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	14726	-0.03262302652001381	-0.1418119	No	
+row_26	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	17046	-0.057947784662246704	-0.21474503	No	
+row_27	SPTB	spectrin beta, erythrocytic [Source:HGNC Symbol;Acc:HGNC:11274]	17850	-0.07253452390432358	-0.20238696	No	
+row_28	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	17924	-0.07419928163290024	-0.15280035	No	
+row_29	MSN	moesin [Source:HGNC Symbol;Acc:HGNC:7373]	18131	-0.07886069267988205	-0.10643749	No	
+row_30	SPTBN1	spectrin beta, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11275]	18776	-0.09713111817836761	-0.068598464	No	
+row_31	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	18795	-0.0977344885468483	5.7445775E-4	No	
+row_32	BAG3	BAG cochaperone 3 [Source:HGNC Symbol;Acc:HGNC:939]	18915	-0.10207666456699371	0.06787441	No	

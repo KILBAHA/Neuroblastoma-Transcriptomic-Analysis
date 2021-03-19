@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	3612	0.08414199203252792	-0.10616944	No	
+row_1	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	5329	0.05627002567052841	-0.14267005	No	
+row_2	ARHGEF4	Rho guanine nucleotide exchange factor 4 [Source:HGNC Symbol;Acc:HGNC:684]	6966	0.02697017975151539	-0.2002872	No	
+row_3	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	8296	0.003179818857461214	-0.26311275	No	
+row_4	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	10270	-0.03131081536412239	-0.3336377	Yes	
+row_5	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	10508	-0.03555097058415413	-0.31491733	Yes	
+row_6	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	11947	-0.06216105446219444	-0.33266816	Yes	
+row_7	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	12394	-0.07002291828393936	-0.29476938	Yes	
+row_8	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	12728	-0.07668215781450272	-0.24560142	Yes	
+row_9	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	12988	-0.08166734129190445	-0.18851967	Yes	
+row_10	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	13454	-0.09058886766433716	-0.13396654	Yes	
+row_11	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	14184	-0.10520992428064346	-0.079927385	Yes	
+row_12	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [Source:HGNC Symbol;Acc:HGNC:12851]	15068	-0.12365888059139252	-0.017702801	Yes	
+row_13	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	15765	-0.13862939178943634	0.06654978	Yes	
+row_14	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	17700	-0.1830456405878067	0.12773709	Yes	

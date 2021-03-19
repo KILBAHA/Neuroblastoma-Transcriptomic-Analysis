@@ -1,0 +1,34 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1616115005075
+param	zip_report	false
+param	num	100
+param	scoring_scheme	weighted
+param	norm	meandiv
+param	out	/home/yusuf/gsea_home/output/mar19
+param	mode	Max_probe
+param	include_only_symbols	true
+param	set_max	500
+param	gmx	/home/yusuf/Documents/GitHub/BioinfGroupProject/GSEA/COVID-19-ppi.gmt
+param	plot_top_x	200
+param	nperm	1000
+param	order	descending
+param	rpt_label	NPc3_CovPPI
+param	rnd_seed	149
+param	set_min	15
+param	res	/home/yusuf/Documents/GitHub/BioinfGroupProject/GSEA/expr2.gct
+param	chip	ftp.broadinstitute.org://pub/gsea/annotations_versioned/Human_NCBI_Entrez_Gene_ID_MSigDB.v7.2.chip
+param	create_svgs	false
+param	cls	/home/yusuf/gsea_home/output/mar19/C3_vs_Remaining.cls#C3_versus_Remaining
+param	sort	real
+param	create_gcts	false
+param	help	false
+param	save_rnd_lists	false
+param	median	false
+param	metric	Signal2Noise
+param	make_sets	true
+param	rnd_type	no_balance
+param	gui	false
+param	permute	phenotype
+param	collapse	Collapse
+
+file	/home/yusuf/gsea_home/output/mar19/NPc3_CovPPI.Gsea.1616115005075/index.html

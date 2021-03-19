@@ -1,0 +1,50 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HHEX	hematopoietically expressed homeobox [Source:HGNC Symbol;Acc:HGNC:4901]	419	0.476272314786911	0.060408067	Yes	
+row_1	PDLIM1	PDZ and LIM domain 1 [Source:HGNC Symbol;Acc:HGNC:2067]	553	0.43428024649620056	0.12779406	Yes	
+row_2	GPX3	glutathione peroxidase 3 [Source:HGNC Symbol;Acc:HGNC:4555]	820	0.36200693249702454	0.17630164	Yes	
+row_3	IPCEF1	interaction protein for cytohesin exchange factors 1 [Source:HGNC Symbol;Acc:HGNC:21204]	1012	0.3244529664516449	0.2221191	Yes	
+row_4	GLRX	glutaredoxin [Source:HGNC Symbol;Acc:HGNC:4330]	1071	0.3149588108062744	0.2728902	Yes	
+row_5	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	1114	0.30846089124679565	0.32334518	Yes	
+row_6	JUNB	JunB proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6205]	1149	0.30125972628593445	0.37296903	Yes	
+row_7	MGST1	microsomal glutathione S-transferase 1 [Source:HGNC Symbol;Acc:HGNC:7061]	1187	0.29469072818756104	0.421326	Yes	
+row_8	LSP1	lymphocyte specific protein 1 [Source:HGNC Symbol;Acc:HGNC:6707]	1216	0.2918025851249695	0.46963575	Yes	
+row_9	MBP	myelin basic protein [Source:HGNC Symbol;Acc:HGNC:6925]	1472	0.257290780544281	0.50085396	Yes	
+row_10	NQO1	NAD(P)H quinone dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:2874]	1872	0.21559695899486542	0.5178579	Yes	
+row_11	SOD2	superoxide dismutase 2 [Source:HGNC Symbol;Acc:HGNC:11180]	2249	0.18536491692066193	0.5308497	Yes	
+row_12	GCLM	glutamate-cysteine ligase modifier subunit [Source:HGNC Symbol;Acc:HGNC:4312]	2425	0.17292462289333344	0.5516528	Yes	
+row_13	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	2540	0.1657724231481552	0.5742515	Yes	
+row_14	FES	FES proto-oncogene, tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3657]	3228	0.1277354508638382	0.56206506	Yes	
+row_15	FTL	ferritin light chain [Source:HGNC Symbol;Acc:HGNC:3999]	3299	0.12431471794843674	0.5797773	Yes	
+row_16	SBNO2	strawberry notch homolog 2 [Source:HGNC Symbol;Acc:HGNC:29158]	3324	0.12349730730056763	0.5996228	Yes	
+row_17	ATOX1	antioxidant 1 copper chaperone [Source:HGNC Symbol;Acc:HGNC:798]	4136	0.09425858408212662	0.5756095	No	
+row_18	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	4166	0.09307342767715454	0.590027	No	
+row_19	MSRA	methionine sulfoxide reductase A [Source:HGNC Symbol;Acc:HGNC:7377]	5253	0.06569584459066391	0.5475639	No	
+row_20	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	5329	0.06439055502414703	0.55482423	No	
+row_21	SELENOS	selenoprotein S [Source:HGNC Symbol;Acc:HGNC:30396]	5341	0.06417975574731827	0.5652104	No	
+row_22	GCLC	glutamate-cysteine ligase catalytic subunit [Source:HGNC Symbol;Acc:HGNC:4311]	5788	0.056606195867061615	0.55281687	No	
+row_23	EGLN2	egl-9 family hypoxia inducible factor 2 [Source:HGNC Symbol;Acc:HGNC:14660]	5980	0.05349324271082878	0.5524908	No	
+row_24	PRDX6	peroxiredoxin 6 [Source:HGNC Symbol;Acc:HGNC:16753]	6092	0.05156715214252472	0.5557888	No	
+row_25	TXNRD2	thioredoxin reductase 2 [Source:HGNC Symbol;Acc:HGNC:18155]	6184	0.049833666533231735	0.55977976	No	
+row_26	LAMTOR5	late endosomal/lysosomal adaptor, MAPK and MTOR activator 5 [Source:HGNC Symbol;Acc:HGNC:17955]	6419	0.04648028314113617	0.55613506	No	
+row_27	HMOX2	heme oxygenase 2 [Source:HGNC Symbol;Acc:HGNC:5014]	7104	0.03757470101118088	0.5287428	No	
+row_28	TXN	thioredoxin [Source:HGNC Symbol;Acc:HGNC:12435]	7924	0.02779337950050831	0.49301547	No	
+row_29	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	8164	0.024912431836128235	0.48545086	No	
+row_30	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	8500	0.021356191486120224	0.472538	No	
+row_31	SRXN1	sulfiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:16132]	8569	0.0206226147711277	0.4726906	No	
+row_32	NDUFA6	NADH:ubiquinone oxidoreductase subunit A6 [Source:HGNC Symbol;Acc:HGNC:7690]	9046	0.01551198773086071	0.45181677	No	
+row_33	ABCC1	ATP binding cassette subfamily C member 1 [Source:HGNC Symbol;Acc:HGNC:51]	9060	0.015328704379498959	0.45378497	No	
+row_34	MPO	myeloperoxidase [Source:HGNC Symbol;Acc:HGNC:7218]	9571	0.01031133159995079	0.43034583	No	
+row_35	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	9822	0.007802165113389492	0.41932395	No	
+row_36	GLRX2	glutaredoxin 2 [Source:HGNC Symbol;Acc:HGNC:16065]	10019	0.006064766552299261	0.41067392	No	
+row_37	PTPA	protein phosphatase 2 phosphatase activator [Source:HGNC Symbol;Acc:HGNC:9308]	11294	-0.007374915760010481	0.3489914	No	
+row_38	NDUFB4	NADH:ubiquinone oxidoreductase subunit B4 [Source:HGNC Symbol;Acc:HGNC:7699]	11713	-0.012347067706286907	0.33044395	No	
+row_39	ERCC2	ERCC excision repair 2, TFIIH core complex helicase subunit [Source:HGNC Symbol;Acc:HGNC:3434]	11942	-0.015223086811602116	0.32177266	No	
+row_40	TXNRD1	thioredoxin reductase 1 [Source:HGNC Symbol;Acc:HGNC:12437]	12059	-0.016682172194123268	0.31888294	No	
+row_41	GSR	glutathione-disulfide reductase [Source:HGNC Symbol;Acc:HGNC:4623]	12144	-0.01759367622435093	0.3177293	No	
+row_42	CDKN2D	cyclin dependent kinase inhibitor 2D [Source:HGNC Symbol;Acc:HGNC:1790]	12361	-0.020197058096528053	0.3104979	No	
+row_43	OXSR1	oxidative stress responsive kinase 1 [Source:HGNC Symbol;Acc:HGNC:8508]	13049	-0.0291961207985878	0.28153056	No	
+row_44	SCAF4	SR-related CTD associated factor 4 [Source:HGNC Symbol;Acc:HGNC:19304]	15165	-0.0611804760992527	0.18746369	No	
+row_45	NDUFS2	NADH:ubiquinone oxidoreductase core subunit S2 [Source:HGNC Symbol;Acc:HGNC:7708]	16090	-0.07830270379781723	0.15515071	No	
+row_46	STK25	serine/threonine kinase 25 [Source:HGNC Symbol;Acc:HGNC:11404]	16629	-0.09055811166763306	0.14399405	No	
+row_47	PRDX2	peroxiredoxin 2 [Source:HGNC Symbol;Acc:HGNC:9353]	17185	-0.10596267133951187	0.1346209	No	
+row_48	PFKP	phosphofructokinase, platelet [Source:HGNC Symbol;Acc:HGNC:8878]	17306	-0.10994796454906464	0.14741641	No	
