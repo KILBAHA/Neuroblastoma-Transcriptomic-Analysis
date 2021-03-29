@@ -3,7 +3,7 @@ y = y$WCSS
 x = c(2:10)
 #y = c(955486.888094832,889707.495703698,843749.680404026,815371.073186371,788220.554284853,783514.149646629,763837.507496071,758439.367853814,743315.599335635)
 
-plot(x,y, type ='p', main = "Elbow Plot", xlab = "K", ylab = "WCSS")
+plot(x,y, type ='p', main = "Clustering Performance with \n Varying Cluster Centroid Numbers", xlab = "Number of Cluster Centroids (K)", ylab = "WCSS")
 
 model <- lm(y ~ x + I(x^2) + I(x^3))
 

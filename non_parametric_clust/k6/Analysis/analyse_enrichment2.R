@@ -140,7 +140,7 @@ all_overlap = function(set, clsts, pval=0.05, qval=0.25){ #Returns df containing
 
 ao_hall =all_overlap('Hallmark', clsts)
 ao_bp = all_overlap('GO_BP', clsts)
-ao_cov = all_overlap('COVID', clsts)
+ao_covpp = all_overlap('COVID_PPI', clsts)
 ao_cur = all_overlap('Curated', clsts)
 
 #find_overlap(get_sig('Hallmark', 6),get_sig('Hallmark', 8))
@@ -159,7 +159,7 @@ clsts = c(1:5)
 
 
 
-sets = c("Hallmark", "Curated", "COVID", "COVID_PPI", "GO_BP")
+sets = c("Hallmark", "COVID_PPI")
 
 for (set in sets){ #Iterate through each set, find all unique values for each cluster, write to a file in "Unique" folder
   fnm = paste("Unique/Unique_",set,".txt", sep = "")
