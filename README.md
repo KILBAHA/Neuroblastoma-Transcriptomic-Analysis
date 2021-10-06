@@ -1,2 +1,2 @@
-# Neuroblastoma Analysis Project
+# Neuroblastoma Transcriptomic Analysis Group Project
 Analysis of a large transcriptomic dataset to analyse the succeptiblity of Neuroblastoma cancer patients to a SARS-CoV-2 infection (COVID-19). This group project was conducted during our time in the MSc Bioinformatics and Theoretical Systems Biology programme at Imperial College London. The findings of this analysis lead to a journal publication in Biochemistry and Biophysics Reports which highlighted several prominent SARS-CoV-2 entry proteins as important prognostic markers in Neuroblastoma (https://doi.org/10.1016/j.bbrep.2021.101081). 
